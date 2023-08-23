@@ -1,0 +1,33 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -270,
+          -101
+        ]
+      }
+    },
+    "icon": {
+      "item": "minecraft:map",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "A Quest"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false
+  }
+}

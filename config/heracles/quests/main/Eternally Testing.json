@@ -1,0 +1,46 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "ette02": {
+      "entity": {
+        "type": "minecraft:piglin_brute"
+      },
+      "amount": 1,
+      "type": "heracles:kill_entity"
+    },
+    "ette01": {
+      "from": "minecraft:overworld",
+      "to": "minecraft:nether",
+      "type": "heracles:changed_dimension"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -248,
+          21
+        ]
+      }
+    },
+    "icon": {
+      "item": "minecraft:map",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Eternally Testing"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false
+  }
+}
