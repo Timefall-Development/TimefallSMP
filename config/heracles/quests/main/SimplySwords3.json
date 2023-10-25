@@ -1,0 +1,48 @@
+{
+  "dependencies": [
+    "SimplySwords2"
+  ],
+  "tasks": {
+    "simplyswords:brimstone_claymore": {
+      "type": "heracles:item",
+      "amount": 2,
+      "collection": "AUTOMATIC",
+      "item": "#simplyswords:swords"
+    }
+  },
+  "rewards": {
+    "ssword3_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 2",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -203,
+          -126
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:brimstone_claymore",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Find any 2 unique weapons"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "dependencies": [
+    "SimplySwords1"
+  ],
+  "tasks": {},
+  "rewards": {
+    "ssword2_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 1",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Main": {
+        "position": [
+          -252,
+          -127
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:runic_tablet",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Find a Runic Tablet"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

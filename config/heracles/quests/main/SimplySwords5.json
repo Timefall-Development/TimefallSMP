@@ -1,0 +1,48 @@
+{
+  "dependencies": [
+    "SimplySwords4"
+  ],
+  "tasks": {
+    "simplyswords:runefused_gem": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "simplyswords:runefused_gem"
+    }
+  },
+  "rewards": {
+    "ssword5_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 2",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Create a **/d/Runefused Gem/d/** by combining a **/b/Runic Tablet/b/**, an **/b/Empowered Remnant/b/** and a **/b/Crying Obsidian/b/** in a Smithing Table."
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -109,
+          -142
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:runefused_gem",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Make a runefused gem"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

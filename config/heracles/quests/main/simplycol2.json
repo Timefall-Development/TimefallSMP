@@ -1,0 +1,196 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "scol21": {
+      "advancements": [
+        "simplyswords:thunderbrand"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol22": {
+      "advancements": [
+        "simplyswords:longsword_plague"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol23": {
+      "advancements": [
+        "simplyswords:twisted_blade"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol24": {
+      "advancements": [
+        "simplyswords:watching_warglaive"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol20": {
+      "advancements": [
+        "simplyswords:sword_on_a_stick"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol25": {
+      "advancements": [
+        "simplyswords:the_watcher"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol26": {
+      "advancements": [
+        "simplyswords:whisperwind"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol4": {
+      "advancements": [
+        "simplyswords:dormant_relic"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol3": {
+      "advancements": [
+        "simplyswords:brimstone"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol2": {
+      "advancements": [
+        "simplyswords:bramblethorn"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol1": {
+      "advancements": [
+        "simplyswords:arcanethyst"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol8": {
+      "advancements": [
+        "simplyswords:icewhisper"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol10": {
+      "advancements": [
+        "simplyswords:mjolnir"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol7": {
+      "advancements": [
+        "simplyswords:hearthflame"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol11": {
+      "advancements": [
+        "simplyswords:molten_edge"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol6": {
+      "advancements": [
+        "simplyswords:frostfall"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol12": {
+      "advancements": [
+        "simplyswords:shadowsting"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol5": {
+      "advancements": [
+        "simplyswords:emberblade"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol13": {
+      "advancements": [
+        "simplyswords:slumbering_lichblade"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol9": {
+      "advancements": [
+        "simplyswords:livyatan"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol18": {
+      "advancements": [
+        "simplyswords:stormbringer"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol19": {
+      "advancements": [
+        "simplyswords:storms_edge"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol14": {
+      "advancements": [
+        "simplyswords:soulkeeper"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol15": {
+      "advancements": [
+        "simplyswords:soulpyre"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol16": {
+      "advancements": [
+        "simplyswords:soulrender"
+      ],
+      "type": "heracles:advancement"
+    },
+    "scol17": {
+      "advancements": [
+        "simplyswords:soulstealer"
+      ],
+      "type": "heracles:advancement"
+    }
+  },
+  "rewards": {
+    "simplycol_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 5",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Collect **/9/all/9/** unique weapons!"
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -300,
+          -64
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:sword_on_a_stick",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Gotta Swing Them All"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": true
+  }
+}
