@@ -1,0 +1,44 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_mcdw_gauntlet_interaction": {
+      "item": "mcdw:gauntlet_gauntlet",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_gauntlet_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 4",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          -314,
+          -55
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:gauntlet_gauntlet",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft some Gauntlets"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:ball_lightning",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 80,
+  "coolDownPerLvl": 0,
+  "manaCost": 25,
+  "minLvl": 14,
+  "castXp": 3
+}

@@ -1,0 +1,59 @@
+{
+  "forcePvpOnAllSpells": false,
+  "unhallowed": {
+    "baseLifespan": 2400,
+    "baseHealth": 20.0,
+    "baseDamage": 3.0
+  },
+  "crystalGolem": {
+    "spellBaseLifespan": 5500,
+    "spellPerLvlLifespan": 500,
+    "guardianLifespan": 900,
+    "baseHealth": 180.0,
+    "baseDamage": 20.0
+  },
+  "hamster": {
+    "baseLifespan": 3600,
+    "baseHealth": 8.0,
+    "baseSummonDamage": 1.0,
+    "baseHamptertimeDamage": 2.0,
+    "perLvlDamage": 0.1,
+    "hamptertimeBaseSpawnCount": 10.0,
+    "hamptertimePerLvlSpawnCount": 0.5
+  },
+  "bonestorm": {
+    "baseLifespan": 2160,
+    "perLvlLifespan": 240,
+    "baseHealth": 24.0,
+    "baseDamage": 4.5,
+    "perLvlDamage": 0.25
+  },
+  "cholem": {
+    "baseLifespan": 3600,
+    "baseHealth": 80.0,
+    "baseArmor": 4.0,
+    "baseDamage": 10.0,
+    "enragedDamage": 4.0
+  },
+  "chorse": {
+    "baseHealth": 80.0,
+    "baseJumpStrength": 0.93,
+    "baseMoveSpeed": 0.275
+  },
+  "sardonyxFragment": {
+    "baseHealth": 60.0,
+    "baseArmor": 8.0,
+    "baseDamage": 9.0,
+    "enragedDamage": 6.0
+  },
+  "sardonyxElemental": {
+    "baseHealth": 512.0,
+    "baseArmor": 14.0,
+    "baseDamage": 28.0,
+    "projectileDamage": 20.0,
+    "fragmentsSpawned": 3,
+    "devastationBeamDmg": 350.0,
+    "spellActivationCooldown": 600,
+    "amountHealedPerSecond": 0.2
+  }
+}

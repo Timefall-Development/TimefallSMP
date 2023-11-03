@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:regenerate",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 835,
+  "coolDownPerLvl": -5,
+  "manaCost": 60,
+  "minLvl": 1,
+  "castXp": 15
+}

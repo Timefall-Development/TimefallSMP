@@ -1,0 +1,44 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_mcdw_dagger_interaction": {
+      "item": "mcdw:dagger_dagger",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_dagger_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 4",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          116,
+          -181
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:dagger_dagger",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Dagger"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

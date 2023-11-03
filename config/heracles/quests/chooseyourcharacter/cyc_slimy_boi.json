@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cyc_slimy_boi_check": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "cyc_slimy_boi_reward": {
+      "command": "walkers switchShape @s minecraft:slime",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Boing...boing...boing...I SAID BOING!"
+    },
+    "description": [],
+    "groups": {
+      "Choose Your Character": {
+        "position": [
+          -64,
+          -164
+        ]
+      }
+    },
+    "icon": {
+      "item": "plushies:slime_plushie",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Slimy Boi"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

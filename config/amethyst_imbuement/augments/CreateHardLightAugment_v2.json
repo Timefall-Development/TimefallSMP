@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:create_hard_light",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 7,
+  "coolDownPerLvl": 0,
+  "manaCost": 4,
+  "minLvl": 5,
+  "castXp": 1
+}

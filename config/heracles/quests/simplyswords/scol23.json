@@ -1,0 +1,46 @@
+{
+  "dependencies": [],
+  "tasks": {
+	  "scol23": {
+      "advancements": [
+        "simplyswords:twisted_blade"
+      ],
+      "type": "heracles:advancement"
+    }
+	},
+  "rewards": {
+    "simplycol_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+	},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+	"Find the Twisted Blade"
+	],
+    "groups": {
+      "Simply Swords": {
+        "position": [
+          -96,
+          -72
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:twisted_blade",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find the Twisted Blade"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

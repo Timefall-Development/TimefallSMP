@@ -1,0 +1,44 @@
+{
+  "hardLight": {
+    "bridgeTemporary": false,
+    "createTemporary": false,
+    "temporaryDuration": 600
+  },
+  "xpBush": {
+    "bonemealChance": 0.4,
+    "growChance": 0.15
+  },
+  "disenchanter": {
+    "levelCosts": [
+      11,
+      17,
+      24,
+      33,
+      44
+    ],
+    "baseDisenchantsAllowed": 1
+  },
+  "imbuing": {
+    "enchantingEnabled": true,
+    "replaceEnchantingTable": false,
+    "difficultyModifier": 1.0,
+    "easyMagic": {
+      "matchEasyMagicBehavior": true,
+      "rerollEnabled": true,
+      "levelCost": 5,
+      "lapisCost": 1,
+      "showTooltip": true,
+      "singleEnchantTooltip": true
+    },
+    "reroll": {
+      "matchRerollBehavior": true,
+      "levelCost": 1,
+      "lapisCost": 0
+    }
+  },
+  "altar": {
+    "baseLevels": 35,
+    "candleLevelsPer": 5,
+    "customXpMethod": true
+  }
+}

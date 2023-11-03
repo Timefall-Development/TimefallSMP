@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:hard_light_bridge",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 8,
+  "coolDownPerLvl": 0,
+  "manaCost": 2,
+  "minLvl": 9,
+  "castXp": 1
+}

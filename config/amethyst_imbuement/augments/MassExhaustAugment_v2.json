@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:mass_exhaust",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 450,
+  "coolDownPerLvl": -50,
+  "manaCost": 80,
+  "minLvl": 16,
+  "castXp": 13
+}

@@ -1,0 +1,42 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_novice_wand_interaction": {
+      "item": "wizards:novice_wand",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_novice_wand_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 2",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          100,
+          -110
+        ]
+      }
+    },
+    "icon": {
+      "item": "wizards:wand_novice",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Novice Wand"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

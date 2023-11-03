@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:summon_zombie",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 1295,
+  "coolDownPerLvl": -15,
+  "manaCost": 150,
+  "minLvl": 11,
+  "castXp": 40
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": [
+    "q_mcdw_resolute_tempest_knife"
+  ],
+  "tasks": {
+    "q_mcdw_chill_gale_knife_interaction": {
+      "item": "mcdw:dagger_chill_gale_knife",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_chill_gale_knife_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 12",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "The soul of the Howling Peaks in the palm of your hand.",
+      "<br/>",
+      "",
+      "- Infuse the Resolute Tempest Knife with the cold permanence of diamond and the innate magic of gold.",
+      "<br/>",
+      "Remember: If you are unsure of how to craft something, you can always use the search bar provided by EMI at the bottom of your inventory screen to find the recipe."
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          226,
+          -181
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:dagger_chill_gale_knife",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Chill Gale Knife"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

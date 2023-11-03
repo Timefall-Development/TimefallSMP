@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:levitating_bullet",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 80,
+  "coolDownPerLvl": 0,
+  "manaCost": 20,
+  "minLvl": 18,
+  "castXp": 2
+}

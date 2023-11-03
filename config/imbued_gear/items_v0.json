@@ -1,0 +1,19 @@
+{
+  "ensouledTarget": 32,
+  "lootChanceMultiplier": 1.0,
+  "boneRattle": {
+    "duplicationChance": 0.25,
+    "duplicationDamage": 20,
+    "repairTime": 200
+  },
+  "ringOfSouls": {
+    "maxTier": 10,
+    "baseKillsPerTier": 250,
+    "killTierMultiplier": 2.0
+  },
+  "crownOfSorrows": {
+    "activeDuration": 400,
+    "defense50Percent": 10000,
+    "regret50Percent": 25000
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:magnetic_aura",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 400,
+  "coolDownPerLvl": 0,
+  "manaCost": 60,
+  "minLvl": 7,
+  "castXp": 20
+}

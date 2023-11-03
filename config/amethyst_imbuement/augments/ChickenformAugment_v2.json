@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:chickenform",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 720,
+  "coolDownPerLvl": -20,
+  "manaCost": 65,
+  "minLvl": 7,
+  "castXp": 10
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": [],
+  "tasks": {
+	  "scol12": {
+      "advancements": [
+        "simplyswords:shadowsting"
+      ],
+      "type": "heracles:advancement"
+    }
+	},
+  "rewards": {
+    "simplycol_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+	},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+	"Find the Shadowsting"
+	],
+    "groups": {
+      "Simply Swords": {
+        "position": [
+          -19,
+          -61
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:shadowsting",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find the Shadowsting"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

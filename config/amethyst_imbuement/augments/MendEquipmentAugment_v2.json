@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:mend_equipment",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 16,
+  "coolDownPerLvl": 0,
+  "manaCost": 8,
+  "minLvl": 8,
+  "castXp": 1
+}

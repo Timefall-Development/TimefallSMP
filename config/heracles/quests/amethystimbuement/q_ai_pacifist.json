@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_ai_grace_1"
+  ],
+  "tasks": {
+    "q_ai_pacifist_interaction": {
+      "item": "amethyst_imbuement:scepter_of_the_pacifist",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_ai_pacifist_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 20",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Amethyst Imbuement": {
+        "position": [
+          -275,
+          -30
+        ]
+      }
+    },
+    "icon": {
+      "item": "amethyst_imbuement:scepter_of_the_pacifist",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft the Scepter of Pacifist"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

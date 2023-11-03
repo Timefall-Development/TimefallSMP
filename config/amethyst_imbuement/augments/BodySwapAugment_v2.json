@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:body_swap",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 600,
+  "coolDownPerLvl": 0,
+  "manaCost": 125,
+  "minLvl": 19,
+  "castXp": 40
+}

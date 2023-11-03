@@ -1,0 +1,46 @@
+{
+  "dependencies": [],
+  "tasks": {
+	  "scol16": {
+      "advancements": [
+        "simplyswords:soulrender"
+      ],
+      "type": "heracles:advancement"
+    }
+	},
+  "rewards": {
+    "simplycol_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+	},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+	"Find the Soulrender"
+	],
+    "groups": {
+      "Simply Swords": {
+        "position": [
+          -27,
+          85
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:soulrender",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find the Soulrender"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

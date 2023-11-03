@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:mass_fortify",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 1200,
+  "coolDownPerLvl": 0,
+  "manaCost": 275,
+  "minLvl": 22,
+  "castXp": 35
+}

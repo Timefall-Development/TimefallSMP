@@ -1,0 +1,46 @@
+{
+  "dependencies": [],
+  "tasks": {
+	  "scol8": {
+      "advancements": [
+        "simplyswords:icewhisper"
+      ],
+      "type": "heracles:advancement"
+    }
+	},
+  "rewards": {
+    "simplycol_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+	},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+	"Find Icewhisper"
+	],
+    "groups": {
+      "Simply Swords": {
+        "position": [
+          64,
+          47
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:icewhisper",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Icewhisper"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

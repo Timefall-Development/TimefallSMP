@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cyc_fennec_check": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "cyc_fennec_reward": {
+      "command": "walkers switchShape @s fennecfox:fennecfox",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Ring-ding-ding-ding-dingeringeding!"
+    },
+    "description": [],
+    "groups": {
+      "Choose Your Character": {
+        "position": [
+          -16,
+          -164
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplehats:foxhat",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Fennec"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

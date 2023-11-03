@@ -1,0 +1,48 @@
+{
+  "dependencies": [
+    "q_ai_fury_1"
+  ],
+  "tasks": {
+    "q_ai_sparking_interaction": {
+      "item": "amethyst_imbuement:sparking_scepter",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_ai_sparking_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 20",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "- Right click with the crafted item in your hand to trigger the quest completion",
+      "<br/>",
+      "Remember: If you are unsure of how to craft something, you can always use the search bar provided by EMI at the bottom of your inventory screen to find the recipe."
+    ],
+    "groups": {
+      "Amethyst Imbuement": {
+        "position": [
+          18,
+          -115
+        ]
+      }
+    },
+    "icon": {
+      "item": "amethyst_imbuement:sparking_scepter",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft the Sparking Scepter"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

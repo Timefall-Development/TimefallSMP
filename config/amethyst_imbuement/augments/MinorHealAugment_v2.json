@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:minor_heal",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 130,
+  "coolDownPerLvl": -10,
+  "manaCost": 12,
+  "minLvl": 1,
+  "castXp": 5
+}

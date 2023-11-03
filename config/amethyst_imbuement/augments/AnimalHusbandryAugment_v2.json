@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:animal_husbandry",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 80,
+  "coolDownPerLvl": 0,
+  "manaCost": 16,
+  "minLvl": 7,
+  "castXp": 4
+}

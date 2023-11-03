@@ -1,0 +1,46 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_mcdw_hammer_interaction": {
+      "item": "mcdw:hammer_great_hammer",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_hammer_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 4",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "- Right click with the crafted item in your hand to trigger the quest completion",
+      "<br/>",
+      "Remember: If you are unsure of how to craft something, you can always use the search bar provided by EMI at the bottom of your inventory screen to find the recipe."
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          293,
+          -55
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:hammer_great_hammer",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Hammer"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

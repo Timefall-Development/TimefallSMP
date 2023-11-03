@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:excavate",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 8,
+  "coolDownPerLvl": 0,
+  "manaCost": 6,
+  "minLvl": 1,
+  "castXp": 1
+}

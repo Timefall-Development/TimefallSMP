@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_ai_grace_1"
+  ],
+  "tasks": {
+    "q_ai_harvests_interaction": {
+      "item": "amethyst_imbuement:scepter_of_harvests",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_ai_harvests_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 20",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Amethyst Imbuement": {
+        "position": [
+          -200,
+          -140
+        ]
+      }
+    },
+    "icon": {
+      "item": "amethyst_imbuement:scepter_of_harvests",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft the Scepter of Harvests"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

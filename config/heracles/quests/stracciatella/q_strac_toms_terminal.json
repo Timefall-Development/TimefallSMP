@@ -1,0 +1,47 @@
+{
+  "dependencies": [
+    "q_strac_toms_connector"
+  ],
+  "tasks": {
+    "q_strac_storage_terminal_interaction": {
+      "block": "toms_storage:ts.storage_terminal",
+      "state": {},
+      "type": "heracles:block_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_storage_terminal_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 4",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          140,
+          -60
+        ]
+      }
+    },
+    "icon": {
+      "item": "toms_storage:ts.storage_terminal",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Storage Terminal"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": [
+    "q_mcdw_void_touched_blade"
+  ],
+  "tasks": {
+    "q_mcdw_the_beginning_2": {
+      "item": "mcdw:dagger_the_beginning",
+      "type": "heracles:item_interaction"
+    },
+    "q_mcdw_the_beginning_1": {
+      "from": "minecraft:overworld",
+      "to": "minecraft:the_end",
+      "type": "heracles:changed_dimension"
+    }
+  },
+  "rewards": {
+    "q_mcdw_the_beginning_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 32",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          327,
+          -216
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:dagger_the_beginning",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft The Beginning"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

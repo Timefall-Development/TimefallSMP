@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:summon_hamster",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 600,
+  "coolDownPerLvl": 0,
+  "manaCost": 50,
+  "minLvl": 1,
+  "castXp": 10
+}

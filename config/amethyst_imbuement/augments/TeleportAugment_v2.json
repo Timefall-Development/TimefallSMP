@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:teleport",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 210,
+  "coolDownPerLvl": -10,
+  "manaCost": 30,
+  "minLvl": 13,
+  "castXp": 8
+}

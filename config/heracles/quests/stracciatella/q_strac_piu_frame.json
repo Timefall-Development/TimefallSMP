@@ -1,0 +1,42 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_frame_interaction": {
+      "item": "pack_it_up:frame",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_frame_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 1",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          -240,
+          -60
+        ]
+      }
+    },
+    "icon": {
+      "item": "pack_it_up:frame",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Pack Frame"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

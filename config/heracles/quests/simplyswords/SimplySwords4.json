@@ -1,0 +1,48 @@
+{
+  "dependencies": [
+    "SimplySwords3"
+  ],
+  "tasks": {
+    "simplyswords:empowered_remnant": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "simplyswords:empowered_remnant"
+    }
+  },
+  "rewards": {
+    "ssword4_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 12",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+	"Create an empowered remnant"
+	],
+    "groups": {
+      "Simply Swords": {
+        "position": [
+          0,
+          260
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:empowered_remnant",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Create an empowered remnant"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

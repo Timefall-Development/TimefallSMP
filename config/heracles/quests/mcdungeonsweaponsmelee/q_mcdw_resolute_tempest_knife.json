@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_mcdw_tempest_knife"
+  ],
+  "tasks": {
+    "q_mcdw_resolute_tempest_knife_interaction": {
+      "item": "mcdw:dagger_resolute_tempest_knife",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_resolute_tempest_knife_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          192,
+          -181
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:dagger_resolute_tempest_knife",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Resolute Tempest Knife"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_glistering_interaction": {
+      "item": "amethyst_imbuement:glistering_tome",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_glistering_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 2",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          -200,
+          -150
+        ]
+      }
+    },
+    "icon": {
+      "item": "amethyst_imbuement:glistering_tome",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Amethyst Imbuement"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

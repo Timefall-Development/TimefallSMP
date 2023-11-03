@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:fangs",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 34,
+  "coolDownPerLvl": 0,
+  "manaCost": 12,
+  "minLvl": 9,
+  "castXp": 1
+}

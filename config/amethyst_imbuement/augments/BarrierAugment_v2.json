@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:barrier",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 600,
+  "coolDownPerLvl": 0,
+  "manaCost": 50,
+  "minLvl": 10,
+  "castXp": 15
+}

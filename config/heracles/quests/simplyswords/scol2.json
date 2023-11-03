@@ -1,0 +1,46 @@
+{
+  "dependencies": [],
+  "tasks": {
+	  "scol2": {
+      "advancements": [
+        "simplyswords:bramblethorn"
+      ],
+      "type": "heracles:advancement"
+    }
+	},
+  "rewards": {
+    "simplycol_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+	"Find Bramblethorn"
+	],
+    "groups": {
+      "Simply Swords": {
+        "position": [
+          28,
+          19
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:bramblethorn",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Bramblethorn"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

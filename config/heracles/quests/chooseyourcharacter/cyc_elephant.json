@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cyc_elephant_check": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "cyc_elephant_reward": {
+      "command": "walkers switchShape @s naturalist:elephant",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "A nose above the rest, literally."
+    },
+    "description": [],
+    "groups": {
+      "Choose Your Character": {
+        "position": [
+          80,
+          -164
+        ]
+      }
+    },
+    "icon": {
+      "item": "perfectplushies:elephant_plushie",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Elephant"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

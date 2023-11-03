@@ -1,0 +1,46 @@
+{
+  "dependencies": [],
+  "tasks": {
+	  "scol14": {
+      "advancements": [
+        "simplyswords:soulkeeper"
+      ],
+      "type": "heracles:advancement"
+    }
+	},
+  "rewards": {
+    "simplycol_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+	},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+	"Find the Soulkeeper"
+	],
+    "groups": {
+      "Simply Swords": {
+        "position": [
+          -75,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:soulkeeper",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find the Soulkeeper"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

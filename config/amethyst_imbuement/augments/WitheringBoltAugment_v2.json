@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:withering_bolt",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 30,
+  "coolDownPerLvl": -2,
+  "manaCost": 13,
+  "minLvl": 11,
+  "castXp": 2
+}

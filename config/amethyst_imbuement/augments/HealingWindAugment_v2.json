@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:healing_wind",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 1200,
+  "coolDownPerLvl": 0,
+  "manaCost": 240,
+  "minLvl": 24,
+  "castXp": 65
+}

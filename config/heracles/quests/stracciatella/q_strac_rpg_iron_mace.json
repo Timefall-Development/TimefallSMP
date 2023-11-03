@@ -1,0 +1,42 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_iron_mace_interaction": {
+      "item": "paladins:iron_mace",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_iron_mace_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 2",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          100,
+          -150
+        ]
+      }
+    },
+    "icon": {
+      "item": "paladins:iron_mace",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Iron Mace"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

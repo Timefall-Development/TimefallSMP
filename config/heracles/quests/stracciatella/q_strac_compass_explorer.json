@@ -1,0 +1,42 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_explorer_interaction": {
+      "item": "explorerscompass:explorerscompass",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_explorer_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 2",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          -60,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": "explorerscompass:explorerscompass",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Explorer's Compass"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": [
+    "SimplySwords4"
+  ],
+  "tasks": {
+    "simplyswords:netherfused_gem": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "simplyswords:netherfused_gem"
+    }
+  },
+  "rewards": {
+    "ssword6_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 20",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Create a **/d/Netherfused Gem/d/** by combining a **/b/Runic Tablet/b/**, a **/b/Netherite ingot/b/** and an **/b/Empowered Remnant/b/** in the Smithing Table."
+    ],
+    "groups": {
+      "Simply Swords": {
+        "position": [
+          0,
+          312
+        ]
+      }
+    },
+    "icon": {
+      "item": "simplyswords:netherfused_gem",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Make a Netherfused Gem"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

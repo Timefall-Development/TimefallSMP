@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:weightlessness",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 725,
+  "coolDownPerLvl": -25,
+  "manaCost": 125,
+  "minLvl": 9,
+  "castXp": 20
+}

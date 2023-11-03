@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "pvpMode": false,
+  "cooldown": {
+    "base": 4800,
+    "perLevel": -120,
+    "percent": 0
+  },
+  "manaCost": 250,
+  "minLvl": 24,
+  "maxLvl": 10,
+  "castXP": 30
+}

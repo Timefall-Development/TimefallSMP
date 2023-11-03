@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:cleanse",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 670,
+  "coolDownPerLvl": -20,
+  "manaCost": 45,
+  "minLvl": 1,
+  "castXp": 15
+}

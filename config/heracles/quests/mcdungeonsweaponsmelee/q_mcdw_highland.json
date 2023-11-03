@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_mcdw_axe"
+  ],
+  "tasks": {
+    "q_mcdw_highland_interaction": {
+      "item": "mcdw:axe_highland",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_highland_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 12",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          -182,
+          -146
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:axe_highland",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Highland Axe"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

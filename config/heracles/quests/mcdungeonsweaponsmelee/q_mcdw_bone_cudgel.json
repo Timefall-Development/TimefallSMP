@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_mcdw_boneclub"
+  ],
+  "tasks": {
+    "q_mcdw_bone_cudgel_interaction": {
+      "item": "mcdw:hammer_bone_cudgel",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_bone_cudgel_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 12",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          -135,
+          77
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:hammer_bone_cudgel",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Bone Cudgel"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

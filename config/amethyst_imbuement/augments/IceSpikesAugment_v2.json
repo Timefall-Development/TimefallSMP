@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:ice_spikes",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 32,
+  "coolDownPerLvl": 0,
+  "manaCost": 14,
+  "minLvl": 8,
+  "castXp": 2
+}

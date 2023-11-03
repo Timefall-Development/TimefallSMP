@@ -1,0 +1,18 @@
+{
+  "vorpalChance": 0.025,
+  "demonicChance": 0.3333333,
+  "manicChance": 0.25,
+  "jarringChance": 0.2,
+  "clangingChance": 0.2,
+  "doubleEdgedChance": 0.25,
+  "splittingChance": 0.1,
+  "anthraciticChance": 0.04,
+  "metallicChance": 0.04,
+  "enrichedChance": 0.03,
+  "indomitableChance": 0.15,
+  "shieldingChance": 0.0125,
+  "commonLoot": 0.1,
+  "uncommonLoot": 0.06,
+  "rareLoot": 0.04,
+  "epicLoot": 0.02
+}

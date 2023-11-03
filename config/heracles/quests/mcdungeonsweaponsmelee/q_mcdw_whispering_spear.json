@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_mcdw_spear"
+  ],
+  "tasks": {
+    "q_mcdw_whispering_spear_interaction": {
+      "item": "mcdw:spear_whispering_spear",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_whispering_spear_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          -82,
+          -90
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:spear_whispering_spear",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Whispering Spear"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

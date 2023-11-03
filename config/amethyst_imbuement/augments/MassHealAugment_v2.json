@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:mass_heal",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 200,
+  "coolDownPerLvl": 0,
+  "manaCost": 50,
+  "minLvl": 9,
+  "castXp": 10
+}

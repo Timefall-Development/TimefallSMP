@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:summon_fury_totem",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 2400,
+  "coolDownPerLvl": 0,
+  "manaCost": 240,
+  "minLvl": 14,
+  "castXp": 50
+}

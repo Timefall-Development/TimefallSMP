@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:inspiring_song",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 750,
+  "coolDownPerLvl": 0,
+  "manaCost": 125,
+  "minLvl": 10,
+  "castXp": 20
+}

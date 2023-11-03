@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:freezing",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 36,
+  "coolDownPerLvl": -2,
+  "manaCost": 8,
+  "minLvl": 5,
+  "castXp": 1
+}

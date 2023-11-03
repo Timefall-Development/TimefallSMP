@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:fang_barrage",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 100,
+  "coolDownPerLvl": 0,
+  "manaCost": 50,
+  "minLvl": 26,
+  "castXp": 2
+}

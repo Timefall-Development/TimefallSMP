@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:spectral_slash",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 18,
+  "coolDownPerLvl": 0,
+  "manaCost": 4,
+  "minLvl": 9,
+  "castXp": 1
+}

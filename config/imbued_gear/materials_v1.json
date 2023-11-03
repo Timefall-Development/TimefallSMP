@@ -1,0 +1,228 @@
+{
+  "armor": {
+    "celestial": {
+      "durabilityMultiplier": 99,
+      "enchantability": 45,
+      "knockbackResistance": 0.2,
+      "protectionAmounts": [
+        6,
+        9,
+        11,
+        6
+      ],
+      "repairIngredient": {
+        "item": "amethyst_imbuement:celestine"
+      },
+      "toughness": 5.0,
+      "modifiers": []
+    },
+    "champion": {
+      "durabilityMultiplier": 55,
+      "enchantability": 18,
+      "knockbackResistance": 0.05,
+      "protectionAmounts": [
+        5,
+        8,
+        10,
+        5
+      ],
+      "repairIngredient": {
+        "item": "imbued_gear:puresteel_ingot"
+      },
+      "toughness": 4.5,
+      "modifiers": []
+    },
+    "elementalist": {
+      "durabilityMultiplier": 33,
+      "enchantability": 22,
+      "knockbackResistance": 0.0,
+      "protectionAmounts": [
+        4,
+        7,
+        9,
+        4
+      ],
+      "repairIngredient": [
+        {
+          "item": "amethyst_imbuement:sparking_gem"
+        },
+        {
+          "item": "amethyst_imbuement:blazing_gem"
+        },
+        {
+          "item": "amethyst_imbuement:glistening_ice"
+        }
+      ],
+      "toughness": 3.0,
+      "modifiers": []
+    },
+    "eternity": {
+      "durabilityMultiplier": 39,
+      "enchantability": 22,
+      "knockbackResistance": 0.1,
+      "protectionAmounts": [
+        4,
+        7,
+        9,
+        4
+      ],
+      "repairIngredient": {
+        "item": "amethyst_imbuement:heartstone"
+      },
+      "toughness": 0.0,
+      "modifiers": []
+    },
+    "hunter": {
+      "durabilityMultiplier": 19,
+      "enchantability": 20,
+      "knockbackResistance": 0.0,
+      "protectionAmounts": [
+        2,
+        6,
+        7,
+        2
+      ],
+      "repairIngredient": {
+        "item": "minecraft:rabbit_hide"
+      },
+      "toughness": 2.0,
+      "modifiers": []
+    },
+    "lich_king": {
+      "durabilityMultiplier": 15,
+      "enchantability": 13,
+      "knockbackResistance": 0.0,
+      "protectionAmounts": [
+        2,
+        6,
+        7,
+        2
+      ],
+      "repairIngredient": {
+        "item": "imbued_gear:wither_bone"
+      },
+      "toughness": 2.0,
+      "modifiers": []
+    },
+    "scholar": {
+      "durabilityMultiplier": 11,
+      "enchantability": 40,
+      "knockbackResistance": 0.0,
+      "protectionAmounts": [
+        2,
+        5,
+        6,
+        2
+      ],
+      "repairIngredient": {
+        "item": "amethyst_imbuement:book_of_lore"
+      },
+      "toughness": 0.0,
+      "modifiers": []
+    },
+    "spellblade": {
+      "durabilityMultiplier": 33,
+      "enchantability": 10,
+      "knockbackResistance": 0.05,
+      "protectionAmounts": [
+        4,
+        7,
+        9,
+        4
+      ],
+      "repairIngredient": {
+        "item": "amethyst_imbuement:lethal_gem"
+      },
+      "toughness": 2.0,
+      "modifiers": []
+    },
+    "void_mail": {
+      "durabilityMultiplier": 21,
+      "enchantability": 20,
+      "knockbackResistance": 0.0,
+      "protectionAmounts": [
+        3,
+        6,
+        8,
+        3
+      ],
+      "repairIngredient": {
+        "item": "imbued_gear:void_gem"
+      },
+      "toughness": 3.0,
+      "modifiers": []
+    },
+    "warrior": {
+      "durabilityMultiplier": 29,
+      "enchantability": 20,
+      "knockbackResistance": 0.0,
+      "protectionAmounts": [
+        4,
+        8,
+        10,
+        4
+      ],
+      "repairIngredient": {
+        "item": "amethyst_imbuement:glowing_fragment"
+      },
+      "toughness": 3.5,
+      "modifiers": []
+    }
+  },
+  "tools": {
+    "nihil": {
+      "durability": 333,
+      "miningSpeedMultiplier": 10.5,
+      "attackDamage": 4.5,
+      "miningLevel": 4,
+      "enchantability": 35,
+      "repairIngredient": {
+        "item": "imbued_gear:voidsteel_ingot"
+      }
+    },
+    "radiant": {
+      "durability": 1851,
+      "miningSpeedMultiplier": 10.5,
+      "attackDamage": 6.0,
+      "miningLevel": 4,
+      "enchantability": 15,
+      "repairIngredient": {
+        "item": "imbued_gear:puresteel_ingot"
+      }
+    },
+    "celestial": {
+      "durability": 2650,
+      "miningSpeedMultiplier": 14.5,
+      "attackDamage": 10.0,
+      "miningLevel": 4,
+      "enchantability": 45,
+      "repairIngredient": {
+        "item": "amethyst_imbuement:celestine"
+      }
+    },
+    "scepterTier4": {
+      "attackDamage": 0.0,
+      "durability": 3550,
+      "enchantability": 25,
+      "miningLevel": 1,
+      "miningSpeedMultiplier": 1.0,
+      "repairIngredient": {
+        "item": "amethyst_imbuement:celestine"
+      },
+      "attackSpeed": -3.0,
+      "healCooldown": 50
+    },
+    "crackling": {
+      "attackDamage": 4.0,
+      "durability": 1561,
+      "enchantability": 25,
+      "miningLevel": 4,
+      "miningSpeedMultiplier": 7.5,
+      "repairIngredient": {
+        "item": "amethyst_imbuement:lethal_gem"
+      },
+      "attackSpeed": -2.9,
+      "healCooldown": 200
+    }
+  }
+}

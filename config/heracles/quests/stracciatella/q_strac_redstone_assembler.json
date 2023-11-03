@@ -1,0 +1,43 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_alloy_forge_interaction": {
+      "block": "wiredredstone:redstone_assembler",
+      "state": {},
+      "type": "heracles:block_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_alloy_forge_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 2",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          100,
+          -10
+        ]
+      }
+    },
+    "icon": {
+      "item": "wiredredstone:redstone_assembler",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Redstone Assembler"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cyc_zoomin_check": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "cyc_zoomin_reward": {
+      "command": "walkers switchShape @s wildlife:snail",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Gotta go fast! (but I kinda can't)."
+    },
+    "description": [],
+    "groups": {
+      "Choose Your Character": {
+        "position": [
+          32,
+          -164
+        ]
+      }
+    },
+    "icon": {
+      "item": "wildlife:snail",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Zoomy Boi"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

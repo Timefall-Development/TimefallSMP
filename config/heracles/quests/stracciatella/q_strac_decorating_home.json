@@ -1,0 +1,42 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_decorating_interaction": {
+      "item": "adorn:guide_book",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_decorating_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 2",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          -80,
+          -150
+        ]
+      }
+    },
+    "icon": {
+      "item": "adorn:guide_book",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Adorn"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

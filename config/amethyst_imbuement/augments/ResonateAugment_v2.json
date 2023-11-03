@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:resonate",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 18,
+  "coolDownPerLvl": 0,
+  "manaCost": 18,
+  "minLvl": 18,
+  "castXp": 1
+}

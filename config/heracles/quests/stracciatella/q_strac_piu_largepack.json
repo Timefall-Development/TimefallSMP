@@ -1,0 +1,44 @@
+{
+  "dependencies": [
+    "q_strac_piu_pack"
+  ],
+  "tasks": {
+    "q_strac_large_backpack_interaction": {
+      "item": "pack_it_up:large_backpack",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_large_backpack_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 4",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          -60,
+          -60
+        ]
+      }
+    },
+    "icon": {
+      "item": "pack_it_up:large_backpack",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Large Backpack"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

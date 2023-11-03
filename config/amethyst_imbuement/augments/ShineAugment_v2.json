@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:shine",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 10,
+  "coolDownPerLvl": 0,
+  "manaCost": 2,
+  "minLvl": 1,
+  "castXp": 1
+}

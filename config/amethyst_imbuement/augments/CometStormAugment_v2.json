@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:comet_storm",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 480,
+  "coolDownPerLvl": -20,
+  "manaCost": 75,
+  "minLvl": 21,
+  "castXp": 10
+}

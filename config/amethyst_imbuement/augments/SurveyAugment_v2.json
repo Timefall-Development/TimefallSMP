@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:survey",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 1200,
+  "coolDownPerLvl": 0,
+  "manaCost": 120,
+  "minLvl": 20,
+  "castXp": 80
+}

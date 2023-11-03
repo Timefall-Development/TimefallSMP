@@ -1,0 +1,44 @@
+{
+  "dependencies": [
+    "q_strac_piu_largepack"
+  ],
+  "tasks": {
+    "q_strac_extreme_interaction": {
+      "item": "pack_it_up:extreme_backpack",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_extreme_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          20,
+          -80
+        ]
+      }
+    },
+    "icon": {
+      "item": "pack_it_up:extreme_backpack",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Hiking Champ"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

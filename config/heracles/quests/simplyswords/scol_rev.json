@@ -1,0 +1,68 @@
+{
+  "dependencies": [
+    "scol21",
+    "scol22",
+    "scol23",
+    "scol24",
+    "scol20",
+    "scol25",
+    "scol26",
+    "scol4",
+    "scol3",
+    "scol2",
+    "scol1",
+    "scol8",
+    "scol10",
+    "scol7",
+    "scol11",
+    "scol6",
+    "scol12",
+    "scol5",
+    "scol13",
+    "scol9",
+    "scol18",
+    "scol19",
+    "scol14",
+    "scol15",
+    "scol16",
+    "scol17"
+  ],
+  "tasks": {},
+  "rewards": {
+    "money": {
+      "item": {
+        "id": "timefall_coin:coin",
+        "count": 50,
+        "nbt": {}
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Simply Swords": {
+        "position": [
+          0,
+          26
+        ]
+      }
+    },
+    "icon": {
+      "item": "amethyst_imbuement:shine_light_rainbow",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Gotta Swing Them All"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

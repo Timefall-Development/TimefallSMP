@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:create_water",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 30,
+  "coolDownPerLvl": 0,
+  "manaCost": 8,
+  "minLvl": 1,
+  "castXp": 1
+}

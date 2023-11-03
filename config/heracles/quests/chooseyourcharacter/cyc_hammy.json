@@ -1,0 +1,43 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cyc_hammy_check": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "cyc_hammy_reward": {
+      "command": "walkers switchShape @s amethyst_imbuement:basic_hamster",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "You feel the urge to dig small holes and eat giant vegetables."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Choose Your Character": {
+        "position": [
+          -256,
+          -164
+        ]
+      }
+    },
+    "icon": {
+      "item": "plushables:hampter_plushable",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Hammy Wammy"
+    }
+  },
+  "settings": {
+    "individual_progress": true,
+    "hidden": false,
+    "unlockNotification": true
+  }
+}

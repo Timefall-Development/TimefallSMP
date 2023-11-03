@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:smiting_blow",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 20,
+  "coolDownPerLvl": 0,
+  "manaCost": 8,
+  "minLvl": 10,
+  "castXp": 2
+}

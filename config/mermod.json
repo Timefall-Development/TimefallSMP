@@ -1,0 +1,12 @@
+{
+  //Increased swimming speed as a mermaid
+  "swimSpeed": true,
+  //Speed multiplier applied while swimming if the swim speed effect is enabled
+  "swimSpeedMultiplier": 2.0,
+  //Unlimited water breathing as a mermaid
+  "waterBreathing": true,
+  //Underwater night vision as a mermaid
+  "nightVision": true,
+  //Removes the flashing effect when night vision is almost expired
+  "nightVisionFlashingFix": true
+}

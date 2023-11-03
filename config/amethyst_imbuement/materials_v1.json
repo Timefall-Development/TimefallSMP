@@ -1,0 +1,258 @@
+{
+  "armor": {
+    "ametrine": {
+      "repairIngredient": {
+        "item": "amethyst_imbuement:ametrine"
+      },
+      "enchantability": 18,
+      "protectionAmounts": [
+        4,
+        7,
+        9,
+        4
+      ],
+      "durabilityMultiplier": 39,
+      "knockbackResistance": 0.1,
+      "toughness": 3.2
+    },
+    "steel": {
+      "repairIngredient": {
+        "item": "amethyst_imbuement:steel_ingot"
+      },
+      "enchantability": 10,
+      "protectionAmounts": [
+        2,
+        6,
+        7,
+        2
+      ],
+      "durabilityMultiplier": 20,
+      "knockbackResistance": 0.0,
+      "toughness": 1.0
+    },
+    "garnet": {
+      "repairIngredient": {
+        "item": "amethyst_imbuement:garnet"
+      },
+      "enchantability": 12,
+      "protectionAmounts": [
+        3,
+        6,
+        8,
+        3
+      ],
+      "durabilityMultiplier": 55,
+      "knockbackResistance": 0.05,
+      "toughness": 2.0
+    },
+    "glowing": {
+      "repairIngredient": {
+        "item": "amethyst_imbuement:glowing_fragment"
+      },
+      "enchantability": 35,
+      "protectionAmounts": [
+        3,
+        7,
+        9,
+        3
+      ],
+      "durabilityMultiplier": 14,
+      "knockbackResistance": 0.05,
+      "toughness": 3.0
+    },
+    "shimmering": {
+      "repairIngredient": {
+        "item": "amethyst_imbuement:shimmering_fabric"
+      },
+      "enchantability": 25,
+      "protectionAmounts": [
+        2,
+        5,
+        6,
+        2
+      ],
+      "durabilityMultiplier": 12,
+      "knockbackResistance": 0.0,
+      "toughness": 0.0
+    },
+    "soulwoven": {
+      "repairIngredient": {
+        "item": "minecraft:crying_obsidian"
+      },
+      "enchantability": 25,
+      "protectionAmounts": [
+        3,
+        6,
+        8,
+        3
+      ],
+      "durabilityMultiplier": 25,
+      "knockbackResistance": 0.1,
+      "toughness": 3.0
+    }
+  },
+  "tools": {
+    "garnet": {
+      "durability": 3151,
+      "miningSpeedMultiplier": 7.5,
+      "attackDamage": 3.0,
+      "miningLevel": 3,
+      "enchantability": 12,
+      "repairIngredient": {
+        "item": "amethyst_imbuement:garnet"
+      }
+    },
+    "glowing": {
+      "durability": 333,
+      "miningSpeedMultiplier": 11.5,
+      "attackDamage": 4.5,
+      "miningLevel": 4,
+      "enchantability": 12,
+      "repairIngredient": {
+        "item": "amethyst_imbuement:garnet"
+      }
+    },
+    "steel": {
+      "durability": 400,
+      "miningSpeedMultiplier": 6.5,
+      "attackDamage": 2.5,
+      "miningLevel": 2,
+      "enchantability": 15,
+      "repairIngredient": {
+        "item": "amethyst_imbuement:steel_ingot"
+      }
+    },
+    "ametrine": {
+      "durability": 2550,
+      "miningSpeedMultiplier": 9.5,
+      "attackDamage": 5.0,
+      "miningLevel": 4,
+      "enchantability": 18,
+      "repairIngredient": {
+        "item": "amethyst_imbuement:ametrine"
+      }
+    }
+  },
+  "scepters": {
+    "tier1Scepter": {
+      "attackDamage": 0.0,
+      "durability": 250,
+      "enchantability": 25,
+      "miningLevel": 1,
+      "miningSpeedMultiplier": 1.0,
+      "repairIngredient": {
+        "item": "amethyst_imbuement:beryl_copper_ingot"
+      },
+      "attackSpeed": -3.0,
+      "healCooldown": 150
+    },
+    "tier2Scepter": {
+      "attackDamage": 0.0,
+      "durability": 650,
+      "enchantability": 25,
+      "miningLevel": 1,
+      "miningSpeedMultiplier": 1.0,
+      "repairIngredient": {
+        "item": "minecraft:gold_ingot"
+      },
+      "attackSpeed": -3.0,
+      "healCooldown": 125
+    },
+    "tier3Scepter": {
+      "attackDamage": 0.0,
+      "durability": 1450,
+      "enchantability": 25,
+      "miningLevel": 1,
+      "miningSpeedMultiplier": 1.0,
+      "repairIngredient": {
+        "item": "minecraft:netherite_scrap"
+      },
+      "attackSpeed": -3.0,
+      "healCooldown": 80
+    },
+    "blades": {
+      "attackDamage": 1.5,
+      "durability": 550,
+      "enchantability": 25,
+      "miningLevel": 1,
+      "miningSpeedMultiplier": 1.0,
+      "repairIngredient": {
+        "item": "amethyst_imbuement:glowing_fragment"
+      },
+      "attackSpeed": -2.7,
+      "healCooldown": 125
+    },
+    "builder": {
+      "attackDamage": 2.0,
+      "durability": 600,
+      "enchantability": 25,
+      "miningLevel": 1,
+      "miningSpeedMultiplier": 5.0,
+      "repairIngredient": {
+        "item": "minecraft:gold_ingot"
+      },
+      "attackSpeed": -3.0,
+      "healCooldown": 125
+    },
+    "fowl": {
+      "attackDamage": 0.0,
+      "durability": 600,
+      "enchantability": 25,
+      "miningLevel": 1,
+      "miningSpeedMultiplier": 1.0,
+      "repairIngredient": {
+        "item": "minecraft:cooked_chicken"
+      },
+      "attackSpeed": -3.0,
+      "healCooldown": 12
+    },
+    "fzzyhammer": {
+      "attackDamage": 9.5,
+      "durability": 1250,
+      "enchantability": 15,
+      "miningLevel": 3,
+      "miningSpeedMultiplier": 6.0,
+      "repairIngredient": {
+        "item": "amethyst_imbuement:heartstone"
+      },
+      "attackSpeed": -3.2,
+      "healCooldown": 120
+    },
+    "harvests": {
+      "attackDamage": 0.0,
+      "durability": 750,
+      "enchantability": 15,
+      "miningLevel": 4,
+      "miningSpeedMultiplier": 4.0,
+      "repairIngredient": {
+        "item": "minecraft:gold_ingot"
+      },
+      "attackSpeed": -3.0,
+      "healCooldown": 100
+    },
+    "lethality": {
+      "attackDamage": 4.0,
+      "durability": 1325,
+      "enchantability": 35,
+      "miningLevel": 1,
+      "miningSpeedMultiplier": 1.0,
+      "repairIngredient": {
+        "item": "minecraft:netherite_scrap"
+      },
+      "attackSpeed": -2.7,
+      "healCooldown": 90
+    },
+    "vanguard": {
+      "attackDamage": 2.0,
+      "durability": 650,
+      "enchantability": 35,
+      "miningLevel": 1,
+      "miningSpeedMultiplier": 1.0,
+      "repairIngredient": {
+        "item": "amethyst_imbuement:glowing_fragment"
+      },
+      "attackSpeed": -3.0,
+      "healCooldown": 125
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cyc_bony_boi_check": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "cyc_bony_boi_reward": {
+      "command": "walkers switchShape @s minecraft:skeleton",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "You feel lighter, but also like the sun is angy at you."
+    },
+    "description": [],
+    "groups": {
+      "Choose Your Character": {
+        "position": [
+          -208,
+          -164
+        ]
+      }
+    },
+    "icon": {
+      "item": "graveyard:leaning_skeleton",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Bony Boi"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

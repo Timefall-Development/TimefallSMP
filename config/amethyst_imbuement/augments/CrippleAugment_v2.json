@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:cripple",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 20,
+  "coolDownPerLvl": 0,
+  "manaCost": 5,
+  "minLvl": 13,
+  "castXp": 1
+}

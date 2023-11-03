@@ -1,0 +1,50 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "serious_ded": {
+      "advancements": [
+        "minecraft:husbandry/obtain_netherite_hoe"
+      ],
+      "type": "heracles:advancement"
+    }
+  },
+  "rewards": {
+    "why_so_serious": {
+      "item": {
+        "id": "simplehats:farmerbrim",
+        "count": 1,
+        "nbt": {}
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          -180,
+          65
+        ]
+      }
+    },
+    "icon": {
+      "item": "minecraft:netherite_hoe",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Why So Serious?"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": true,
+    "unlockNotification": false
+  }
+}

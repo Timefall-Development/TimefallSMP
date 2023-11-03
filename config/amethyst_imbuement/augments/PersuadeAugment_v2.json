@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:persuade",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 2240,
+  "coolDownPerLvl": -40,
+  "manaCost": 300,
+  "minLvl": 20,
+  "castXp": 65
+}

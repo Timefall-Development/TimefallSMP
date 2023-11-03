@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:fireball",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 32,
+  "coolDownPerLvl": 0,
+  "manaCost": 10,
+  "minLvl": 10,
+  "castXp": 2
+}

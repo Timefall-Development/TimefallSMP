@@ -1,0 +1,50 @@
+{
+  "dependencies": [
+    "q_mcdw_battle_staff"
+  ],
+  "tasks": {
+    "q_mcdw_growing_staff_interaction": {
+      "item": "mcdw:staff_growing_staff",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_growing_staff_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Growth can take many forms, but it is a process that is ever in flux. Though some might hold that true growth can only happen by means of magic, maybe the magic is just the example to follow.",
+      "<br/>",
+      "- Imbue your Battlestaff with the innate magic present in gold",
+      "<br/>",
+      "Remember: If you are unsure of how to craft something, you can always use the search bar provided by EMI at the bottom of your inventory screen to find the recipe."
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          -267,
+          -146
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:staff_growing_staff",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Growing Staff"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:forcefield",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 620,
+  "coolDownPerLvl": -20,
+  "manaCost": 135,
+  "minLvl": 13,
+  "castXp": 15
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_compound_brewing_interaction": {
+      "block": "davespotioneering:compound_brewing_stand",
+      "state": {},
+      "type": "heracles:block_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_compound_brewing_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 4",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          20,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": "davespotioneering:compound_brewing_stand",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Dave's Potioneering"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

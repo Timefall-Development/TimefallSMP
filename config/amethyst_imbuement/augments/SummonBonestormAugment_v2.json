@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:summon_bonestorm",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 2400,
+  "coolDownPerLvl": 0,
+  "manaCost": 320,
+  "minLvl": 15,
+  "castXp": 75
+}

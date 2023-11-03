@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:lightning_storm",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 400,
+  "coolDownPerLvl": 0,
+  "manaCost": 80,
+  "minLvl": 23,
+  "castXp": 10
+}

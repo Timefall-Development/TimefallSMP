@@ -1,0 +1,7 @@
+{
+  "namespaceBlackList": [
+    "simplehats"
+  ],
+  "individualItemBlackList": [],
+  "blackListedScreenHandlers": []
+}

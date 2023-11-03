@@ -1,0 +1,19 @@
+{
+  "enabledModifiers": {},
+  "nihilBladeNothingnessChance": 0.15,
+  "nullAndVoidHitChance": 0.15,
+  "voidStrikeHitChance": 0.15,
+  "voidStrikeDamageMultiplier": 3.0,
+  "trueSmiteDamageMultiplier": 4.0,
+  "fleshRendingCriticalChance": 0.2,
+  "radiantBastionShieldChance": 0.333333,
+  "gear": {
+    "manaVampiricHitChance": 0.15,
+    "manaVampiricHitAmount": 10,
+    "manaVampiricKillAmount": 15,
+    "manaDrainingHitChance": 0.15,
+    "manaDrainingHitAmount": 7,
+    "manaDrainingKillAmount": 10,
+    "manaReactiveAmount": 1
+  }
+}

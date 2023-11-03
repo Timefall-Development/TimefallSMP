@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:flamebolt",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 19,
+  "coolDownPerLvl": 0,
+  "manaCost": 4,
+  "minLvl": 1,
+  "castXp": 1
+}

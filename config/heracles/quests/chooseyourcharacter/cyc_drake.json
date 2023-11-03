@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cyc_drake_check": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "cyc_drake_reward": {
+      "command": "walkers switchShape @s mythicmobs:drake",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "The spirit of a dragon...well, a drake, at least dweals within you."
+    },
+    "description": [],
+    "groups": {
+      "Choose Your Character": {
+        "position": [
+          -160,
+          -164
+        ]
+      }
+    },
+    "icon": {
+      "item": "minecraft:dragon_head",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "DmWake"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

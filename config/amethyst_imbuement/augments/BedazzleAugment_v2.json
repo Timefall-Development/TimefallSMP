@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:bedazzle",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 1500,
+  "coolDownPerLvl": 0,
+  "manaCost": 85,
+  "minLvl": 7,
+  "castXp": 40
+}

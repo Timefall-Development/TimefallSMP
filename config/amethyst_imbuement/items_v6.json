@@ -1,0 +1,58 @@
+{
+  "giveGlisteringTome": true,
+  "glisteringTridentDurability": 550,
+  "sniperBowDurability": 500,
+  "manaItems": {
+    "totemOfAmethystDurability": 360,
+    "imbuedJewelryDurability": 120,
+    "imbuedJewelryDamagePerAmplifier": 6,
+    "fullManaColor": {
+      "r": 0,
+      "g": 85,
+      "b": 255,
+      "a": 255
+    },
+    "emptyManaColor": {
+      "r": 255,
+      "g": 0,
+      "b": 85,
+      "a": 255
+    }
+  },
+  "scepters": {
+    "fowlChestChance": 0.02,
+    "fzzyChestChance": 0.002,
+    "uniqueWitherChance": 0.01
+  },
+  "gems": {
+    "fireTarget": 120,
+    "hitTarget": 60,
+    "healTarget": 120.0,
+    "statusesTarget": 8,
+    "killTarget": 30,
+    "spellXpTarget": 350
+  },
+  "focus": {
+    "bolsteringRange": 5.0,
+    "tierXp": [
+      500,
+      1500,
+      3000,
+      5000
+    ]
+  },
+  "scroll": {
+    "uses": [
+      16,
+      24,
+      32
+    ],
+    "levels": [
+      1,
+      2,
+      3,
+      5,
+      7
+    ]
+  }
+}

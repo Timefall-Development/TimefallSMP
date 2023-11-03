@@ -1,0 +1,43 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cyc_me-ow_check": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "cyc_me-ow_reward": {
+      "command": "walkers switchShape @s minecraft:ocelot",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Agile, perceptive and likes to knock things off of shelves whenever people are watching."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Choose Your Character": {
+        "position": [
+          -112,
+          -164
+        ]
+      }
+    },
+    "icon": {
+      "item": "clutter:ocelot_plushie",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Meow-ish"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

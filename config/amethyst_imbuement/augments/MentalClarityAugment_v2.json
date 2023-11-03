@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:mental_clarity",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 1920,
+  "coolDownPerLvl": -20,
+  "manaCost": 300,
+  "minLvl": 13,
+  "castXp": 45
+}

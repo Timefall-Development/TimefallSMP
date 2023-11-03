@@ -1,0 +1,44 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_connector_task": {
+      "type": "heracles:item",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "item": "toms_storage:ts.inventory_connector"
+    }
+  },
+  "rewards": {
+    "q_strac_connector_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 2",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          100,
+          -60
+        ]
+      }
+    },
+    "icon": {
+      "item": "toms_storage:ts.inventory_connector",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Inventory Connector"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:hail_storm",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 600,
+  "coolDownPerLvl": 0,
+  "manaCost": 120,
+  "minLvl": 23,
+  "castXp": 25
+}

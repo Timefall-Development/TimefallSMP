@@ -1,0 +1,45 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_transmogrify_task": {
+      "block": "transmog:transmogrification_table",
+      "state": {},
+      "type": "heracles:block_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_transmogrify_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 2",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": "Use this table to alter your armor appearance"
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          20,
+          90
+        ]
+      }
+    },
+    "icon": {
+      "item": "transmog:transmogrification_table",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Transmogrify"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

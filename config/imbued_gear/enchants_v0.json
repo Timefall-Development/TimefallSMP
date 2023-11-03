@@ -1,0 +1,18 @@
+{
+  "enabledEnchants": {
+    "imbued_gear:spell_rage": true,
+    "imbued_gear:spell_thrift": true,
+    "imbued_gear:spell_magnitude": true,
+    "imbued_gear:spell_stability": true,
+    "imbued_gear:spell_extent": true,
+    "imbued_gear:spell_alacrity": true
+  },
+  "enchantMaxLevels": {
+    "imbued_gear:spell_rage": 3,
+    "imbued_gear:spell_thrift": 3,
+    "imbued_gear:spell_magnitude": 1,
+    "imbued_gear:spell_stability": 3,
+    "imbued_gear:spell_extent": 3,
+    "imbued_gear:spell_alacrity": 3
+  }
+}

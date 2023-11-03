@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:ice_shard",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 15,
+  "coolDownPerLvl": -1,
+  "manaCost": 15,
+  "minLvl": 14,
+  "castXp": 1
+}

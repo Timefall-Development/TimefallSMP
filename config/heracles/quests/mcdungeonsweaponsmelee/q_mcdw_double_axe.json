@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_mcdw_axe"
+  ],
+  "tasks": {
+    "q_mcdw_double_axe_interaction": {
+      "item": "mcdw:double_axe_double",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_double_axe_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          -114,
+          -181
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:double_axe_double",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Double Axe"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

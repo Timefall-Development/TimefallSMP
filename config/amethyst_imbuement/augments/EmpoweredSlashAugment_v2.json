@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:empowered_slash",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 20,
+  "coolDownPerLvl": 0,
+  "manaCost": 20,
+  "minLvl": 16,
+  "castXp": 1
+}

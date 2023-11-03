@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_mcdw_bow"
+  ],
+  "tasks": {
+    "q_mcdw_snow_bow_interaction": {
+      "item": "mcdw:bow_snow_bow",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_snow_bow_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Ranged)": {
+        "position": [
+          -40,
+          -116
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:bow_snow_bow",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Snow Bow"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

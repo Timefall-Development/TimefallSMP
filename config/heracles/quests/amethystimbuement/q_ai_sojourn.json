@@ -1,0 +1,50 @@
+{
+  "dependencies": [
+    "q_ai_traveller",
+    "q_ai_builders",
+    "q_ai_recall"
+  ],
+  "tasks": {
+    "q_ai_sojourn_interaction": {
+      "item": "amethyst_imbuement:sojourn",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_ai_sojourn_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 32",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "- Right click with the crafted item in your hand to trigger the quest completion",
+      "<br/>",
+      "Remember: If you are unsure of how to craft something, you can always use the search bar provided by EMI at the bottom of your inventory screen to find the recipe."
+    ],
+    "groups": {
+      "Amethyst Imbuement": {
+        "position": [
+          -32,
+          -245
+        ]
+      }
+    },
+    "icon": {
+      "item": "amethyst_imbuement:sojourn",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft the Sojourn"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

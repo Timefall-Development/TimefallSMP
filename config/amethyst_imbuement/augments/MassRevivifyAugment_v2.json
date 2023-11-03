@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:mass_revivify",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 300,
+  "coolDownPerLvl": 0,
+  "manaCost": 150,
+  "minLvl": 29,
+  "castXp": 12
+}

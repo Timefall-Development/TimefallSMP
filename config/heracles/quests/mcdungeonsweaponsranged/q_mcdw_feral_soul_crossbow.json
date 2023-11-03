@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_mcdw_soul_crossbow"
+  ],
+  "tasks": {
+    "q_mcdw_feral_soul_crossbow_interaction": {
+      "item": "mcdw:crossbow_feral_soul_crossbow",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_feral_soul_crossbow_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 12",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Ranged)": {
+        "position": [
+          -180,
+          12
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:crossbow_feral_soul_crossbow",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Feral Soul Crossbow"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

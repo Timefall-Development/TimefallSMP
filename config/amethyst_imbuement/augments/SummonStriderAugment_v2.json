@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:summon_strider",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 1200,
+  "coolDownPerLvl": 0,
+  "manaCost": 75,
+  "minLvl": 5,
+  "castXp": 30
+}

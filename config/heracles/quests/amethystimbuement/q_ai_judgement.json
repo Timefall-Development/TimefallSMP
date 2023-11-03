@@ -1,0 +1,46 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_ai_judgment_interaction": {
+      "item": "amethyst_imbuement:judgment",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_ai_judgment_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 32",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "- Right click with the crafted item in your hand to trigger the quest completion",
+      "<br/>",
+      "Remember: If you are unsure of how to craft something, you can always use the search bar provided by EMI at the bottom of your inventory screen to find the recipe."
+    ],
+    "groups": {
+      "Amethyst Imbuement": {
+        "position": [
+          -115,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": "amethyst_imbuement:judgment",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft the Judgement"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

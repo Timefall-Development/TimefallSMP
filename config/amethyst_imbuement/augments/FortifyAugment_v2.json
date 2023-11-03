@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:fortify",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 1320,
+  "coolDownPerLvl": -20,
+  "manaCost": 135,
+  "minLvl": 13,
+  "castXp": 20
+}

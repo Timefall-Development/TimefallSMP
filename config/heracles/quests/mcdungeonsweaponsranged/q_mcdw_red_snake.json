@@ -1,0 +1,48 @@
+{
+  "dependencies": [
+    "q_mcdw_longbow"
+  ],
+  "tasks": {
+    "q_mcdw_red_snake_interaction": {
+      "item": "mcdw:bow_red_snake",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_red_snake_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "- Right click with the crafted item in your hand to trigger the quest completion",
+      "<br/>",
+      "Remember: If you are unsure of how to craft something, you can always use the search bar provided by EMI at the bottom of your inventory screen to find the recipe."
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Ranged)": {
+        "position": [
+          -307,
+          -133
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:bow_red_snake",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Red Snake"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

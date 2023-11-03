@@ -1,0 +1,44 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_coin_task": {
+      "type": "heracles:item",
+      "amount": 64,
+      "collection": "AUTOMATIC",
+      "item": "timefall_coin:coin"
+    }
+  },
+  "rewards": {
+    "q_strac_coin_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 4",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          -220,
+          90
+        ]
+      }
+    },
+    "icon": {
+      "item": "timefall_coin:coin",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "MONEY!!"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

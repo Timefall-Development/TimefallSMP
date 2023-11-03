@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_mcdw_broadsword"
+  ],
+  "tasks": {
+    "q_mcdw_claymore_interaction": {
+      "item": "mcdw:sword_claymore",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_claymore_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 12",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          17,
+          77
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:sword_claymore",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Claymore"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

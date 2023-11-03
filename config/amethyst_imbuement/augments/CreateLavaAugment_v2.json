@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:create_lava",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 200,
+  "coolDownPerLvl": 0,
+  "manaCost": 50,
+  "minLvl": 11,
+  "castXp": 10
+}

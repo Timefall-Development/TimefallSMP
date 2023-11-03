@@ -1,0 +1,79 @@
+{
+  //Whether an overlay message appears above the hotbar when a new walkers is unlocked.
+  "overlayShapesUnlocks": true,
+  //Whether an overlay message appears above the hotbar when a new walkers is revoked.
+  "overlay2ndShapesRevokes": true,
+  //Whether a player's equipped walkers is revoked on death.
+  "revoke2ndShapeOnDeath": false,
+  //Whether shapes equip the items (swords, items, tools) held by the underlying player.
+  "shapesEquipItems": true,
+  //Whether shapes equip the armor (chestplate, leggings, elytra) worn by the underlying player.
+  "shapesEquipArmor": true,
+  //Whether hostile mobs ignore players with hostile mob shapes.
+  "hostilesIgnoreHostileShapedPlayer": true,
+  //Whether a hostile mob will stop targeting you after switching to a hostile mob walkers.
+  "hostilesForgetNewHostileShapedPlayer": false,
+  //Whether Wolves will attack Players with an walkers that the Wolf would normally hunt (Sheep, Fox, Skeleton).
+  "wolvesAttack2ndShapedPrey": true,
+  //Whether owned Wolves will attack Players with an walkers that the Wolf would normally hunt (Sheep, Fox, Skeleton).
+  "ownedwolvesAttack2ndShapedPrey": false,
+  //Whether Villagers will run from Players morphed as shapes villagers normally run from (Zombies).
+  "villagersRunFrom2ndShapes": true,
+  //Whether Foxes will attack Players with an walkers that the Fox would normally hunt (Fish, Chicken).
+  "foxesAttack2ndShapedPrey": true,
+  //Whether Walkers sounds take priority over Player Sounds (eg. Blaze hurt sound when hit).
+  "useShapeSounds": true,
+  //Whether disguised players should randomly emit the ambient sound of their Walkers.
+  "playAmbientSounds": true,
+  //Whether disguised players should hear their own ambient sounds (only if playAmbientSounds is true).
+  "hearSelfAmbient": false,
+  //Whether mobs in the flying entity tag can fly.
+  "enableFlight": true,
+  //How long hostility lasts for players morphed as hostile mobs (think: Pigman aggression
+  "hostilityTime": 300,
+  //A list of Advancements required before the player can fly using an Walkers.
+  "advancementsRequiredForFlight": [],
+  //Whether Shapes modify your max health value based on their max health value.
+  "scalingHealth": true,
+  //This gets the percentage of your current health and implements it into your new health. Only works with scalingHealth!
+  "percentScalingHealth": true,
+  //The maximum value of scaling health. Useful for not giving players 300 HP when they turn into a wither.
+  "maxHealth": 40,
+  //Whether Shapes modify your attack damage value based on their attack damage value.
+  "scalingAttackDamage": true,
+  //The maximum value of scaling attack damage. Useful for not giving players 300 ATK when they turn into a boss.
+  "maxAttackDamage": 4.0,
+  //In blocks, how far can the Enderman ability teleport?
+  "endermanAbilityTeleportDistance": 32,
+  //Should player nametags render above players disguised with an walkers? Note that the server is the authority for this config option.
+  "showPlayerNametag": false,
+  //If true, /walkers commands will send feedback in the action bar.
+  "logCommands": true,
+  "flySpeed": 0.05,
+  //If true, players with the Warden Walkers will have a shorter view range with the darkness effect.
+  "wardenIsBlinded": true,
+  //If true, players with the Warden Walkers will blind other nearby players.
+  "wardenBlindsNearby": true,
+  //If true, players must unlock shapes first. If false, there will be a menu.
+  "enableUnlockSystem": true,
+  //If true, unlocking a shape will ignore current second shapes.
+  "unlockOveridesCurrentShape": false,
+  //Requieres enableUnlockSystem to be true- timer in ticks how long the unlock key shall be pressed.
+  "unlockTimer": 100.0,
+  //If true, Devs will have a third shape, if false, devs will only have two variants of their second shape.
+  "devShapeIsThirdShape": false,
+  "abilityCooldownMap": {
+    "minecraft:blaze": 20,
+    "minecraft:enderman": 100,
+    "minecraft:witch": 200,
+    "minecraft:creeper": 100,
+    "minecraft:wolf": 20,
+    "minecraft:wither": 200,
+    "minecraft:warden": 200,
+    "minecraft:sheep": 20,
+    "minecraft:ghast": 60,
+    "minecraft:ender_dragon": 20,
+    "minecraft:snow_golem": 10,
+    "minecraft:evoker": 10
+  }
+}

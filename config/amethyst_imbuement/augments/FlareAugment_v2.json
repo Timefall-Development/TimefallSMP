@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:flare",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 15,
+  "coolDownPerLvl": 0,
+  "manaCost": 3,
+  "minLvl": 1,
+  "castXp": 1
+}

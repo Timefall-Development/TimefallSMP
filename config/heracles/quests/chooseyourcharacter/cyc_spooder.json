@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cyc_spooder_check": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "cyc_spooder_reward": {
+      "command": "walkers switchShape @s wildlife:spider",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "The itsy bitsy spooder climbed out from under the rug...and ran like mad!"
+    },
+    "description": [],
+    "groups": {
+      "Choose Your Character": {
+        "position": [
+          -256,
+          -116
+        ]
+      }
+    },
+    "icon": {
+      "item": "wildlife:spider",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Itsy Bitsy Spooder"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

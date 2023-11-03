@@ -1,0 +1,45 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "q_strac_alloy_forge_interaction": {
+      "block": "alloy_forgery:stone_bricks_forge_controller",
+      "state": {},
+      "type": "heracles:block_interaction"
+    }
+  },
+  "rewards": {
+    "q_strac_alloy_forge_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 4",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Stracciatella": {
+        "position": [
+          -60,
+          90
+        ]
+      }
+    },
+    "icon": {
+      "item": "alloy_forgery:stone_bricks_forge_controller",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Alloy Forge Controller"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

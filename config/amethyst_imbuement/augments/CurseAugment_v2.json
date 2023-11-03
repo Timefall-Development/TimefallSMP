@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:curse",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 1920,
+  "coolDownPerLvl": -20,
+  "manaCost": 400,
+  "minLvl": 20,
+  "castXp": 65
+}

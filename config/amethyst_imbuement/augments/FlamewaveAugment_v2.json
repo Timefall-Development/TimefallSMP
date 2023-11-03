@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:flamewave",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 2,
+  "coolDownPerLvl": 0,
+  "manaCost": 2,
+  "minLvl": 24,
+  "castXp": 1
+}

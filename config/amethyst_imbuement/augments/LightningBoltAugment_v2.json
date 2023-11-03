@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:lightning_bolt",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 51,
+  "coolDownPerLvl": -1,
+  "manaCost": 20,
+  "minLvl": 11,
+  "castXp": 3
+}

@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:recall",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 12000,
+  "coolDownPerLvl": 0,
+  "manaCost": 400,
+  "minLvl": 15,
+  "castXp": 40
+}

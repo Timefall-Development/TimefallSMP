@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cyc_beauterfly_check": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "cyc_drake_reward": {
+      "command": "walkers switchShape @s wildlife:morpho_butterfly",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Flap....flap....flap....poke flower with proboscis....flap"
+    },
+    "description": [],
+    "groups": {
+      "Choose Your Character": {
+        "position": [
+          -208,
+          -116
+        ]
+      }
+    },
+    "icon": {
+      "item": "wildlife:morpho_butterfly",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "A little Beauterfly"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

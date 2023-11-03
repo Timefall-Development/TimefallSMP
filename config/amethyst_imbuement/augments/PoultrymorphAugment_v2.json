@@ -1,0 +1,10 @@
+{
+  "id": "amethyst_imbuement:poultrymorph",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 1200,
+  "coolDownPerLvl": 0,
+  "manaCost": 200,
+  "minLvl": 13,
+  "castXp": 35
+}

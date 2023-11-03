@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_ai_opaline"
+  ],
+  "tasks": {
+    "q_ai_fury_1_interaction": {
+      "item": "amethyst_imbuement:furious_scepter",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_ai_fury_1_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 12",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Amethyst Imbuement": {
+        "position": [
+          -57,
+          -50
+        ]
+      }
+    },
+    "icon": {
+      "item": "amethyst_imbuement:furious_scepter",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a Furious Scepter"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}

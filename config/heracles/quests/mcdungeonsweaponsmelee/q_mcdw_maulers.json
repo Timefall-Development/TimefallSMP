@@ -1,0 +1,46 @@
+{
+  "dependencies": [
+    "q_mcdw_gauntlets"
+  ],
+  "tasks": {
+    "q_mcdw_maulers_interaction": {
+      "item": "mcdw:gauntlet_maulers",
+      "type": "heracles:item_interaction"
+    }
+  },
+  "rewards": {
+    "q_mcdw_maulers_reward": {
+      "command": "puffish_skills experience add @s simplyskills:tree 8",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "MC Dungeons Weapons (Melee)": {
+        "position": [
+          -267,
+          -90
+        ]
+      }
+    },
+    "icon": {
+      "item": "mcdw:gauntlet_maulers",
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Craft a pair of Maulers"
+    }
+  },
+  "settings": {
+    "individual_progress": false,
+    "hidden": false,
+    "unlockNotification": false
+  }
+}
