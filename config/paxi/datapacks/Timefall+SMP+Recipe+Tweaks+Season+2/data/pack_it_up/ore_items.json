@@ -1,0 +1,1085 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"betterend:amber_gem",
+            "required": false
+        },
+        {
+            "id":"betterend:amber_ore",
+            "required": false
+        },
+        {
+            "id":"betterend:ender_ore",
+            "required": false
+        },
+        {
+            "id":"betterend:raw_amber",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_ore",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_raw",
+            "required": false
+        },
+        {
+            "id":"betternether:cincinnasite",
+            "required": false
+        },
+        {
+            "id":"betternether:cincinnasite_ore",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_lapis_ore",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_redstone_ore",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_ruby",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_ruby_ore",
+            "required": false
+        },
+        {
+            "id":"byg:ametrine_gems",
+            "required": false
+        },
+        {
+            "id":"byg:ametrine_ore",
+            "required": false
+        },
+        {
+            "id":"byg:anthracite_ore",
+            "required": false
+        },
+        {
+            "id":"byg:blue_nether_gold_ore",
+            "required": false
+        },
+        {
+            "id":"byg:blue_nether_quartz_ore",
+            "required": false
+        },
+        {
+            "id":"byg:brimstone_nether_gold_ore",
+            "required": false
+        },
+        {
+            "id":"byg:brimstone_nether_quartz_ore",
+            "required": false
+        },
+        {
+            "id":"byg:budding_ametrine_ore",
+            "required": false
+        },
+        {
+            "id":"byg:cryptic_redstone_ore",
+            "required": false
+        },
+        {
+            "id":"byg:emeraldite_ore",
+            "required": false
+        },
+        {
+            "id":"byg:emeraldite_shards",
+            "required": false
+        },
+        {
+            "id":"byg:pendorite_ore",
+            "required": false
+        },
+        {
+            "id":"byg:pendorite_scraps",
+            "required": false
+        },
+        {
+            "id":"byg:raw_pendorite",
+            "required": false
+        },
+        {
+            "id":"byg:raw_pendorite_block",
+            "required": false
+        },
+        {
+            "id":"byg:raw_quartz_block",
+            "required": false
+        },
+        {
+            "id":"conjuring:abundance_gem",
+            "required": false
+        },
+        {
+            "id":"conjuring:haste_gem",
+            "required": false
+        },
+        {
+            "id":"conjuring:ignorance_gem",
+            "required": false
+        },
+        {
+            "id":"conjuring:scope_gem",
+            "required": false
+        },
+        {
+            "id":"crittersandcompanions:pearl",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:deepslate_salt_ore",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:salt_ore",
+            "required": false
+        },
+        {
+            "id":"friendsandfoes:wildfire_crown_fragment",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:fulgurite",
+            "required": false
+        },
+        {
+            "id":"kubejs:rainbow_quartz",
+            "required": false
+        },
+        {
+            "id":"kubejs:tigers_eye",
+            "required": false
+        },
+        {
+            "id":"mcda:frost_crystal",
+            "required": false
+        },
+        {
+            "id":"mcda:gemstone_blue",
+            "required": false
+        },
+        {
+            "id":"mcda:gemstone_green",
+            "required": false
+        },
+        {
+            "id":"mcda:gemstone_purple",
+            "required": false
+        },
+        {
+            "id":"mcda:gemstone_red",
+            "required": false
+        },
+        {
+            "id":"mcda:gemstone_white",
+            "required": false
+        },
+        {
+            "id":"mermod:sea_crystal",
+            "required": false
+        },
+        {
+            "id":"minecraft:coal_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:copper_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:deepslate_coal_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:deepslate_copper_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:deepslate_diamond_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:deepslate_emerald_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:deepslate_gold_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:deepslate_iron_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:deepslate_lapis_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:deepslate_redstone_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:diamond_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:emerald_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:gold_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:iron_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:lapis_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:nether_gold_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:nether_quartz_ore",
+            "required": false
+        },
+        {
+            "id":"minecraft:raw_copper",
+            "required": false
+        },
+        {
+            "id":"minecraft:raw_copper_block",
+            "required": false
+        },
+        {
+            "id":"minecraft:raw_gold",
+            "required": false
+        },
+        {
+            "id":"minecraft:raw_gold_block",
+            "required": false
+        },
+        {
+            "id":"minecraft:raw_iron",
+            "required": false
+        },
+        {
+            "id":"minecraft:raw_iron_block",
+            "required": false
+        },
+        {
+            "id":"minecraft:redstone_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:adamantite_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:aquarium_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:banglum_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:blackstone_stormyx_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:calcite_kyber_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:calcite_starrite_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:carmot_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:deepslate_adamantite_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:deepslate_carmot_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:deepslate_morkite_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:deepslate_mythril_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:deepslate_orichalcum_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:deepslate_prometheum_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:deepslate_runite_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:deepslate_unobtainium_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:end_stone_starrite_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:kyber_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:manganese_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:midas_gold_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:morkite_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:mythril_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:nether_banglum_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:orichalcum_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:osmium_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:palladium_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:platinum_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:prometheum_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:quadrillum_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_adamantite",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_adamantite_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_aquarium",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_aquarium_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_banglum",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_banglum_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_carmot",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_carmot_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_kyber",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_kyber_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_manganese",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_manganese_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_midas_gold",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_midas_gold_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_mythril",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_mythril_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_orichalcum",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_orichalcum_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_osmium",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_osmium_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_palladium",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_palladium_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_platinum",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_platinum_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_prometheum",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_prometheum_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_quadrillum",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_quadrillum_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_runite",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_runite_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_silver",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_silver_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_stormyx",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_stormyx_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_tin",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:raw_tin_block",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:runite_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:silver_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:smooth_basalt_orichalcum_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:starrite_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:stormyx_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:tin_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:tuff_orichalcum_ore",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:unobtainium_ore",
+            "required": false
+        },
+        {
+            "id":"simplyswords:netherfused_gem",
+            "required": false
+        },
+        {
+            "id":"simplyswords:runefused_gem",
+            "required": false
+        },
+        {
+            "id":"spectrum:amethyst_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:azurite_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_dust",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_storage_block",
+            "required": false
+        },
+        {
+            "id":"spectrum:blackslag_coal_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:blackslag_diamond_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:blackslag_emerald_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:blackslag_gold_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:blackslag_iron_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:blackslag_lapis_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:blackslag_malachite_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:blackslag_redstone_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:blackslag_shimmerstone_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:citrine_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:deepslate_amethyst_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:deepslate_azurite_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:deepslate_citrine_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:deepslate_malachite_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:deepslate_moonstone_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:deepslate_onyx_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:deepslate_shimmerstone_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:deepslate_topaz_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:knowledge_gem",
+            "required": false
+        },
+        {
+            "id":"spectrum:malachite_crystal",
+            "required": false
+        },
+        {
+            "id":"spectrum:malachite_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:mermaids_gem",
+            "required": false
+        },
+        {
+            "id":"spectrum:moonstone_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:onyx_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:paltaeria_gem",
+            "required": false
+        },
+        {
+            "id":"spectrum:paltaeria_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:raw_azurite",
+            "required": false
+        },
+        {
+            "id":"spectrum:raw_malachite",
+            "required": false
+        },
+        {
+            "id":"spectrum:shimmerstone_gem",
+            "required": false
+        },
+        {
+            "id":"spectrum:shimmerstone_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:shooting_star_colorful",
+            "required": false
+        },
+        {
+            "id":"spectrum:shooting_star_fiery",
+            "required": false
+        },
+        {
+            "id":"spectrum:shooting_star_gemstone",
+            "required": false
+        },
+        {
+            "id":"spectrum:shooting_star_glistering",
+            "required": false
+        },
+        {
+            "id":"spectrum:shooting_star_pristine",
+            "required": false
+        },
+        {
+            "id":"spectrum:storm_stone",
+            "required": false
+        },
+        {
+            "id":"spectrum:stratine_gem",
+            "required": false
+        },
+        {
+            "id":"spectrum:stratine_ore",
+            "required": false
+        },
+        {
+            "id":"spectrum:topaz_ore",
+            "required": false
+        },
+        {
+            "id":"clutter:deepslate_silver_ore",
+            "required": false
+        },
+        {
+            "id":"clutter:silver_ore",
+            "required": false
+        },
+        {
+            "id":"clutter:raw_silver_block",
+            "required": false
+        },
+        {
+            "id":"clutter:raw_silver",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:sculk_stone_coal_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:sculk_stone_iron_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:sculk_stone_copper_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:sculk_stone_gold_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:sculk_stone_redstone_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:sculk_stone_emerald_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:sculk_stone_lapis_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:sculk_stone_diamond_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:gloomslate_coal_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:gloomslate_iron_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:gloomslate_copper_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:gloomslate_gold_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:gloomslate_redstone_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:gloomslate_emerald_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:gloomslate_lapis_ore",
+            "required": false
+        },
+        {
+            "id":"deeperdarker:gloomslate_diamond_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:andesite_coal_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:diorite_coal_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:granite_coal_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:tuff_coal_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:andesite_iron_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:diorite_iron_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:granite_iron_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:tuff_iron_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:andesite_copper_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:diorite_copper_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:granite_copper_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:tuff_copper_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:andesite_gold_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:diorite_gold_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:granite_gold_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:tuff_gold_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:andesite_redstone_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:diorite_redstone_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:granite_redstone_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:tuff_redstone_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:calcite_redstone_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:andesite_lapis_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:diorite_lapis_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:granite_lapis_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:tuff_lapis_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:andesite_emerald_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:diorite_emerald_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:granite_emerald_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:tuff_emerald_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:andesite_diamond_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:diorite_diamond_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:granite_diamond_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:tuff_diamond_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:smooth_basalt_diamond_ore",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_cinnabar_block",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_lazurite_block",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_emerald_block",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_diamond_block",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_quartz_block",
+            "required": false
+        },
+        {
+            "id":"spelunkery:raw_magnetite_block",
+            "required": false
+        },
+        {
+            "id":"spelunkery:cinnabar_block",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rock_salt_block",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rock_salt",
+            "required": false
+        },
+        {
+            "id":"spelunkery:nephrite_chunk",
+            "required": false
+        },
+        {
+            "id":"spelunkery:copper_nugget",
+            "required": false
+        },
+        {
+            "id":"spelunkery:raw_magnetite",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_cinnabar",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_lazurite",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_emerald",
+            "required": false
+        },
+        {
+            "id":"spelunkery:coal_lump",
+            "required": false
+        },
+        {
+            "id":"spelunkery:raw_iron_nugget",
+            "required": false
+        },
+        {
+            "id":"spelunkery:raw_copper_nugget",
+            "required": false
+        },
+        {
+            "id":"spelunkery:raw_gold_nugget",
+            "required": false
+        },
+        {
+            "id":"spelunkery:raw_magnetite_nugget",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_cinnabar_shard",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_lazurite_shard",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_emerald_shard",
+            "required": false
+        },
+        {
+            "id":"spelunkery:rough_diamond_shard",
+            "required": false
+        },
+        {
+            "id":"spelunkery:cinnabar_shard",
+            "required": false
+        },
+        {
+            "id":"spelunkery:lapis_lazuli_shard",
+            "required": false
+        },
+        {
+            "id":"spelunkery:emerald_shard",
+            "required": false
+        },
+        {
+            "id":"spelunkery:diamond_shard",
+            "required": false
+        },
+        {
+            "id":"spelunkery:cinnabar",
+            "required": false
+        }
+    ]
+}

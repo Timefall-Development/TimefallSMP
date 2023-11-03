@@ -1,0 +1,1101 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"everycomp:mcf/betterend/dragon_tree_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/dragon_tree_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/end_lotus_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/end_lotus_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/helix_tree_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/helix_tree_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/jellyshroom_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/jellyshroom_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lacugrove_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lacugrove_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lucernia_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lucernia_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/mossy_glowshroom_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/mossy_glowshroom_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/pythadendron_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/pythadendron_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/tenanea_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/tenanea_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/umbrella_tree_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/umbrella_tree_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/anchor_tree_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/anchor_tree_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/mushroom_fir_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/mushroom_fir_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_mushroom_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_mushroom_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_reed_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_reed_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_sakura_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_sakura_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/rubeus_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/rubeus_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/stalagnate_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/stalagnate_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/wart_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/wart_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/willow_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/willow_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/aspen_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/aspen_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/baobab_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/baobab_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/blue_enchanted_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/blue_enchanted_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/bulbis_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/bulbis_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cherry_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cherry_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cika_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cika_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cypress_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cypress_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ebony_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ebony_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ether_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ether_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/fir_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/fir_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/green_enchanted_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/green_enchanted_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/holly_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/holly_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/imparius_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/imparius_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/jacaranda_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/jacaranda_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/lament_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/lament_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/mahogany_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/mahogany_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/maple_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/maple_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/nightshade_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/nightshade_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/palm_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/palm_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/pine_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/pine_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/rainbow_eucalyptus_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/rainbow_eucalyptus_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/redwood_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/redwood_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/skyris_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/skyris_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/sythian_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/sythian_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/white_mangrove_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/white_mangrove_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/willow_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/willow_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/witch_hazel_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/witch_hazel_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/zelkova_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/zelkova_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/azalea_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/azalea_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/coconut_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/coconut_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/flowering_azalea_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/flowering_azalea_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/walnut_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/walnut_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/black_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/black_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/blue_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/blue_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/brown_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/brown_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/cyan_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/cyan_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/gray_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/gray_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/green_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/green_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_blue_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_blue_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_gray_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_gray_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/lime_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/lime_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/magenta_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/magenta_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/orange_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/orange_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/pink_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/pink_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/purple_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/purple_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/red_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/red_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/white_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/white_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/yellow_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/yellow_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/traverse/fir_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/traverse/fir_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/vinery/cherry_highley_gate",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/vinery/cherry_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:acacia_wood_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:birch_wood_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:crimson_hyphae_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:dark_oak_wood_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:jungle_wood_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:mangrove_wood_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:nether_brick_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:oak_wood_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:red_nether_brick_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:spruce_wood_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_acacia_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_birch_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_crimson_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_dark_oak_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_jungle_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_mangrove_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_oak_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_spruce_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_warped_fence_gate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:warped_hyphae_fence_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:acacia_highley_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:acacia_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:andesite_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:birch_highley_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:birch_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:blackstone_brick_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:blackstone_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:crimson_highley_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:crimson_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:dark_oak_highley_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:dark_oak_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:deepslate_brick_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:deepslate_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:diorite_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:end_brick_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:granite_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:jungle_highley_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:jungle_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:mangrove_highley_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:mangrove_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:mud_brick_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:nether_brick_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:oak_highley_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:oak_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:prismarine_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:quartz_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:red_sandstone_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:sandstone_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:spruce_highley_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:spruce_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:stone_brick_railing_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:warped_highley_gate",
+            "required": false
+        },
+        {
+            "id":"mcwfences:warped_pyramid_gate",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:charred_fence_gate",
+            "required": false
+        },
+        {
+            "id":"supplementaries:gold_gate",
+            "required": false
+        },
+        {
+            "id":"supplementaries:iron_gate",
+            "required": false
+        },
+        {
+            "id":"traverse:fir_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:aspen_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:baobab_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:blue_enchanted_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:bulbis_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:cherry_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:cika_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:cypress_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:ebony_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:embur_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:ether_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:fir_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:green_enchanted_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:holly_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:imparius_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:jacaranda_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:lament_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:mahogany_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:maple_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:nightshade_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:palm_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:pine_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:rainbow_eucalyptus_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:redwood_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:skyris_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:sythian_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:white_mangrove_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:willow_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:witch_hazel_fence_gate",
+            "required": false
+        },
+        {
+            "id":"byg:zelkova_fence_gate",
+            "required": false
+        },
+        {
+            "id":"betterend:dragon_tree_gate",
+            "required": false
+        },
+        {
+            "id":"betterend:end_lotus_gate",
+            "required": false
+        },
+        {
+            "id":"betterend:helix_tree_gate",
+            "required": false
+        },
+        {
+            "id":"betterend:jellyshroom_gate",
+            "required": false
+        },
+        {
+            "id":"betterend:lacugrove_gate",
+            "required": false
+        },
+        {
+            "id":"betterend:lucernia_gate",
+            "required": false
+        },
+        {
+            "id":"betterend:mossy_glowshroom_gate",
+            "required": false
+        },
+        {
+            "id":"betterend:pythadendron_gate",
+            "required": false
+        },
+        {
+            "id":"betterend:tenanea_gate",
+            "required": false
+        },
+        {
+            "id":"betterend:umbrella_tree_gate",
+            "required": false
+        },
+        {
+            "id":"betternether:anchor_tree_gate",
+            "required": false
+        },
+        {
+            "id":"betternether:mushroom_fir_gate",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_mushroom_gate",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_reed_gate",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_sakura_gate",
+            "required": false
+        },
+        {
+            "id":"betternether:rubeus_gate",
+            "required": false
+        },
+        {
+            "id":"betternether:stalagnate_gate",
+            "required": false
+        },
+        {
+            "id":"betternether:wart_gate",
+            "required": false
+        },
+        {
+            "id":"betternether:willow_gate",
+            "required": false
+        },
+        {
+            "id":"ecologics:azalea_fence_gate",
+            "required": false
+        },
+        {
+            "id":"ecologics:coconut_fence_gate",
+            "required": false
+        },
+        {
+            "id":"ecologics:flowering_azalea_fence_gate",
+            "required": false
+        },
+        {
+            "id":"ecologics:walnut_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:black_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:blue_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:brown_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:cyan_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:dike_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:gray_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:green_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:light_blue_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:light_gray_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:lime_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:magenta_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:orange_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:pink_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:purple_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:red_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:white_fence_gate",
+            "required": false
+        },
+        {
+            "id":"spectrum:yellow_fence_gate",
+            "required": false
+        },
+        {
+            "id":"minecraft:acacia_fence_gate",
+            "required": false
+        },
+        {
+            "id":"minecraft:birch_fence_gate",
+            "required": false
+        },
+        {
+            "id":"minecraft:crimson_fence_gate",
+            "required": false
+        },
+        {
+            "id":"minecraft:dark_oak_fence_gate",
+            "required": false
+        },
+        {
+            "id":"minecraft:jungle_fence_gate",
+            "required": false
+        },
+        {
+            "id":"minecraft:mangrove_fence_gate",
+            "required": false
+        },
+        {
+            "id":"minecraft:oak_fence_gate",
+            "required": false
+        },
+        {
+            "id":"minecraft:spruce_fence_gate",
+            "required": false
+        },
+        {
+            "id":"minecraft:warped_fence_gate",
+            "required": false
+        },
+        {
+            "id":"vinery:cherry_fence_gate",
+            "required": false
+        }
+    ]
+}

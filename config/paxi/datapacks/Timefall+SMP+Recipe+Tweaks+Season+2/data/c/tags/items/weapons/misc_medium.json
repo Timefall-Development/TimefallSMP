@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"mcdw:spear_cackling_broom",
+            "required": false
+        }
+    ]
+}

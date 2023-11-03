@@ -1,0 +1,105 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"simplyswords:storms_edge",
+            "required": false
+        },
+        {
+            "id":"simplyswords:diamond_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:gold_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:iron_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/adamantite/adamantite_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/aquarium/aquarium_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/banglum/banglum_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/bronze/bronze_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/carmot/carmot_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/celestium/celestium_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/kyber/kyber_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/metallurgium/metallurgium_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/mythril/mythril_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/orichalcum/orichalcum_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/osmium/osmium_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/palladium/palladium_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/quadrillum/quadrillum_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/runite/runite_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/star_platinum/star_platinum_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/steel/steel_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/stormyx/stormyx_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:netherite_twinblade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:runic_twinblade",
+            "required": false
+        },
+        {
+            "id":"mcdw:sword_dancers_sword",
+            "required": false
+        }
+    ]
+}

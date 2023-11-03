@@ -1,0 +1,113 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"simplyswords:sword_on_a_stick",
+            "required": false
+        },
+        {
+            "id":"simplyswords:diamond_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:gold_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:iron_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/adamantite/adamantite_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/aquarium/aquarium_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/banglum/banglum_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/bronze/bronze_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/carmot/carmot_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/celestium/celestium_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/kyber/kyber_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/metallurgium/metallurgium_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/mythril/mythril_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/orichalcum/orichalcum_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/osmium/osmium_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/palladium/palladium_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/prometheum/prometheum_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/quadrillum/quadrillum_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/runite/runite_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/star_platinum/star_platinum_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/steel/steel_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/stormyx/stormyx_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:netherite_spear",
+            "required": false
+        },
+        {
+            "id":"simplyswords:runic_spear",
+            "required": false
+        },
+        {
+            "id":"mcdw:spear_spear",
+            "required": false
+        },
+        {
+            "id":"mcdw:spear_whispering_spear",
+            "required": false
+        },
+        {
+            "id":"mcdw:spear_fortune",
+            "required": false
+        }
+    ]
+}

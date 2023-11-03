@@ -1,0 +1,45 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id": "#c:wooden_chests",
+            "required": false
+        },
+        {
+            "id": "#c:metal_chests",
+            "required": false
+        },
+        {
+            "id":"lootr:lootr_chest",
+            "required":false
+        },
+        {
+            "id":"lootr:lootr_trapped_chest",
+            "required":false
+        },
+        {
+            "id":"spectrum:compacting_chest",
+            "required":false
+        },
+        {
+            "id":"spectrum:private_chest",
+            "required":false
+        },
+        {
+            "id":"spectrum:restocking_chest",
+            "required":false
+        },
+        {
+            "id":"spectrum:sucking_chest",
+            "required":false
+        },
+        {
+            "id":"spectrum:treasure_chest",
+            "required":false
+        },
+        {
+            "id":"minecraft:ender_chest",
+            "required":false
+        }
+    ]
+}

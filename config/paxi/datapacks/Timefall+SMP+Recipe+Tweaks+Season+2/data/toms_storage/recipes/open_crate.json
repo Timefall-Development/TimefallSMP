@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"PSP",
+    "PCP",
+    "PTP"
+  ],
+  "key": {
+  	"P": {
+      "tag": "minecraft:planks"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    },
+    "S": {
+      "tag": "c:steel_ingots"
+    },
+    "T": {
+      "tag": "mcwtrpdoors:metal_full_trapdoor"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.open_crate"
+  }
+}

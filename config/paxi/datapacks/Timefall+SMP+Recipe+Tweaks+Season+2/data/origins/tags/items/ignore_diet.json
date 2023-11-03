@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id":"spelunkery:portal_fluid_bottle",
+      "required":false
+    }
+  ]
+}

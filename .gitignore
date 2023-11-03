@@ -28,3 +28,5 @@ replay_pid*
 /.idea/modules.xml
 /.idea/TimefallSMP.iml
 /.idea/vcs.xml
+/config/axiom/.axiominternal.hocon
+/config/.idea/.gitignore

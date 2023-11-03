@@ -1,0 +1,2025 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"everycomp:mcb/betterend/dragon_tree_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/dragon_tree_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/dragon_tree_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/dragon_tree_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/dragon_tree_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/end_lotus_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/end_lotus_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/end_lotus_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/end_lotus_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/end_lotus_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/helix_tree_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/helix_tree_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/helix_tree_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/helix_tree_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/helix_tree_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/jellyshroom_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/jellyshroom_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/jellyshroom_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/jellyshroom_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/jellyshroom_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/lacugrove_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/lacugrove_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/lacugrove_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/lacugrove_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/lacugrove_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/lucernia_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/lucernia_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/lucernia_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/lucernia_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/lucernia_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/mossy_glowshroom_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/mossy_glowshroom_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/mossy_glowshroom_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/mossy_glowshroom_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/mossy_glowshroom_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/pythadendron_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/pythadendron_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/pythadendron_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/pythadendron_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/pythadendron_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/rope_dragon_tree_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/rope_end_lotus_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/rope_helix_tree_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/rope_jellyshroom_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/rope_lacugrove_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/rope_lucernia_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/rope_mossy_glowshroom_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/rope_pythadendron_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/rope_tenanea_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/rope_umbrella_tree_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/tenanea_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/tenanea_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/tenanea_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/tenanea_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/tenanea_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/umbrella_tree_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/umbrella_tree_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/umbrella_tree_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/umbrella_tree_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betterend/umbrella_tree_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/anchor_tree_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/anchor_tree_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/anchor_tree_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/anchor_tree_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/anchor_tree_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/mushroom_fir_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/mushroom_fir_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/mushroom_fir_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/mushroom_fir_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/mushroom_fir_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_mushroom_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_mushroom_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_mushroom_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_mushroom_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_mushroom_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_reed_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_reed_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_reed_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_reed_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_reed_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_sakura_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_sakura_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_sakura_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_sakura_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/nether_sakura_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rope_anchor_tree_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rope_mushroom_fir_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rope_nether_mushroom_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rope_nether_reed_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rope_nether_sakura_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rope_rubeus_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rope_stalagnate_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rope_wart_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rope_willow_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rubeus_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rubeus_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rubeus_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rubeus_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/rubeus_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/stalagnate_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/stalagnate_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/stalagnate_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/stalagnate_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/stalagnate_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/wart_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/wart_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/wart_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/wart_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/wart_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/willow_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/willow_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/willow_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/willow_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/betternether/willow_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/aspen_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/aspen_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/aspen_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/aspen_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/aspen_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/baobab_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/baobab_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/baobab_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/baobab_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/baobab_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/blue_enchanted_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/blue_enchanted_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/blue_enchanted_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/blue_enchanted_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/blue_enchanted_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/bulbis_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/bulbis_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/bulbis_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/bulbis_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/bulbis_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cherry_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cherry_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cherry_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cherry_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cherry_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cika_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cika_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cika_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cika_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cika_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cypress_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cypress_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cypress_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cypress_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/cypress_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/ebony_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/ebony_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/ebony_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/ebony_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/ebony_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/ether_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/ether_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/ether_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/ether_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/ether_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/fir_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/fir_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/fir_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/fir_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/fir_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/green_enchanted_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/green_enchanted_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/green_enchanted_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/green_enchanted_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/green_enchanted_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/holly_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/holly_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/holly_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/holly_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/holly_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/imparius_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/imparius_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/imparius_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/imparius_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/imparius_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/jacaranda_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/jacaranda_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/jacaranda_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/jacaranda_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/jacaranda_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/lament_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/lament_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/lament_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/lament_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/lament_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/mahogany_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/mahogany_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/mahogany_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/mahogany_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/mahogany_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/maple_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/maple_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/maple_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/maple_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/maple_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/nightshade_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/nightshade_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/nightshade_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/nightshade_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/nightshade_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/palm_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/palm_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/palm_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/palm_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/palm_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/pine_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/pine_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/pine_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/pine_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/pine_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rainbow_eucalyptus_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rainbow_eucalyptus_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rainbow_eucalyptus_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rainbow_eucalyptus_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rainbow_eucalyptus_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/redwood_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/redwood_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/redwood_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/redwood_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/redwood_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_aspen_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_baobab_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_blue_enchanted_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_bulbis_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_cherry_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_cika_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_cypress_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_ebony_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_ether_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_fir_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_green_enchanted_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_holly_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_imparius_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_jacaranda_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_lament_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_mahogany_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_maple_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_nightshade_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_palm_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_pine_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_rainbow_eucalyptus_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_redwood_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_skyris_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_sythian_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_white_mangrove_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_willow_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_witch_hazel_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/rope_zelkova_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/skyris_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/skyris_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/skyris_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/skyris_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/skyris_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/sythian_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/sythian_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/sythian_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/sythian_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/sythian_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/white_mangrove_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/white_mangrove_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/white_mangrove_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/white_mangrove_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/white_mangrove_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/willow_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/willow_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/willow_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/willow_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/willow_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/witch_hazel_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/witch_hazel_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/witch_hazel_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/witch_hazel_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/witch_hazel_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/zelkova_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/zelkova_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/zelkova_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/zelkova_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/byg/zelkova_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/azalea_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/azalea_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/azalea_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/azalea_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/azalea_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/coconut_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/coconut_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/coconut_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/coconut_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/coconut_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/flowering_azalea_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/flowering_azalea_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/flowering_azalea_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/flowering_azalea_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/flowering_azalea_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/rope_azalea_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/rope_coconut_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/rope_flowering_azalea_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/rope_walnut_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/walnut_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/walnut_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/walnut_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/walnut_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/ecologics/walnut_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/black_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/black_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/black_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/black_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/black_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/blue_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/blue_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/blue_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/blue_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/blue_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/brown_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/brown_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/brown_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/brown_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/brown_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/cyan_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/cyan_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/cyan_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/cyan_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/cyan_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/gray_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/gray_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/gray_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/gray_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/gray_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/green_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/green_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/green_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/green_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/green_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/light_blue_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/light_blue_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/light_blue_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/light_blue_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/light_blue_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/light_gray_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/light_gray_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/light_gray_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/light_gray_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/light_gray_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/lime_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/lime_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/lime_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/lime_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/lime_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/magenta_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/magenta_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/magenta_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/magenta_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/magenta_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/orange_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/orange_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/orange_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/orange_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/orange_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/pink_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/pink_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/pink_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/pink_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/pink_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/purple_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/purple_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/purple_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/purple_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/purple_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/red_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/red_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/red_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/red_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/red_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_black_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_blue_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_brown_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_cyan_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_gray_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_green_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_light_blue_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_light_gray_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_lime_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_magenta_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_orange_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_pink_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_purple_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_red_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_white_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/rope_yellow_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/white_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/white_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/white_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/white_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/white_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/yellow_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/yellow_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/yellow_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/yellow_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/spectrum/yellow_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/traverse/fir_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/traverse/fir_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/traverse/fir_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/traverse/fir_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/traverse/fir_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/traverse/rope_fir_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/vinery/cherry_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/vinery/cherry_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/vinery/cherry_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/vinery/cherry_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/vinery/cherry_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcb/vinery/rope_cherry_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:acacia_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:acacia_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:acacia_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:acacia_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:acacia_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:bamboo_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:bamboo_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:bamboo_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:birch_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:birch_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:birch_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:birch_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:birch_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:blackstone_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:blackstone_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:blackstone_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:brick_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:brick_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:brick_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:crimson_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:crimson_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:crimson_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:crimson_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:crimson_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:dark_oak_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:dark_oak_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:dark_oak_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:dark_oak_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:dark_oak_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:deepslate_brick_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:deepslate_brick_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:deepslate_brick_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:deepslate_tile_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:deepslate_tile_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:deepslate_tile_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:dry_bamboo_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:dry_bamboo_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:dry_bamboo_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:iron_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:iron_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:iron_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:jungle_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:jungle_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:jungle_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:jungle_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:jungle_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:mangrove_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:mangrove_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:mangrove_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:mangrove_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:mangrove_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:mossy_stone_brick_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:mossy_stone_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:mossy_stone_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:mud_brick_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:mud_brick_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:mud_brick_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:oak_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:oak_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:oak_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:oak_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:oak_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:orange_sandstone_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:pliers",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:red_sandstone_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:red_sandstone_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:rope_acacia_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:rope_birch_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:rope_crimson_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:rope_dark_oak_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:rope_jungle_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:rope_mangrove_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:rope_oak_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:rope_spruce_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:rope_warped_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:sandstone_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:sandstone_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:sandstone_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:spruce_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:spruce_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:spruce_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:spruce_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:spruce_rope_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:stone_brick_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:stone_brick_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:stone_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:warped_bridge_pier",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:warped_log_bridge_middle",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:warped_log_bridge_stair",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:warped_rail_bridge",
+            "required": false
+        },
+        {
+            "id":"mcwbridges:warped_rope_bridge_stair",
+            "required": false
+        }
+    ]
+}

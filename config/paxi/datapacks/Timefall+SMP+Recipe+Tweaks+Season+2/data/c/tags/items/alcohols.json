@@ -1,0 +1,85 @@
+{
+    "required": false,
+    "values": [
+        {
+            "id":"brewinandchewin:bloody_mary",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:dread_nog",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:egg_grog",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:glittering_grenadine",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:mead",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:pale_jane",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:red_rum",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:saccharine_rum",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:salty_folly",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:steel_toe_stout",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:vodka",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:withering_dross",
+            "required": false
+        },
+        {
+            "id":"spectrum:pure_alcohol",
+            "required": false
+        },
+        {
+            "id":"spectrum:reprise",
+            "required": false
+        },
+        {
+            "id":"spectrum:infused_beverage",
+            "required": false
+        },
+        {
+            "id":"spectrum:suspicious_brew",
+            "required": false
+        },
+        {
+            "id":"spectrum:chrysocolla",
+            "required": false
+        },
+        {
+            "id":"spectrum:moonshine",
+            "required": false
+        },
+        {
+            "id":"#c:wines",
+            "required": false
+        },
+        {
+            "id":"#c:beers",
+            "required": false
+        }
+    ]
+}

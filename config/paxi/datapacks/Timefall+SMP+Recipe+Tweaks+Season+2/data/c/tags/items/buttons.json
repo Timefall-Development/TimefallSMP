@@ -1,0 +1,1753 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"everycomp:ib/betterend/dragon_tree_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/dragon_tree_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/end_lotus_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/end_lotus_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/helix_tree_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/helix_tree_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/jellyshroom_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/jellyshroom_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/lacugrove_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/lacugrove_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/lucernia_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/lucernia_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/mossy_glowshroom_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/mossy_glowshroom_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/pythadendron_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/pythadendron_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/tenanea_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/tenanea_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/umbrella_tree_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betterend/umbrella_tree_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/anchor_tree_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/anchor_tree_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/mushroom_fir_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/mushroom_fir_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/nether_mushroom_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/nether_mushroom_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/nether_reed_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/nether_reed_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/nether_sakura_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/nether_sakura_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/rubeus_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/rubeus_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/stalagnate_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/stalagnate_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/wart_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/wart_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/willow_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/betternether/willow_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/aspen_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/aspen_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/baobab_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/baobab_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/blue_enchanted_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/blue_enchanted_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/bulbis_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/bulbis_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/cherry_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/cherry_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/cika_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/cika_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/cypress_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/cypress_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/ebony_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/ebony_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/ether_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/ether_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/fir_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/fir_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/green_enchanted_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/green_enchanted_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/holly_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/holly_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/imparius_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/imparius_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/jacaranda_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/jacaranda_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/lament_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/lament_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/mahogany_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/mahogany_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/maple_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/maple_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/nightshade_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/nightshade_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/palm_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/palm_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/pine_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/pine_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/rainbow_eucalyptus_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/rainbow_eucalyptus_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/redwood_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/redwood_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/skyris_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/skyris_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/sythian_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/sythian_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/white_mangrove_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/white_mangrove_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/willow_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/willow_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/witch_hazel_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/witch_hazel_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/zelkova_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/byg/zelkova_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/ecologics/azalea_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/ecologics/azalea_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/ecologics/coconut_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/ecologics/coconut_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/ecologics/flowering_azalea_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/ecologics/flowering_azalea_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/ecologics/walnut_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/ecologics/walnut_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/black_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/black_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/blue_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/blue_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/brown_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/brown_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/cyan_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/cyan_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/gray_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/gray_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/green_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/green_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/light_blue_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/light_blue_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/light_gray_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/light_gray_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/lime_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/lime_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/magenta_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/magenta_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/orange_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/orange_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/pink_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/pink_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/purple_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/purple_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/red_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/red_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/white_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/white_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/yellow_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/spectrum/yellow_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/traverse/fir_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/traverse/fir_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/vinery/cherry_large_button",
+            "required": false
+        },
+        {
+            "id":"everycomp:ib/vinery/cherry_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:acacia_wood_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:andesite_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:basalt_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:birch_wood_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:blackstone_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:calcite_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:copper_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:crimson_hyphae_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:dark_oak_wood_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:deepslate_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:diorite_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:dripstone_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:exposed_copper_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:gold_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:granite_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:iron_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:jungle_wood_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:mangrove_wood_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:oak_wood_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:oxidized_copper_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:red_sandstone_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:sandstone_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:spruce_wood_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_acacia_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_birch_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_crimson_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_dark_oak_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_jungle_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_mangrove_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_oak_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_spruce_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_warped_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:tuff_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:warped_hyphae_button",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:weathered_copper_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:acacia_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:acacia_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:andesite_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:andesite_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:birch_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:birch_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:black_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:black_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:black_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:black_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:blue_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:blue_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:blue_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:blue_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:bookshelf_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:brown_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:brown_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:brown_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:brown_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:calcite_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:calcite_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:chiseled_nether_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:chiseled_polished_blackstone_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:chiseled_stone_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:copper_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:copper_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:cracked_deepslate_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:cracked_deepslate_tile_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:cracked_nether_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:cracked_polished_blackstone_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:cracked_stone_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:crimson_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:crimson_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:cyan_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:cyan_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:cyan_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:cyan_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:dark_oak_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:dark_oak_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:dark_prismarine_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:dark_prismarine_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:dark_prismarine_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:deepslate_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:deepslate_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:deepslate_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:deepslate_tile_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:diamond_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:diamond_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:diorite_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:diorite_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:doorbell",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:doorbell_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:dripstone_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:dripstone_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:emerald_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:emerald_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:end_stone_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:exposed_copper_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:exposed_copper_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:fancy_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:fancy_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:gold_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:gold_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:granite_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:granite_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:gravel_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:gravel_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:gray_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:gray_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:gray_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:gray_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:green_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:green_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:green_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:green_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:iron_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:iron_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:jungle_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:jungle_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:lamp_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:lamp_lever",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:light_blue_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:light_blue_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:light_blue_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:light_blue_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:light_gray_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:light_gray_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:light_gray_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:light_gray_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:lime_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:lime_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:lime_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:lime_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:magenta_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:magenta_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:magenta_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:magenta_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:mangrove_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:mangrove_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:mossy_stone_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:mud_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:nether_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:oak_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:oak_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:orange_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:orange_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:orange_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:orange_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:oxidized_copper_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:oxidized_copper_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:pink_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:pink_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:pink_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:pink_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:polished_blackstone_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:polished_blackstone_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:prismarine_brick_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:prismarine_brick_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:prismarine_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:prismarine_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:purple_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:purple_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:purple_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:purple_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:quartz_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:red_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:red_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:red_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:red_nether_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:red_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:red_sand_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:red_sand_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:redstone_torch_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:redstone_torch_lever",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:sand_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:sand_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:soul_torch_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:soul_torch_lever",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:spruce_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:spruce_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:sticky_copper_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:sticky_copper_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:sticky_exposed_copper_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:sticky_exposed_copper_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:sticky_oxidized_copper_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:sticky_oxidized_copper_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:sticky_weathered_copper_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:sticky_weathered_copper_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:stone_brick_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:stone_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:torch_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:torch_lever",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:tuff_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:tuff_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:warped_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:warped_plank_secret_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:weathered_copper_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:weathered_copper_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:white_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:white_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:white_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:white_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:yellow_concrete_powder_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:yellow_concrete_powder_large_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:yellow_emergency_button",
+            "required": false
+        },
+        {
+            "id":"infinitybuttons:yellow_safe_emergency_button",
+            "required": false
+        },
+        {
+            "id":"traverse:fir_button",
+            "required": false
+        },
+        {
+            "id":"byg:aspen_button",
+            "required": false
+        },
+        {
+            "id":"byg:baobab_button",
+            "required": false
+        },
+        {
+            "id":"byg:blue_enchanted_button",
+            "required": false
+        },
+        {
+            "id":"byg:bulbis_button",
+            "required": false
+        },
+        {
+            "id":"byg:cherry_button",
+            "required": false
+        },
+        {
+            "id":"byg:cika_button",
+            "required": false
+        },
+        {
+            "id":"byg:cypress_button",
+            "required": false
+        },
+        {
+            "id":"byg:ebony_button",
+            "required": false
+        },
+        {
+            "id":"byg:embur_button",
+            "required": false
+        },
+        {
+            "id":"byg:ether_button",
+            "required": false
+        },
+        {
+            "id":"byg:fir_button",
+            "required": false
+        },
+        {
+            "id":"byg:green_enchanted_button",
+            "required": false
+        },
+        {
+            "id":"byg:holly_button",
+            "required": false
+        },
+        {
+            "id":"byg:imparius_button",
+            "required": false
+        },
+        {
+            "id":"byg:jacaranda_button",
+            "required": false
+        },
+        {
+            "id":"byg:lament_button",
+            "required": false
+        },
+        {
+            "id":"byg:mahogany_button",
+            "required": false
+        },
+        {
+            "id":"byg:maple_button",
+            "required": false
+        },
+        {
+            "id":"byg:nightshade_button",
+            "required": false
+        },
+        {
+            "id":"byg:palm_button",
+            "required": false
+        },
+        {
+            "id":"byg:pine_button",
+            "required": false
+        },
+        {
+            "id":"byg:rainbow_eucalyptus_button",
+            "required": false
+        },
+        {
+            "id":"byg:redwood_button",
+            "required": false
+        },
+        {
+            "id":"byg:skyris_button",
+            "required": false
+        },
+        {
+            "id":"byg:sythian_button",
+            "required": false
+        },
+        {
+            "id":"byg:white_mangrove_button",
+            "required": false
+        },
+        {
+            "id":"byg:willow_button",
+            "required": false
+        },
+        {
+            "id":"byg:witch_hazel_button",
+            "required": false
+        },
+        {
+            "id":"byg:zelkova_button",
+            "required": false
+        },
+        {
+            "id":"betterend:azure_jadestone_button",
+            "required": false
+        },
+        {
+            "id":"betterend:dragon_tree_button",
+            "required": false
+        },
+        {
+            "id":"betterend:end_lotus_button",
+            "required": false
+        },
+        {
+            "id":"betterend:flavolite_button",
+            "required": false
+        },
+        {
+            "id":"betterend:helix_tree_button",
+            "required": false
+        },
+        {
+            "id":"betterend:jellyshroom_button",
+            "required": false
+        },
+        {
+            "id":"betterend:lacugrove_button",
+            "required": false
+        },
+        {
+            "id":"betterend:lucernia_button",
+            "required": false
+        },
+        {
+            "id":"betterend:mossy_glowshroom_button",
+            "required": false
+        },
+        {
+            "id":"betterend:pythadendron_button",
+            "required": false
+        },
+        {
+            "id":"betterend:sandy_jadestone_button",
+            "required": false
+        },
+        {
+            "id":"betterend:sulphuric_rock_button",
+            "required": false
+        },
+        {
+            "id":"betterend:tenanea_button",
+            "required": false
+        },
+        {
+            "id":"betterend:umbralith_button",
+            "required": false
+        },
+        {
+            "id":"betterend:umbrella_tree_button",
+            "required": false
+        },
+        {
+            "id":"betterend:violecite_button",
+            "required": false
+        },
+        {
+            "id":"betterend:virid_jadestone_button",
+            "required": false
+        },
+        {
+            "id":"betternether:anchor_tree_button",
+            "required": false
+        },
+        {
+            "id":"betternether:bone_button",
+            "required": false
+        },
+        {
+            "id":"betternether:cincinnasite_button",
+            "required": false
+        },
+        {
+            "id":"betternether:mushroom_fir_button",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_mushroom_button",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_reed_button",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_sakura_button",
+            "required": false
+        },
+        {
+            "id":"betternether:rubeus_button",
+            "required": false
+        },
+        {
+            "id":"betternether:stalagnate_button",
+            "required": false
+        },
+        {
+            "id":"betternether:wart_button",
+            "required": false
+        },
+        {
+            "id":"betternether:willow_button",
+            "required": false
+        },
+        {
+            "id":"ecologics:azalea_button",
+            "required": false
+        },
+        {
+            "id":"ecologics:coconut_button",
+            "required": false
+        },
+        {
+            "id":"ecologics:walnut_button",
+            "required": false
+        },
+        {
+            "id":"friendsandfoes:copper_button",
+            "required": false
+        },
+        {
+            "id":"friendsandfoes:exposed_copper_button",
+            "required": false
+        },
+        {
+            "id":"friendsandfoes:oxidized_copper_button",
+            "required": false
+        },
+        {
+            "id":"friendsandfoes:waxed_copper_button",
+            "required": false
+        },
+        {
+            "id":"friendsandfoes:waxed_exposed_copper_button",
+            "required": false
+        },
+        {
+            "id":"friendsandfoes:waxed_oxidized_copper_button",
+            "required": false
+        },
+        {
+            "id":"friendsandfoes:waxed_weathered_copper_button",
+            "required": false
+        },
+        {
+            "id":"friendsandfoes:weathered_copper_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:black_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:blue_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:brown_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:cyan_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:gray_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:green_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:light_blue_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:light_gray_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:lime_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:magenta_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:orange_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:pink_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:purple_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:red_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:white_button",
+            "required": false
+        },
+        {
+            "id":"spectrum:yellow_button",
+            "required": false
+        },
+        {
+            "id":"minecraft:acacia_button",
+            "required": false
+        },
+        {
+            "id":"minecraft:birch_button",
+            "required": false
+        },
+        {
+            "id":"minecraft:crimson_button",
+            "required": false
+        },
+        {
+            "id":"minecraft:dark_oak_button",
+            "required": false
+        },
+        {
+            "id":"minecraft:jungle_button",
+            "required": false
+        },
+        {
+            "id":"minecraft:mangrove_button",
+            "required": false
+        },
+        {
+            "id":"minecraft:oak_button",
+            "required": false
+        },
+        {
+            "id":"minecraft:polished_blackstone_button",
+            "required": false
+        },
+        {
+            "id":"minecraft:spruce_button",
+            "required": false
+        },
+        {
+            "id":"minecraft:stone_button",
+            "required": false
+        },
+        {
+            "id":"minecraft:warped_button",
+            "required": false
+        },
+        {
+            "id":"vinery:cherry_button",
+            "required": false
+        }
+    ]
+}

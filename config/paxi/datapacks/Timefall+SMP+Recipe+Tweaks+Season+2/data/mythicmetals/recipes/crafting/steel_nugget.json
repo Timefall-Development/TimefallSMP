@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:steel_ingots"
+    }
+  ],
+  "result": {
+    "item": "mythicmetals:steel_nugget",
+    "count": 9
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "mythicmetals:nuggets_enabled"
+    }
+  ]
+}

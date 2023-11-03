@@ -1,0 +1,33 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"byg:allium_flower_bush",
+            "required": false
+        },
+        {
+            "id":"byg:pink_allium",
+            "required": false
+        },
+        {
+            "id":"byg:pink_allium_flower_bush",
+            "required": false
+        },
+        {
+            "id":"byg:tall_allium",
+            "required": false
+        },
+        {
+            "id":"byg:tall_pink_allium",
+            "required": false
+        },
+        {
+            "id":"minecraft:allium",
+            "required": false
+        },
+        {
+            "id":"overweight_farming:allium_bush",
+            "required": false
+        }
+    ]
+}

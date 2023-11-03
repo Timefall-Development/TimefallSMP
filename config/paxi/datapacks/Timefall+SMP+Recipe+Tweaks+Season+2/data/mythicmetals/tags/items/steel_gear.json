@@ -1,0 +1,39 @@
+{
+  "replace": false,
+  "values": [
+    "mythicmetals:steel_helmet",
+    "mythicmetals:steel_chestplate",
+    "mythicmetals:steel_leggings",
+    "mythicmetals:steel_boots",
+    "mythicmetals:steel_sword",
+    "mythicmetals:steel_pickaxe",
+    "mythicmetals:steel_axe",
+    "mythicmetals:steel_shovel",
+    "mythicmetals:steel_hoe",
+
+    "mythicmetals_decorations:steel_crown",
+    
+    "amethyst_imbuement:steel_helmet",
+    "amethyst_imbuement:steel_chestplate",
+    "amethyst_imbuement:steel_leggings",
+    "amethyst_imbuement:steel_boots",
+
+    "farmersknives:steel_knife",
+    "farmersknives:steel_knife_mm",
+
+    "simplyswords:mythicmetals_compat/steel/steel_chakram",
+    "simplyswords:mythicmetals_compat/steel/steel_claymore",
+    "simplyswords:mythicmetals_compat/steel/steel_cutlass",
+    "simplyswords:mythicmetals_compat/steel/steel_glaive",
+    "simplyswords:mythicmetals_compat/steel/steel_greataxe",
+    "simplyswords:mythicmetals_compat/steel/steel_greathammer",
+    "simplyswords:mythicmetals_compat/steel/steel_halberd",
+    "simplyswords:mythicmetals_compat/steel/steel_katana",
+    "simplyswords:mythicmetals_compat/steel/steel_longsword",
+    "simplyswords:mythicmetals_compat/steel/steel_rapier",
+    "simplyswords:mythicmetals_compat/steel/steel_sai",
+    "simplyswords:mythicmetals_compat/steel/steel_spear",
+    "simplyswords:mythicmetals_compat/steel/steel_twinblade",
+    "simplyswords:mythicmetals_compat/steel/steel_warglaive"
+  ]
+}

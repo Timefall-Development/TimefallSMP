@@ -1,0 +1,89 @@
+{
+    "version": 2,
+    "unfinished_brew_effects": [
+      {
+        "type": "potion",
+        "effect": "minecraft:poison",
+        "time": "60",
+        "value": "4"
+      },
+      {
+        "type": "potion",
+        "effect": "minecraft:darkness",
+        "time": "60",
+        "value": "4"
+      },
+      {
+        "type": "potion",
+        "effect": "minecraft:blindness",
+        "time": "60",
+        "value": "4"
+      }
+    ],
+    "book_information": {
+      "best_cooking_time": 420.0,
+      "best_barrel_age": 6000.0,
+      "best_barrel_type": [
+        "*"
+      ]
+    },
+    "cooking_quality_multiplier": "cos(clamp((age / 60 - 16.0) * 0.25, -2, 2))",
+    "ingredients": [
+      {
+        "tag": [
+          "#c:fruits"
+        ],
+        "count": 1
+      },
+      {
+        "items": [
+          "minecraft:sugar"
+        ],
+        "count": 10
+      }
+    ],
+    "distillation_runs": 0,
+    "barrel_definitions": [
+      {
+        "type": "*",
+        "quality_value": "quality",
+        "reveal_time": 1200
+      }
+    ],
+    "base_quality_value": "smooth_value_days(10.0, 8.0, 120.0, age) * 10",
+    "alcoholic_value": "69 * (0.75 + quality / 20)",
+    "entries": [
+      {
+        "type": "potion",
+        "locked": false,
+        "effect": "minecraft:regeneration",
+        "time": "quality * 20",
+        "value": "0"
+      },
+      {
+        "type": "potion",
+        "locked": false,
+        "effect": "minecraft:strength",
+        "time": "quality * 1.5",
+        "value": "1"
+      },
+      {
+        "type": "potion",
+        "locked": false,
+        "effect": "minecraft:absorption",
+        "time": "quality * 1.5",
+        "value": "0"
+      },
+      {
+        "type": "potion",
+        "locked": false,
+        "effect": "minecraft:luck",
+        "time": "39",
+        "value": "0"
+      }
+    ],
+    "name": {
+      "translate": "drinktype.brewery.palinka"
+    },
+    "color": "#E0B824"
+  }

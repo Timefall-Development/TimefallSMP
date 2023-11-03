@@ -1,0 +1,77 @@
+{
+    "replace":false,
+    "values":[
+        {
+            "id":"mcwfurnitures:acacia_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_covered_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_covered_desk",
+            "required": false
+        }
+    ]
+}

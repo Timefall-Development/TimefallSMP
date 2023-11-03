@@ -1,0 +1,46 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "toms_storage"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"RGB",
+    "iaW",
+    "bS "
+  ],
+  "key": {
+  	"b": {
+      "item": "minecraft:water_bucket"
+    },
+    "a": {
+      "item": "minecraft:bucket"
+    },
+    "R": {
+      "item": "spectrum:red_pigment"
+    },
+    "G": {
+      "item": "spectrum:green_pigment"
+    },
+    "B": {
+      "item": "spectrum:blue_pigment"
+    },
+    "W": {
+    	"tag": "minecraft:wool"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+	"i": {
+      "item": "spectrum:black_pigment"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.paint_kit",
+    "count": 1
+  }
+}

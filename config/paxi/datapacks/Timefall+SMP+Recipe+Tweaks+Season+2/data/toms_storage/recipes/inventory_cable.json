@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    " C ",
+    "SSS"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:chest"
+    },
+    "S": {
+      "tag": "c:steel_ingots"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.inventory_cable",
+    "count": 6
+  }
+}

@@ -1,0 +1,97 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"mcdw:crossbow_auto_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_azure_seeker",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_burst_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_butterfly_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_cog_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_doom_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_exploding_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_feral_soul_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_firebolt_thrower",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_harp_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_harpoon_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_heavy_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_imploding_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_rapid_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_scatter_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_slayer_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_soul_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_soul_hunter_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_spellbound_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_the_slicer",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_veiled_crossbow",
+            "required": false
+        },
+        {
+            "id":"minecraft:crossbow",
+            "required": false
+        },
+        {
+            "id":"amethyst_imbuement:sniper_bow",
+            "required": false
+        }
+    ]
+}

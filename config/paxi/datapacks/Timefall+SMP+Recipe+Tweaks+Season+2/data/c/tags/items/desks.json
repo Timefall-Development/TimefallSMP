@@ -1,0 +1,85 @@
+{
+    "replace":false,
+    "values":[
+        {
+            "id":"mcwfurnitures:acacia_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_desk",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_desk",
+            "required": false
+        },
+        {
+            "id":"#c:modern_desks",
+            "required": false
+        },
+        {
+            "id":"#c:covered_desks",
+            "required": false
+        }
+    ]
+}

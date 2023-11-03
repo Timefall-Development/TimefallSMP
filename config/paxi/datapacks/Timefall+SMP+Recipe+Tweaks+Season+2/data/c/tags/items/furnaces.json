@@ -1,0 +1,65 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"betterend:azure_jadestone_furnace",
+            "required": false
+        },
+        {
+            "id":"betterend:end_stone_furnace",
+            "required": false
+        },
+        {
+            "id":"betterend:flavolite_furnace",
+            "required": false
+        },
+        {
+            "id":"betterend:sandy_jadestone_furnace",
+            "required": false
+        },
+        {
+            "id":"betterend:sulphuric_rock_furnace",
+            "required": false
+        },
+        {
+            "id":"betterend:umbralith_furnace",
+            "required": false
+        },
+        {
+            "id":"betterend:violecite_furnace",
+            "required": false
+        },
+        {
+            "id":"betterend:virid_jadestone_furnace",
+            "required": false
+        },
+        {
+            "id":"betternether:basalt_furnace",
+            "required": false
+        },
+        {
+            "id":"betternether:blackstone_furnace",
+            "required": false
+        },
+        {
+            "id":"betternether:netherrack_furnace",
+            "required": false
+        },
+        {
+            "id":"minecraft:blast_furnace",
+            "required": false
+        },
+        {
+            "id":"minecraft:furnace",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:blackstone_blast_furnace",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:blackstone_furnace",
+            "required": false
+        }
+    ]
+}

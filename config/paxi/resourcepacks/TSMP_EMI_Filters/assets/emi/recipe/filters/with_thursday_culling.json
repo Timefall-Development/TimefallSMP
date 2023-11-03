@@ -1,0 +1,17 @@
+{
+    "filters": [
+        {"id": "with_thursday:knife"},
+        {"id": "with_thursday:cheese"},
+        {"id": "with_thursday:beaten_eggs"},
+        {"id": "with_thursday:sun_egg"},
+        {"id": "with_thursday:bacon"},
+        {"id": "with_thursday:apple_juice"},
+        {"id": "with_thursday:chicken_breast"},
+        {"id": "with_thursday:chicken_wings"},
+        {"id": "with_thursday:cooked_chicken_breast"},
+        {"id": "with_thursday:cooked_chicken_wings"},
+        {"id": "with_thursday:pnn_bread"},
+        {"id": "with_thursday:coffee_flour"},
+        {"id": "with_thursday:grinder"}
+    ]
+}

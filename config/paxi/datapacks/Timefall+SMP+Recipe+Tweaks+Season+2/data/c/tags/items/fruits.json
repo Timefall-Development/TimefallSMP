@@ -1,0 +1,65 @@
+{
+    "replace":false,
+    "values":[
+        {
+            "id":"vinery:cherry",
+            "required": false
+        },
+        {
+            "id":"vinery:savanna_grapes_red",
+            "required": false
+        },
+        {
+            "id":"vinery:savanna_grapes_white",
+            "required": false
+        },
+        {
+            "id":"vinery:red_grape",
+            "required": false
+        },
+        {
+            "id":"vinery:white_grape",
+            "required": false
+        },
+        {
+            "id":"betterend:blossom_berry",
+            "required": false
+        },
+        {
+            "id":"betterend:shadow_berry",
+            "required": false
+        },
+        {
+            "id":"betternether:black_apple",
+            "required": false
+        },
+        {
+            "id":"byg:green_apple",
+            "required": false
+        },
+        {
+            "id":"minecraft:apple",
+            "required": false
+        },
+        {
+            "id":"minecraft:melon_slice",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:pumpkin_slice",
+            "required": false
+        },
+        {
+            "id":"byg:joshua_fruit",
+            "required": false
+        },
+        {
+            "id":"byg:cooked_joshua_fruit",
+            "required": false
+        },
+        {
+            "id":"#c:berries",
+            "required": false
+        }
+    ]
+}

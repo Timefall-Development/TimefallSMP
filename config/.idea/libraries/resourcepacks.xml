@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="resourcepacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/paxi/resourcepacks/TSMP_EMI_Filters.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/resourcepacks/[1.2] Enhanced Boss Bars.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/resourcepacks/Create+Style+Modded+Compats+v16.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/resourcepacks/Better_Enderdragon.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/resourcepacks/Timefall+SMP+Assets+Tweaks.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

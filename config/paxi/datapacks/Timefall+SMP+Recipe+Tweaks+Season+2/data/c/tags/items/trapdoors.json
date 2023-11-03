@@ -1,0 +1,4709 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/dragon_tree_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/end_lotus_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/helix_tree_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/jellyshroom_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lacugrove_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/lucernia_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/mossy_glowshroom_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/pythadendron_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/tenanea_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betterend/umbrella_tree_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/anchor_tree_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/mushroom_fir_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_mushroom_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_reed_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/nether_sakura_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/rubeus_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/stalagnate_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/wart_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/betternether/willow_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/aspen_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/baobab_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/blue_enchanted_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/bulbis_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cherry_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cika_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/cypress_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ebony_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/ether_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/fir_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/green_enchanted_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/holly_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/imparius_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/jacaranda_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/lament_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/mahogany_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/maple_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/nightshade_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/palm_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/pine_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/rainbow_eucalyptus_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/redwood_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/skyris_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/sythian_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/white_mangrove_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/willow_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/witch_hazel_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/byg/zelkova_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/azalea_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/coconut_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/flowering_azalea_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/ecologics/walnut_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/black_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/blue_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/brown_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/cyan_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/gray_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/green_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_blue_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/light_gray_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/lime_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/magenta_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/orange_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/pink_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/purple_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/red_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/white_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/spectrum/yellow_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/traverse/fir_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"everycomp:mct/vinery/cherry_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:acacia_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:bamboo_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:birch_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:crimson_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:dark_oak_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:jungle_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:mangrove_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:metal_full_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:metal_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:metal_warning_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:oak_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_mystic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:spruce_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_bamboo_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_bark_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_barn_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_barred_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_beach_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_classic_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_cottage_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_four_panel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_glass_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_paper_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_ranch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_swamp_trapdoor",
+            "required": false
+        },
+        {
+            "id":"mcwtrpdoors:warped_tropical_trapdoor",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:exposed_iron_trapdoor",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:rusted_iron_trapdoor",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:waxed_exposed_iron_trapdoor",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:waxed_iron_trapdoor",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:waxed_rusted_iron_trapdoor",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:waxed_weathered_iron_trapdoor",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:weathered_iron_trapdoor",
+            "required": false
+        },
+        {
+            "id":"supplementaries:gold_trapdoor",
+            "required": false
+        },
+        {
+            "id":"supplementaries:lead_trapdoor",
+            "required": false
+        },
+        {
+            "id":"supplementaries:netherite_trapdoor",
+            "required": false
+        },
+        {
+            "id":"supplementaries:silver_trapdoor",
+            "required": false
+        },
+        {
+            "id":"traverse:fir_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:aspen_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:baobab_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:blue_enchanted_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:bulbis_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:cherry_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:cika_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:cypress_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:ebony_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:embur_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:ether_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:fir_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:green_enchanted_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:holly_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:imparius_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:jacaranda_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:lament_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:mahogany_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:maple_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:nightshade_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:palm_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:pine_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:rainbow_eucalyptus_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:redwood_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:skyris_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:sythian_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:white_mangrove_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:willow_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:witch_hazel_trapdoor",
+            "required": false
+        },
+        {
+            "id":"byg:zelkova_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:dragon_tree_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:end_lotus_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:helix_tree_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:jellyshroom_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:lacugrove_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:lucernia_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:mossy_glowshroom_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:pythadendron_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:tenanea_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betterend:umbrella_tree_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betternether:anchor_tree_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betternether:mushroom_fir_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_mushroom_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_reed_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_sakura_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betternether:rubeus_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betternether:stalagnate_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betternether:wart_trapdoor",
+            "required": false
+        },
+        {
+            "id":"betternether:willow_trapdoor",
+            "required": false
+        },
+        {
+            "id":"ecologics:azalea_trapdoor",
+            "required": false
+        },
+        {
+            "id":"ecologics:flowering_azalea_trapdoor",
+            "required": false
+        },
+        {
+            "id":"ecologics:walnut_trapdoor",
+            "required": false
+        },
+        {
+            "id":"graveyard:dark_iron_trapdoor",
+            "required": false
+        },
+        {
+            "id":"minecraft:acacia_trapdoor",
+            "required": false
+        },
+        {
+            "id":"minecraft:birch_trapdoor",
+            "required": false
+        },
+        {
+            "id":"minecraft:crimson_trapdoor",
+            "required": false
+        },
+        {
+            "id":"minecraft:dark_oak_trapdoor",
+            "required": false
+        },
+        {
+            "id":"minecraft:iron_trapdoor",
+            "required": false
+        },
+        {
+            "id":"minecraft:jungle_trapdoor",
+            "required": false
+        },
+        {
+            "id":"minecraft:mangrove_trapdoor",
+            "required": false
+        },
+        {
+            "id":"minecraft:oak_trapdoor",
+            "required": false
+        },
+        {
+            "id":"minecraft:spruce_trapdoor",
+            "required": false
+        },
+        {
+            "id":"minecraft:warped_trapdoor",
+            "required": false
+        },
+        {
+            "id":"ecologics:coconut_trapdoor",
+            "required": false
+        },
+        {
+            "id":"vinery:cherry_trapdoor",
+            "required": false
+        }
+    ]
+}

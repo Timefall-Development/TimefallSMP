@@ -1,0 +1,149 @@
+{
+    "replace":false,
+    "values":[
+        {
+            "id":"adorn:apple_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:beetroot_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:beetroot_seed_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:carrot_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:cocoa_bean_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:crate",
+            "required": false
+        },
+        {
+            "id":"adorn:egg_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:honeycomb_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:lil_tater_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:melon_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:melon_seed_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:nether_wart_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:potato_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:pumpkin_seed_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:sugar_cane_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:sweet_berry_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:wheat_crate",
+            "required": false
+        },
+        {
+            "id":"adorn:wheat_seed_crate",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:avocado_crate",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:corn_cob_crate",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:cucumber_crate",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:eggplant_crate",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:pickle_crate",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:asparagus_crate",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:chili_pepper_crate",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:sweet_potato_crate",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:beetroot_crate",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:cabbage_crate",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:carrot_crate",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:onion_crate",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:potato_crate",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:tomato_crate",
+            "required": false
+        },
+        {
+            "id":"vinery:apple_crate",
+            "required": false
+        },
+        {
+            "id":"vinery:cherry_crate",
+            "required": false
+        },
+        {
+            "id":"vinery:red_grape_crate",
+            "required": false
+        },
+        {
+            "id":"vinery:white_grape_crate",
+            "required": false
+        }
+    ]
+}

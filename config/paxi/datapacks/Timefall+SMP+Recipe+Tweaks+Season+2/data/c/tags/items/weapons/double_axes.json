@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"mcdw:axe_cursed",
+            "required": false
+        },
+        {
+            "id":"mcdw:axe_double",
+            "required": false
+        }
+    ]
+}

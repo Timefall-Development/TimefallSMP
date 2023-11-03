@@ -1,0 +1,47 @@
+{
+  "type": "amethyst_imbuement:imbuing",
+  "imbueA": {
+	"item": "mermod:sea_crystal"
+  },
+  "imbueB": {
+	"item": "mermod:sea_crystal"
+  },
+  "imbueC": {
+	"item": "mermod:sea_crystal"
+  },
+  "imbueD": {
+	"item": "mermod:sea_crystal"
+  },
+  "craftA": {
+	"item": "imbued_gear:serpentine"
+  },
+  "craftB": {
+	"item": "mythicmetals:aquarium_ingot"
+  },
+  "craftC": {
+	"item": "imbued_gear:serpentine"
+  },
+  "craftD": {
+	"item": "mythicmetals:aquarium_ingot"
+  },
+  "craftE": {
+	"item": "mythicmetals:aquarium_pearl"
+  },
+  "craftF": {
+	"item": "mythicmetals:aquarium_ingot"
+  },
+  "craftG": {
+	"item": "imbued_gear:serpentine"
+  },
+  "craftH": {
+	"item": "endrem:guardian_eye"
+  },
+  "craftI": {
+	"item": "imbued_gear:serpentine"
+  },
+  "title": "Sea Necklace",
+  "cost": 27,
+  "resultA": "mermod:sea_necklace",
+  "countA": 1
+}
+

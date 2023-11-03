@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PTP",
+    "TCT",
+    "PTP"
+  ],
+  "key": {
+    "C": {
+      "item": "toms_storage:ts.inventory_cable_connector"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "T": {
+      "item": "mcwtrpdoors:metal_trapdoor"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.inventory_proxy"
+  }
+}

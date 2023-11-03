@@ -1,0 +1,85 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"simplyswords:stormbringer",
+            "required": false
+        },
+        {
+            "id":"mcdw:sword_coral_blade",
+            "required": false
+        },
+        {
+            "id":"mcdw:sword_nameless_blade",
+            "required": false
+        },
+        {
+            "id":"simplyswords:bramblethorn",
+            "required": false
+        },
+        {
+            "id":"simplyswords:emberblade",
+            "required": false
+        },
+        {
+            "id":"ancientvessels:decayed_vessel_1",
+            "required": false
+        },
+        {
+            "id":"ancientvessels:decayed_vessel_2",
+            "required": false
+        },
+        {
+            "id":"ancientvessels:decayed_vessel_3",
+            "required": false
+        },
+        {
+            "id":"ancientvessels:ancient_vessel",
+            "required": false
+        },
+        {
+            "id":"ancientvessels:draconic_vessel_1",
+            "required": false
+        },
+        {
+            "id":"ancientvessels:draconic_vessel_2",
+            "required": false
+        },
+        {
+            "id":"ancientvessels:draconic_vessel_3",
+            "required": false
+        },
+        {
+            "id":"ancientvessels:dragon_vessel",
+            "required": false
+        },
+        {
+            "id":"ancientvessels:wither_vessel",
+            "required": false
+        },
+        {
+            "id":"enderswords:diamond_endersword",
+            "required": false
+        },
+        {
+            "id":"enderswords:golden_endersword",
+            "required": false
+        },
+        {
+            "id":"enderswords:iron_endersword",
+            "required": false
+        },
+        {
+            "id":"enderswords:netherite_endersword",
+            "required": false
+        },
+        {
+            "id":"enderswords:stone_endersword",
+            "required": false
+        },
+        {
+            "id":"enderswords:wooden_endersword",
+            "required": false
+        }
+    ]
+}

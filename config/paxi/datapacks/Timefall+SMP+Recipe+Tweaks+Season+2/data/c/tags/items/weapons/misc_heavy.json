@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"mcdw:axe_anchor",
+            "required": false
+        },
+        {
+            "id":"mcdw:axe_encrusted_anchor",
+            "required": false
+        },
+        {
+            "id":"mcdw:hammer_bone_cudgel",
+            "required": false
+        },
+        {
+            "id":"mcdw:hammer_boneclub",
+            "required": false
+        },
+        {
+            "id":"mcdw:sword_broken_sawblade",
+            "required": false
+        },
+        {
+            "id":"mcdw:sword_mechanized_sawblade",
+            "required": false
+        }
+    ]
+}

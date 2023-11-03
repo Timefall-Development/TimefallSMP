@@ -1,0 +1,149 @@
+{
+    "required": false,
+    "values": [
+        {
+            "id":"mcwfurnitures:acacia_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:acacia_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_double_drawer_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_drawer_counter",
+            "required": false
+        }
+    ]
+}

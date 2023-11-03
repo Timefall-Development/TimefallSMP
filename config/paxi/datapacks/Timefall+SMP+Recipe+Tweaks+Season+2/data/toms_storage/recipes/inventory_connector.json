@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "POP",
+    "CTC",
+    "PEP"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:chest"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "O": {
+      "item": "minecraft:comparator"
+    },
+    "T": {
+      "item": "cinderscapes:rose_quartz"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.inventory_connector"
+  }
+}

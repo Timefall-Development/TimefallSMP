@@ -3,7 +3,7 @@
   "tasks": {
     "runic_tablet": {
       "type": "heracles:item",
-      "amount": 64,
+      "amount": 1,
       "collection": "AUTOMATIC",
       "item": "simplyswords:runic_tablet"
     }

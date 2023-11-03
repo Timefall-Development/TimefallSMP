@@ -1,0 +1,1625 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"adorn:acacia_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:acacia_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:birch_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:birch_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/aspen_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/aspen_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/baobab_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/baobab_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/blue_enchanted_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/blue_enchanted_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/bulbis_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/bulbis_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cherry_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cherry_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cika_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cika_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cypress_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cypress_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/ebony_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/ebony_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/embur_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/embur_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/ether_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/ether_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/fir_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/fir_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/green_enchanted_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/green_enchanted_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/holly_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/holly_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/imparius_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/imparius_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/jacaranda_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/jacaranda_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/lament_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/lament_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/mahogany_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/mahogany_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/maple_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/maple_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/nightshade_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/nightshade_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/palm_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/palm_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/pine_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/pine_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/rainbow_eucalyptus_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/rainbow_eucalyptus_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/redwood_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/redwood_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/skyris_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/skyris_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/sythian_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/sythian_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/white_mangrove_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/white_mangrove_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/willow_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/willow_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/witch_hazel_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/witch_hazel_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/zelkova_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/zelkova_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:crimson_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:crimson_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:dark_oak_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:dark_oak_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:jungle_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:jungle_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:mangrove_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:mangrove_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:oak_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:oak_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:spruce_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:spruce_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:traverse/fir_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:traverse/fir_chair",
+            "required": false
+        },
+        {
+            "id":"adorn:warped_bench",
+            "required": false
+        },
+        {
+            "id":"adorn:warped_chair",
+            "required": false
+        },
+        {
+            "id":"another_furniture:acacia_bench",
+            "required": false
+        },
+        {
+            "id":"another_furniture:acacia_chair",
+            "required": false
+        },
+        {
+            "id":"another_furniture:birch_bench",
+            "required": false
+        },
+        {
+            "id":"another_furniture:birch_chair",
+            "required": false
+        },
+        {
+            "id":"another_furniture:crimson_bench",
+            "required": false
+        },
+        {
+            "id":"another_furniture:crimson_chair",
+            "required": false
+        },
+        {
+            "id":"another_furniture:dark_oak_bench",
+            "required": false
+        },
+        {
+            "id":"another_furniture:dark_oak_chair",
+            "required": false
+        },
+        {
+            "id":"another_furniture:jungle_bench",
+            "required": false
+        },
+        {
+            "id":"another_furniture:jungle_chair",
+            "required": false
+        },
+        {
+            "id":"another_furniture:mangrove_bench",
+            "required": false
+        },
+        {
+            "id":"another_furniture:mangrove_chair",
+            "required": false
+        },
+        {
+            "id":"another_furniture:oak_bench",
+            "required": false
+        },
+        {
+            "id":"another_furniture:oak_chair",
+            "required": false
+        },
+        {
+            "id":"another_furniture:spruce_bench",
+            "required": false
+        },
+        {
+            "id":"another_furniture:spruce_chair",
+            "required": false
+        },
+        {
+            "id":"another_furniture:warped_bench",
+            "required": false
+        },
+        {
+            "id":"another_furniture:warped_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:acacia_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:anchor_tree_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:birch_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:crimson_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:dark_oak_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:jungle_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:mushroom_fir_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_mushroom_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_reed_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_sakura_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:oak_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:rubeus_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:spruce_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:stalagnate_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:warped_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:wart_chair",
+            "required": false
+        },
+        {
+            "id":"betternether:willow_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/dragon_tree_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/dragon_tree_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/end_lotus_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/end_lotus_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/helix_tree_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/helix_tree_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/jellyshroom_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/jellyshroom_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/lacugrove_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/lacugrove_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/lucernia_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/lucernia_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/mossy_glowshroom_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/mossy_glowshroom_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/pythadendron_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/pythadendron_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/tenanea_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/tenanea_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/umbrella_tree_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/umbrella_tree_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/anchor_tree_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/anchor_tree_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/mushroom_fir_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/mushroom_fir_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_mushroom_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_mushroom_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_reed_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_reed_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_sakura_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_sakura_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/rubeus_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/rubeus_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/stalagnate_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/stalagnate_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/wart_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/wart_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/willow_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/willow_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/aspen_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/aspen_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/baobab_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/baobab_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/blue_enchanted_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/blue_enchanted_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/bulbis_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/bulbis_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cherry_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cherry_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cika_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cika_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cypress_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cypress_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/ebony_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/ebony_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/ether_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/ether_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/fir_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/fir_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/green_enchanted_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/green_enchanted_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/holly_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/holly_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/imparius_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/imparius_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/jacaranda_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/jacaranda_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/lament_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/lament_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/mahogany_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/mahogany_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/maple_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/maple_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/nightshade_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/nightshade_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/palm_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/palm_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/pine_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/pine_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/rainbow_eucalyptus_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/rainbow_eucalyptus_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/redwood_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/redwood_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/skyris_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/skyris_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/sythian_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/sythian_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/white_mangrove_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/white_mangrove_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/willow_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/willow_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/witch_hazel_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/witch_hazel_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/zelkova_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/zelkova_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/azalea_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/azalea_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/coconut_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/coconut_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/flowering_azalea_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/flowering_azalea_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/walnut_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/walnut_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/black_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/black_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/blue_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/blue_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/brown_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/brown_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/cyan_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/cyan_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/gray_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/gray_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/green_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/green_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/light_blue_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/light_blue_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/light_gray_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/light_gray_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/lime_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/lime_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/magenta_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/magenta_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/orange_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/orange_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/pink_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/pink_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/purple_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/purple_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/red_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/red_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/white_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/white_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/yellow_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/yellow_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/traverse/fir_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/traverse/fir_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/vinery/cherry_bench",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/vinery/cherry_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:acacia_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:acacia_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:acacia_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:acacia_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_striped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_modern_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_stool_chair",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_striped_chair",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betterend/dragon_tree_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betterend/end_lotus_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betterend/helix_tree_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betterend/jellyshroom_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betterend/lacugrove_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betterend/lucernia_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betterend/mossy_glowshroom_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betterend/pythadendron_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betterend/tenanea_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betterend/umbrella_tree_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betternether/anchor_tree_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betternether/mushroom_fir_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betternether/nether_mushroom_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betternether/nether_reed_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betternether/nether_sakura_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betternether/rubeus_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betternether/stalagnate_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betternether/wart_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/betternether/willow_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/aspen_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/baobab_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/blue_enchanted_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/bulbis_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/cherry_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/cika_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/cypress_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/ebony_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/ether_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/fir_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/green_enchanted_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/holly_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/imparius_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/jacaranda_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/lament_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/mahogany_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/maple_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/nightshade_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/palm_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/pine_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/rainbow_eucalyptus_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/redwood_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/skyris_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/sythian_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/white_mangrove_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/willow_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/witch_hazel_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/byg/zelkova_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/ecologics/azalea_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/ecologics/coconut_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/ecologics/flowering_azalea_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/ecologics/walnut_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/black_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/blue_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/brown_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/cyan_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/gray_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/green_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/light_blue_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/light_gray_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/lime_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/magenta_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/orange_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/pink_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/purple_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/red_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/white_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/spectrum/yellow_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/traverse/fir_seat",
+            "required": false
+        },
+        {
+            "id":"everycomp:db/vinery/cherry_seat",
+            "required": false
+        },
+        {
+            "id":"decorative_blocks:acacia_seat",
+            "required": false
+        },
+        {
+            "id":"decorative_blocks:birch_seat",
+            "required": false
+        },
+        {
+            "id":"decorative_blocks:crimson_seat",
+            "required": false
+        },
+        {
+            "id":"decorative_blocks:dark_oak_seat",
+            "required": false
+        },
+        {
+            "id":"decorative_blocks:jungle_seat",
+            "required": false
+        },
+        {
+            "id":"decorative_blocks:mangrove_seat",
+            "required": false
+        },
+        {
+            "id":"decorative_blocks:oak_seat",
+            "required": false
+        },
+        {
+            "id":"decorative_blocks:spruce_seat",
+            "required": false
+        },
+        {
+            "id":"decorative_blocks:warped_seat",
+            "required": false
+        },
+        {
+            "id":"vinery:chair",
+            "required": false
+        },
+        {
+            "id":"betternether:chair_cincinnasite",
+            "required": false
+        },
+        {
+            "id":"#c:sofas",
+            "required": false
+        },
+        {
+            "id":"#c:stools",
+            "required": false
+        }
+    ]
+}

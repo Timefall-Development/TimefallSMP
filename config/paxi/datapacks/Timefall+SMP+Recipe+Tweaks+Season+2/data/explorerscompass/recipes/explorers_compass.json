@@ -1,0 +1,41 @@
+{
+    "type": "crafting_shaped",
+    "group": "tools",
+    "pattern": [
+      "SDG",
+      "REM",
+      "TPC"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:sand"
+      },
+      "D":{
+        "item": "minecraft:dirt"
+      },
+      "G":{
+        "item": "minecraft:gravel"
+      },
+      "R":{
+        "item": "minecraft:red_sand"
+      },
+      "E":{
+        "item": "amethyst_imbuement:tigers_eye"
+      },
+      "M":{
+        "item": "minecraft:moss_block"
+      },
+      "T":{
+        "item": "minecraft:terracotta"
+      },
+      "P":{
+        "item": "minecraft:podzol"
+      },
+      "C":{
+        "item": "minecraft:cobblestone"
+      }
+    },
+    "result": {
+      "item": "explorerscompass:explorerscompass"
+    }
+  }

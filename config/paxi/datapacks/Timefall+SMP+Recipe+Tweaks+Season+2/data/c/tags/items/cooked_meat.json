@@ -1,0 +1,510 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"brewinandchewin:ham_and_cheese_sandwich",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:jerky",
+            "required": false
+        },
+        {
+            "id":"crittersandcompanions:clam",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:beef_burrito",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:calamari_roll",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:chicken_roll",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:chicken_roll_slice",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:chicken_taco",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:cooked_calamari",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:cooked_squid",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:exotic_roll_medley",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:fish_taco",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:glow_squid",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:mutton_sandwich",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:pork_wrap",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:pufferfish_roll",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:squid",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:tropical_roll",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:peperonata",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:bacon_and_eggs",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:bacon_sandwich",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:baked_cod_stew",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:barbecue_stick",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:bone_broth",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:chicken_sandwich",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:chicken_soup",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:cod_roll",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:cooked_bacon",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:cooked_chicken_cuts",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:cooked_cod_slice",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:cooked_mutton_chops",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:cooked_salmon_slice",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:dog_food",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:egg_sandwich",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:fish_stew",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:fried_egg",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:grilled_salmon",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:hamburger",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:honey_glazed_ham",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:honey_glazed_ham_block",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:pasta_with_meatballs",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:pasta_with_mutton_chop",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:roast_chicken",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:roast_chicken_block",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:roasted_mutton_chops",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:salmon_roll",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:shepherds_pie",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:shepherds_pie_block",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:smoked_ham",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:steak_and_potatoes",
+            "required": false
+        },
+        {
+            "id":"farmersrespite:black_cod",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:cooked_ancientscale",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:cooked_battlegill",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:cooked_devilfish",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:cooked_islehopper",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:cooked_plentifin",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:cooked_pondie",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:cooked_splashtail",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:cooked_stormfish",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:cooked_wildsplash",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:cooked_wrecker",
+            "required": false
+        },
+        {
+            "id":"froglegs:cooked_frog_leg",
+            "required": false
+        },
+        {
+            "id":"goodall:cooked_venison",
+            "required": false
+        },
+        {
+            "id":"minecraft:cooked_cod",
+            "required": false
+        },
+        {
+            "id":"minecraft:cooked_salmon",
+            "required": false
+        },
+        {
+            "id":"naturalist:cooked_bass",
+            "required": false
+        },
+        {
+            "id":"naturalist:cooked_catfish",
+            "required": false
+        },
+        {
+            "id":"naturalist:cooked_duck",
+            "required": false
+        },
+        {
+            "id":"naturalist:cooked_egg",
+            "required": false
+        },
+        {
+            "id":"naturalist:cooked_lizard_tail",
+            "required": false
+        },
+        {
+            "id":"naturalist:cooked_venison",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:hoglin_ear",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:hoglin_sirloin",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:nether_skewer",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:plate_of_stuffed_hoglin_ham",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:plate_of_stuffed_hoglin_roast",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:plate_of_stuffed_hoglin_snout",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:strider_moss_stew",
+            "required": false
+        },
+        {
+            "id":"oceansdelight:baked_tentacle_on_a_stick",
+            "required": false
+        },
+        {
+            "id":"oceansdelight:bowl_of_guardian_soup",
+            "required": false
+        },
+        {
+            "id":"oceansdelight:braised_sea_pickle",
+            "required": false
+        },
+        {
+            "id":"oceansdelight:cabbage_wrapped_elder_guardian",
+            "required": false
+        },
+        {
+            "id":"oceansdelight:cooked_elder_guardian_slice",
+            "required": false
+        },
+        {
+            "id":"oceansdelight:cooked_guardian_tail",
+            "required": false
+        },
+        {
+            "id":"oceansdelight:elder_guardian_roll",
+            "required": false
+        },
+        {
+            "id":"oceansdelight:fugu_roll",
+            "required": false
+        },
+        {
+            "id":"oceansdelight:guardian_soup",
+            "required": false
+        },
+        {
+            "id":"untitledduckmod:cooked_duck",
+            "required": false
+        },
+        {
+            "id":"untitledduckmod:cooked_goose",
+            "required": false
+        },
+        {
+            "id":"with_thursday:bacon_chicken_burger",
+            "required": false
+        },
+        {
+            "id":"with_thursday:bacon_panini",
+            "required": false
+        },
+        {
+            "id":"with_thursday:bbq_burger",
+            "required": false
+        },
+        {
+            "id":"with_thursday:breakfast",
+            "required": false
+        },
+        {
+            "id":"with_thursday:cooked_chicken_breast",
+            "required": false
+        },
+        {
+            "id":"with_thursday:cooked_chicken_wings",
+            "required": false
+        },
+        {
+            "id":"with_thursday:cooked_diced_chicken",
+            "required": false
+        },
+        {
+            "id":"with_thursday:etc_burger",
+            "required": false
+        },
+        {
+            "id":"with_thursday:original_recipe",
+            "required": false
+        },
+        {
+            "id":"with_thursday:orleans_burger",
+            "required": false
+        },
+        {
+            "id":"with_thursday:orleans_roasted_wings",
+            "required": false
+        },
+        {
+            "id":"with_thursday:pork_panini",
+            "required": false
+        },
+        {
+            "id":"with_thursday:spicy_squid",
+            "required": false
+        },
+        {
+            "id":"with_thursday:thuringia_sausage",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:grilled_strider",
+            "required": false
+        },
+        {
+            "id":"with_thursday:sun_egg",
+            "required": false
+        },
+        {
+            "id":"with_thursday:flesh_bone",
+            "required": false
+        },
+        {
+            "id":"with_thursday:cp_burger",
+            "required": false
+        },
+        {
+            "id":"with_thursday:chicken_pop",
+            "required": false
+        },
+        {
+            "id":"with_thursday:chicken_nugget",
+            "required": false
+        },
+        {
+            "id":"with_thursday:chicken_burger",
+            "required": false
+        },
+        {
+            "id":"with_thursday:beef_panini",
+            "required": false
+        },
+        {
+            "id":"with_thursday:chicken_panini",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:kippers",
+            "required": false
+        },
+        {
+            "id":"betterend:end_fish_cooked",
+            "required": false
+        },
+
+        {
+            "id": "eanimalmod:cooked_equine_meat",
+            "required":false
+        },
+        {
+            "id": "eanimalmod:cooked_camel_meat",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:cooked_bear_meat",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:cooked_strider_meat",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:cooked_cat_meat",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:cooked_sniffer_meat",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:cooked_parrot",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:cooked_axolotl_tail",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:cooked_wolf_meat",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:fried_squid_tentacle",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:fried_bat_wing",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:fried_frog_leg",
+            "required": false
+        }
+    ]
+}

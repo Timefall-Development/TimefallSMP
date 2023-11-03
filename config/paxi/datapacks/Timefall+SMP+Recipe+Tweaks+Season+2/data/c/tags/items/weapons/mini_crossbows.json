@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"mcdw:crossbow_baby_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_dual_crossbow",
+            "required": false
+        }
+    ]
+}

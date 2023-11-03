@@ -1,0 +1,117 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"farmersdelight:chicken_cuts",
+            "required":false
+        },
+        {
+            "id":"farmersdelight:beef_patty",
+            "required":false
+        },
+        {
+            "id":"farmersdelight:bacon",
+            "required":false
+        },
+        {
+            "id":"farmersdelight:ham",
+            "required":false
+        },
+        {
+            "id":"farmersdelight:minced_beef",
+            "required":false
+        },
+        {
+            "id":"farmersdelight:mutton_chops",
+            "required":false
+        },
+        {
+            "id":"froglegs:frog_leg",
+            "required":false
+        },
+        {
+            "id":"goodall:raw_venison",
+            "required":false
+        },
+        {
+            "id":"kubejs:raw_sausage",
+            "required":false
+        },
+        {
+            "id":"naturalist:duck",
+            "required":false
+        },
+        {
+            "id":"naturalist:lizard_tail",
+            "required":false
+        },
+        {
+            "id":"naturalist:venison",
+            "required":false
+        },
+        {
+            "id":"nethersdelight:ground_strider",
+            "required":false
+        },
+        {
+            "id":"nethersdelight:hoglin_loin",
+            "required":false
+        },
+        {
+            "id":"nethersdelight:raw_stuffed_hoglin",
+            "required":false
+        },
+        {
+            "id":"nethersdelight:strider_slice",
+            "required":false
+        },
+        {
+            "id":"nethersdelight:warped_moldy_meat",
+            "required":false
+        },
+        {
+            "id":"rottencreatures:frozen_rotten_flesh",
+            "required":false
+        },
+        {
+            "id":"rottencreatures:magma_rotten_flesh",
+            "required":false
+        },
+        {
+            "id": "eanimalmod:raw_equine_meat",
+            "required":false
+        },
+        {
+            "id": "eanimalmod:raw_camel_meat",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:raw_bear_meat",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:raw_strider_meat",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:raw_cat_meat",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:raw_sniffer_meat",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:parrot",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:axolotl_tail",
+            "required": false
+        },
+        {
+            "id": "eanimalmod:raw_wolf_meat",
+            "required": false
+        }
+    ]
+}

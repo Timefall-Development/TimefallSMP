@@ -1,0 +1,69 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"drinkbeer:beer_mug",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:beer_mug_apple_lambic",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:beer_mug_blaze_milk_stout",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:beer_mug_blaze_stout",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:beer_mug_frothy_pink_eggnog",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:beer_mug_haars_icey_pale_lager",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:beer_mug_night_howl_kvass",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:beer_mug_pumpkin_kvass",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:beer_mug_sweet_berry_kriek",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:empty_beer_mug",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:golden_call_bell",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:iron_call_bell",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:lekas_call_bell",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:mixed_beer",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:beer",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:strongroot_ale",
+            "required": false
+        }
+    ]
+}

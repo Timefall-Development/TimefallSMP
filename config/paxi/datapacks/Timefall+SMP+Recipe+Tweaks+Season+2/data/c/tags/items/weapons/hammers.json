@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"simplyswords:frostfall",
+            "required": false
+        },
+        {
+            "id":"mcdw:hammer_gravity",
+            "required": false
+        },
+        {
+            "id":"mcdw:hammer_stormlander",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mjolnir",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "PSP",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:hopper"
+    },
+    "S": {
+    "item": "toms_storage:ts.inventory_cable_connector"
+    },
+    "P": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.inventory_cable_connector_filtered"
+  }
+}

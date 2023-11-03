@@ -1,0 +1,28 @@
+{
+    "type": "crafting_shaped",
+    "group": "tools",
+    "pattern": [
+      "BBB",
+      "BCB",
+      "BBB"
+    ],
+    "key": {
+      "B": {
+        "item": "mythicmetals:adamantite_ingot"
+      },
+      "C": [
+		  {
+			"item": "alloy_forgery:prismarine_bricks_forge_controller"
+		  },
+		  {
+			"item": "alloy_forgery:deepslate_bricks_forge_controller"
+		  },
+		  {
+			"item": "alloy_forgery:polished_blackstone_forge_controller"
+		  }
+	  ]
+    },
+    "result": {
+      "item": "alloy_forgery:adamantite_block_forge_controller"
+    }
+  }

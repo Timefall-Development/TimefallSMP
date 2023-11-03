@@ -1,0 +1,3357 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"betternether:obsidian_glass_pane",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_black",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_blue",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_brown",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_cyan",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_gray",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_green",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_light_blue",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_light_gray",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_lime",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_magenta",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_orange",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_black",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_blue",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_brown",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_cyan",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_gray",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_green",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_light_blue",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_light_gray",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_lime",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_magenta",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_orange",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_pink",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_purple",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_red",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_white",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pane_yellow",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_pink",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_purple",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_red",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_white",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_framed_yellow",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_gray",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_green",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_light_blue",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_light_gray",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_lime",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_magenta",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_orange",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_black",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_blue",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_brown",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_cyan",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_gray",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_green",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_light_blue",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_light_gray",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_lime",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_magenta",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_orange",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_pink",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_purple",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_red",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_white",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pane_yellow",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_pink",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_purple",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_red",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_white",
+            "required": false
+        },
+        {
+            "id":"betternether:quartz_glass_yellow",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/dragon_tree_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/dragon_tree_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/dragon_tree_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/dragon_tree_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/dragon_tree_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/dragon_tree_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/end_lotus_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/end_lotus_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/end_lotus_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/end_lotus_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/end_lotus_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/end_lotus_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/helix_tree_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/helix_tree_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/helix_tree_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/helix_tree_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/helix_tree_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/helix_tree_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/jellyshroom_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/jellyshroom_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/jellyshroom_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/jellyshroom_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/jellyshroom_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/jellyshroom_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lacugrove_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lacugrove_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lacugrove_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lacugrove_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lacugrove_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lacugrove_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lucernia_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lucernia_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lucernia_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lucernia_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lucernia_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/lucernia_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/mossy_glowshroom_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/mossy_glowshroom_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/mossy_glowshroom_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/mossy_glowshroom_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/mossy_glowshroom_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/mossy_glowshroom_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/pythadendron_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/pythadendron_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/pythadendron_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/pythadendron_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/pythadendron_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/pythadendron_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_dragon_tree_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_dragon_tree_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_dragon_tree_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_end_lotus_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_end_lotus_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_end_lotus_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_helix_tree_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_helix_tree_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_helix_tree_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_jellyshroom_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_jellyshroom_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_jellyshroom_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_lacugrove_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_lacugrove_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_lacugrove_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_lucernia_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_lucernia_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_lucernia_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_mossy_glowshroom_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_mossy_glowshroom_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_mossy_glowshroom_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_pythadendron_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_pythadendron_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_pythadendron_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_tenanea_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_tenanea_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_tenanea_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_umbrella_tree_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_umbrella_tree_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/stripped_umbrella_tree_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/tenanea_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/tenanea_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/tenanea_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/tenanea_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/tenanea_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/tenanea_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/umbrella_tree_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/umbrella_tree_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/umbrella_tree_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/umbrella_tree_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/umbrella_tree_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betterend/umbrella_tree_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/anchor_tree_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/anchor_tree_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/anchor_tree_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/anchor_tree_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/anchor_tree_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/anchor_tree_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/mushroom_fir_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/mushroom_fir_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/mushroom_fir_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/mushroom_fir_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/mushroom_fir_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/mushroom_fir_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_mushroom_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_mushroom_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_mushroom_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_mushroom_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_mushroom_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_mushroom_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_reed_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_reed_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_reed_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_reed_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_reed_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_reed_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_sakura_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_sakura_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_sakura_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_sakura_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_sakura_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/nether_sakura_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/rubeus_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/rubeus_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/rubeus_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/rubeus_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/rubeus_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/rubeus_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stalagnate_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stalagnate_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stalagnate_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stalagnate_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stalagnate_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stalagnate_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_anchor_tree_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_anchor_tree_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_anchor_tree_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_mushroom_fir_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_mushroom_fir_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_mushroom_fir_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_nether_mushroom_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_nether_mushroom_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_nether_mushroom_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_nether_reed_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_nether_reed_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_nether_reed_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_nether_sakura_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_nether_sakura_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_nether_sakura_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_rubeus_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_rubeus_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_rubeus_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_stalagnate_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_stalagnate_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_stalagnate_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_wart_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_wart_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_wart_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_willow_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_willow_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/stripped_willow_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/wart_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/wart_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/wart_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/wart_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/wart_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/wart_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/willow_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/willow_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/willow_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/willow_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/willow_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/betternether/willow_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/aspen_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/aspen_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/aspen_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/aspen_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/aspen_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/aspen_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/baobab_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/baobab_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/baobab_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/baobab_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/baobab_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/baobab_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/blue_enchanted_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/blue_enchanted_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/blue_enchanted_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/blue_enchanted_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/blue_enchanted_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/blue_enchanted_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/bulbis_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/bulbis_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/bulbis_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/bulbis_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/bulbis_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/bulbis_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cherry_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cherry_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cherry_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cherry_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cherry_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cherry_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cika_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cika_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cika_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cika_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cika_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cika_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cypress_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cypress_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cypress_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cypress_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cypress_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/cypress_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ebony_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ebony_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ebony_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ebony_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ebony_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ebony_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ether_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ether_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ether_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ether_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ether_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/ether_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/fir_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/fir_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/fir_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/fir_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/fir_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/fir_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/green_enchanted_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/green_enchanted_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/green_enchanted_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/green_enchanted_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/green_enchanted_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/green_enchanted_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/holly_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/holly_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/holly_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/holly_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/holly_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/holly_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/imparius_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/imparius_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/imparius_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/imparius_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/imparius_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/imparius_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/jacaranda_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/jacaranda_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/jacaranda_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/jacaranda_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/jacaranda_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/jacaranda_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/lament_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/lament_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/lament_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/lament_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/lament_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/lament_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/mahogany_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/mahogany_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/mahogany_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/mahogany_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/mahogany_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/mahogany_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/maple_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/maple_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/maple_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/maple_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/maple_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/maple_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/nightshade_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/nightshade_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/nightshade_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/nightshade_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/nightshade_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/nightshade_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/palm_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/palm_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/palm_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/palm_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/palm_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/palm_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/pine_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/pine_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/pine_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/pine_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/pine_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/pine_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/rainbow_eucalyptus_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/rainbow_eucalyptus_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/rainbow_eucalyptus_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/rainbow_eucalyptus_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/rainbow_eucalyptus_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/rainbow_eucalyptus_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/redwood_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/redwood_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/redwood_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/redwood_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/redwood_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/redwood_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/skyris_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/skyris_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/skyris_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/skyris_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/skyris_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/skyris_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_aspen_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_aspen_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_aspen_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_baobab_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_baobab_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_baobab_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_blue_enchanted_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_blue_enchanted_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_blue_enchanted_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_bulbis_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_bulbis_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_bulbis_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_cherry_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_cherry_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_cherry_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_cika_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_cika_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_cika_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_cypress_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_cypress_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_cypress_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_ebony_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_ebony_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_ebony_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_ether_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_ether_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_ether_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_fir_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_fir_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_fir_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_green_enchanted_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_green_enchanted_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_green_enchanted_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_holly_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_holly_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_holly_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_imparius_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_imparius_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_imparius_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_jacaranda_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_jacaranda_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_jacaranda_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_lament_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_lament_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_lament_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_mahogany_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_mahogany_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_mahogany_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_maple_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_maple_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_maple_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_nightshade_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_nightshade_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_nightshade_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_palm_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_palm_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_palm_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_pine_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_pine_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_pine_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_rainbow_eucalyptus_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_rainbow_eucalyptus_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_rainbow_eucalyptus_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_redwood_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_redwood_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_redwood_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_skyris_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_skyris_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_skyris_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_sythian_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_sythian_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_sythian_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_white_mangrove_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_white_mangrove_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_white_mangrove_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_willow_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_willow_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_willow_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_witch_hazel_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_witch_hazel_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_witch_hazel_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_zelkova_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_zelkova_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/stripped_zelkova_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/sythian_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/sythian_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/sythian_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/sythian_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/sythian_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/sythian_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/white_mangrove_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/white_mangrove_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/white_mangrove_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/white_mangrove_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/white_mangrove_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/white_mangrove_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/willow_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/willow_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/willow_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/willow_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/willow_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/willow_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/witch_hazel_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/witch_hazel_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/witch_hazel_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/witch_hazel_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/witch_hazel_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/witch_hazel_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/zelkova_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/zelkova_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/zelkova_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/zelkova_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/zelkova_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/byg/zelkova_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/azalea_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/azalea_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/azalea_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/azalea_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/azalea_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/azalea_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/coconut_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/coconut_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/coconut_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/coconut_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/coconut_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/coconut_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/flowering_azalea_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/flowering_azalea_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/flowering_azalea_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/flowering_azalea_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/flowering_azalea_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/flowering_azalea_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_azalea_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_azalea_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_azalea_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_coconut_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_coconut_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_coconut_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_flowering_azalea_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_flowering_azalea_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_flowering_azalea_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_walnut_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_walnut_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/stripped_walnut_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/walnut_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/walnut_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/walnut_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/walnut_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/walnut_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/ecologics/walnut_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/black_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/black_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/black_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/black_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/black_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/black_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/blue_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/blue_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/blue_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/blue_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/blue_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/blue_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/brown_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/brown_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/brown_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/brown_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/brown_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/brown_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/cyan_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/cyan_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/cyan_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/cyan_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/cyan_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/cyan_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/gray_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/gray_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/gray_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/gray_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/gray_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/gray_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/green_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/green_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/green_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/green_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/green_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/green_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_blue_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_blue_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_blue_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_blue_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_blue_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_blue_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_gray_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_gray_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_gray_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_gray_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_gray_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/light_gray_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/lime_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/lime_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/lime_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/lime_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/lime_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/lime_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/magenta_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/magenta_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/magenta_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/magenta_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/magenta_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/magenta_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/orange_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/orange_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/orange_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/orange_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/orange_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/orange_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/pink_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/pink_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/pink_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/pink_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/pink_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/pink_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/purple_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/purple_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/purple_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/purple_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/purple_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/purple_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/red_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/red_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/red_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/red_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/red_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/red_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_black_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_black_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_black_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_blue_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_blue_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_blue_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_brown_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_brown_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_brown_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_cyan_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_cyan_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_cyan_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_gray_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_gray_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_gray_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_green_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_green_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_green_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_light_blue_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_light_blue_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_light_blue_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_light_gray_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_light_gray_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_light_gray_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_lime_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_lime_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_lime_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_magenta_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_magenta_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_magenta_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_orange_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_orange_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_orange_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_pink_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_pink_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_pink_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_purple_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_purple_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_purple_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_red_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_red_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_red_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_white_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_white_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_white_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_yellow_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_yellow_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/stripped_yellow_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/white_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/white_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/white_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/white_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/white_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/white_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/yellow_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/yellow_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/yellow_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/yellow_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/yellow_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/spectrum/yellow_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/traverse/fir_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/traverse/fir_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/traverse/fir_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/traverse/fir_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/traverse/fir_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/traverse/fir_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/traverse/stripped_fir_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/traverse/stripped_fir_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/traverse/stripped_fir_log_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/vinery/cherry_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/vinery/cherry_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/vinery/cherry_plank_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/vinery/cherry_plank_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/vinery/cherry_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/vinery/cherry_window2",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/vinery/stripped_cherry_log_four_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/vinery/stripped_cherry_log_window",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcw/vinery/stripped_cherry_log_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:acacia_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:acacia_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:acacia_plank_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:acacia_plank_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:acacia_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:acacia_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:andesite_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:andesite_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:andesite_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:birch_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:birch_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:birch_plank_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:birch_plank_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:birch_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:birch_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:black_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:black_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:blackstone_brick_arrow_slit",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:blackstone_brick_gothic",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:blackstone_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:blackstone_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:blackstone_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:blue_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:blue_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:brown_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:brown_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:cobblestone_arrow_slit",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:crimson_planks_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:crimson_planks_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:crimson_planks_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:crimson_stem_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:crimson_stem_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:crimson_stem_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:cyan_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:cyan_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:dark_oak_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:dark_oak_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:dark_oak_plank_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:dark_oak_plank_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:dark_oak_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:dark_oak_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:dark_prismarine_brick_arrow_slit",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:dark_prismarine_brick_gothic",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:dark_prismarine_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:dark_prismarine_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:dark_prismarine_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:diorite_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:diorite_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:diorite_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:end_brick_gothic",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:ender_brick_arrow_slit",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:granite_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:granite_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:granite_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:gray_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:gray_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:green_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:green_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:hammer",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:jungle_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:jungle_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:jungle_plank_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:jungle_plank_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:jungle_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:jungle_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:light_blue_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:light_blue_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:light_gray_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:light_gray_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:lime_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:lime_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:magenta_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:magenta_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:mangrove_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:mangrove_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:mangrove_plank_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:mangrove_plank_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:mangrove_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:mangrove_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:mud_brick_arrow_slit",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:mud_brick_gothic",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:nether_brick_arrow_slit",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:nether_brick_gothic",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:oak_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:oak_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:oak_plank_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:oak_plank_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:oak_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:oak_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:orange_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:orange_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:pink_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:pink_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:prismarine_brick_arrow_slit",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:prismarine_brick_gothic",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:prismarine_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:prismarine_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:prismarine_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:purple_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:purple_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:red_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:red_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:spruce_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:spruce_plank_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:spruce_plank_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:spruce_plank_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:spruce_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:spruce_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stone_brick_arrow_slit",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stone_brick_gothic",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stone_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stone_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stone_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_acacia_log_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_acacia_log_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_acacia_log_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_birch_log_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_birch_log_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_birch_log_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_crimson_stem_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_crimson_stem_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_crimson_stem_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_dark_oak_log_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_dark_oak_log_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_dark_oak_log_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_jungle_log_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_jungle_log_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_jungle_log_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_mangrove_log_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_mangrove_log_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_mangrove_log_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_oak_log_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_oak_log_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_oak_log_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_spruce_log_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_spruce_log_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_spruce_log_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_warped_stem_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_warped_stem_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:stripped_warped_stem_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:warped_planks_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:warped_planks_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:warped_planks_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:warped_stem_four_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:warped_stem_window",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:warped_stem_window2",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:white_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:white_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:window_base",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:window_centre_bar_base",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:yellow_mosaic_glass",
+            "required": false
+        },
+        {
+            "id":"mcwwindows:yellow_mosaic_glass_pane",
+            "required": false
+        },
+        {
+            "id":"vinery:window",
+            "required": false
+        }
+    ]
+}

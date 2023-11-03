@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id": "#c:cupboard_counters",
+            "required": false
+        },
+        {
+            "id": "#c:kitchen_cupboard",
+            "required": false
+        }
+    ]
+}

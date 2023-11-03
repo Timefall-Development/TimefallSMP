@@ -1,0 +1,77 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"mcwfurnitures:acacia_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_glass_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_glass_table",
+            "required": false
+        }
+    ]
+}

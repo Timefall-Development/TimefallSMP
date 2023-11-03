@@ -1,0 +1,31 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "mcdw:item_enabled",
+      "values": [
+        "mcdw:sickle_last_laugh_silver"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " I ",
+        "IDI",
+        "/  "
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "I": {
+            "item": "clutter:silver_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "mcdw:sickle_last_laugh_silver",
+        "count": 1
+    }
+}

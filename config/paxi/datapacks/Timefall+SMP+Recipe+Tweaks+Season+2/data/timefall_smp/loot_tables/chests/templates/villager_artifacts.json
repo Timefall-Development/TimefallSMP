@@ -1,0 +1,81 @@
+{
+  "pools": [
+	{
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mcdar:boots_of_swiftness",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:buzzy_nest",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:enchanted_grass",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:flaming_quiver",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:ghost_cloak",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:iron_hide_amulet",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:light_feather",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:tasty_bone",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:updraft_tome",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:wind_horn",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:wonderful_wheat",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+		  "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 4.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:pumpkin_seeds",
+          "weight": 33
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

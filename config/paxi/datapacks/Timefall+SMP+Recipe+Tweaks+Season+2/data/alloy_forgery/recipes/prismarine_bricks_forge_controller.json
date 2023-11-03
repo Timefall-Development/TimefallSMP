@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "group": "tools",
+    "pattern": [
+      "BBB",
+      "BCB",
+      "BBB"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:prismarine_bricks"
+      },
+      "C": [
+		  {
+			"item": "alloy_forgery:bricks_forge_controller"
+		  },
+		  {
+			"item": "alloy_forgery:stone_bricks_forge_controller"
+		  }
+	  ]
+    },
+    "result": {
+      "item": "alloy_forgery:prismarine_bricks_forge_controller"
+    }
+  }

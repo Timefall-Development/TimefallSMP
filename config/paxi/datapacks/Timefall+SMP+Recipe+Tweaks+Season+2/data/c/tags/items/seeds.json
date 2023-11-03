@@ -1,0 +1,193 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "amethyst_imbuement:xp_bush_seed",
+            "required": false
+        },
+        {
+            "id": "betterend:amber_root_seed",
+            "required": false
+        },
+        {
+            "id": "betterend:blossom_berry_seed",
+            "required": false
+        },
+        {
+            "id": "betterend:blue_vine_seed",
+            "required": false
+        },
+        {
+            "id": "betterend:bulb_vine_seed",
+            "required": false
+        },
+        {
+            "id": "betterend:cave_pumpkin_seed",
+            "required": false
+        },
+        {
+            "id": "betterend:chorus_mushroom_seed",
+            "required": false
+        },
+        {
+            "id": "betterend:end_lily_seed",
+            "required": false
+        },
+        {
+            "id": "betterend:end_lotus_seed",
+            "required": false
+        },
+        {
+            "id": "betterend:lanceleaf_seed",
+            "required": false
+        },
+        {
+            "id": "betterend:lumecorn_seed",
+            "required": false
+        },
+        {
+            "id": "betternether:black_apple_seed",
+            "required": false
+        },
+        {
+            "id": "betternether:eye_seed",
+            "required": false
+        },
+        {
+            "id": "betternether:golden_lumabus_seed",
+            "required": false
+        },
+        {
+            "id": "betternether:ink_bush_seed",
+            "required": false
+        },
+        {
+            "id": "betternether:lumabus_seed",
+            "required": false
+        },
+        {
+            "id": "betternether:stalagnate_seed",
+            "required": false
+        },
+        {
+            "id": "betternether:wart_seed",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:cucumber_seeds",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:eggplant_seeds",
+            "required": false
+        },
+        {
+            "id": "drinkbeer:spice_amethyst_nigella_seeds",
+            "required": false
+        },
+        {
+            "id": "drinkbeer:spice_citrine_nigella_seeds",
+            "required": false
+        },
+        {
+            "id": "ecologics:coconut_seedling",
+            "required": false
+        },
+        {
+            "id": "expandeddelight:asparagus_seeds",
+            "required": false
+        },
+        {
+            "id": "expandeddelight:chili_pepper_seeds",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:cabbage_seeds",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:tomato_seeds",
+            "required": false
+        },
+        {
+            "id": "farmersrespite:tea_seeds",
+            "required": false
+        },
+        {
+            "id": "mcdar:corrupted_seeds",
+            "required": false
+        },
+        {
+            "id": "minecraft:beetroot_seeds",
+            "required": false
+        },
+        {
+            "id": "minecraft:melon_seeds",
+            "required": false
+        },
+        {
+            "id": "minecraft:pumpkin_seeds",
+            "required": false
+        },
+        {
+            "id": "minecraft:wheat_seeds",
+            "required": false
+        },
+        {
+            "id": "spectrum:germinated_jade_vine_seeds",
+            "required": false
+        },
+        {
+            "id": "spectrum:glistering_melon_seeds",
+            "required": false
+        },
+        {
+            "id": "spectrum:hibernating_jade_vine_seeds",
+            "required": false
+        },
+        {
+            "id": "supplementaries:flax_seeds",
+            "required": false
+        },
+        {
+            "id": "vinery:jungle_grape_seeds_red",
+            "required": false
+        },
+        {
+            "id": "vinery:jungle_grape_seeds_white",
+            "required": false
+        },
+        {
+            "id": "vinery:red_grape_seeds",
+            "required": false
+        },
+        {
+            "id": "vinery:savanna_grape_seeds_red",
+            "required": false
+        },
+        {
+            "id": "vinery:savanna_grape_seeds_white",
+            "required": false
+        },
+        {
+            "id": "vinery:taiga_grape_seeds_red",
+            "required": false
+        },
+        {
+            "id": "vinery:taiga_grape_seeds_white",
+            "required": false
+        },
+        {
+            "id": "vinery:tomato_seeds",
+            "required": false
+        },
+        {
+            "id": "vinery:white_grape_seeds",
+            "required": false
+        },
+        {
+            "id": "byg:white_puffball_spores",
+            "required": false
+        }
+    ]
+}

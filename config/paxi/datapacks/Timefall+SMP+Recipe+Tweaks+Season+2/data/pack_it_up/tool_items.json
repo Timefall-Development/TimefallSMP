@@ -1,0 +1,2313 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"adorn:black_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:blue_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:brown_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:cyan_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:gray_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:green_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:light_blue_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:light_gray_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:lime_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:magenta_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:orange_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:pink_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:purple_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:red_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:stone_torch",
+            "required": false
+        },
+        {
+            "id":"adorn:white_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"adorn:yellow_candlelit_lantern",
+            "required": false
+        },
+        {
+            "id":"amethyst_imbuement:garnet_horse_armor",
+            "required": false
+        },
+        {
+            "id":"amethyst_imbuement:glowing_horse_armor",
+            "required": false
+        },
+        {
+            "id":"betterend:amaranita_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:andesite_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:azure_jadestone_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:blackstone_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:blue_vine_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:diorite_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:end_stone_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:filalux_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:flavolite_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:granite_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_black",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_blue",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_brown",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_cyan",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_gray",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_green",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_light_blue",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_light_gray",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_lime",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_magenta",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_orange",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_pink",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_purple",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_red",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_white",
+            "required": false
+        },
+        {
+            "id":"betterend:iron_bulb_lantern_yellow",
+            "required": false
+        },
+        {
+            "id":"betterend:menger_sponge",
+            "required": false
+        },
+        {
+            "id":"betterend:menger_sponge_wet",
+            "required": false
+        },
+        {
+            "id":"betterend:purpur_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:quartz_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:sandy_jadestone_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:sulphuric_rock_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_black",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_blue",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_brown",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_cyan",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_gray",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_green",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_light_blue",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_light_gray",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_lime",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_magenta",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_orange",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_pink",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_purple",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_red",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_white",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_bulb_lantern_yellow",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_black",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_blue",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_brown",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_cyan",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_gray",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_green",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_light_blue",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_light_gray",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_lime",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_magenta",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_orange",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_pink",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_purple",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_red",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_white",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_bulb_lantern_yellow",
+            "required": false
+        },
+        {
+            "id":"betterend:umbralith_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:violecite_lantern",
+            "required": false
+        },
+        {
+            "id":"betterend:virid_jadestone_lantern",
+            "required": false
+        },
+        {
+            "id":"betternether:anchor_tree_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:anchor_tree_chest_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:cincinnasite_lantern",
+            "required": false
+        },
+        {
+            "id":"betternether:cincinnasite_lantern_small",
+            "required": false
+        },
+        {
+            "id":"betternether:crimson_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:crimson_chest_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:mushroom_fir_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:mushroom_fir_chest_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_mushroom_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_mushroom_chest_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_reed_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_reed_chest_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_sakura_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_sakura_chest_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:rubeus_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:rubeus_chest_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:stalagnate_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:stalagnate_chest_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:warped_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:warped_chest_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:wart_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:wart_chest_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:whispering_gourd_lantern",
+            "required": false
+        },
+        {
+            "id":"betternether:willow_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:willow_chest_boat",
+            "required": false
+        },
+        {
+            "id":"betternether:willow_torch",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:keg",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:tankard",
+            "required": false
+        },
+        {
+            "id":"byg:ametrine_horse_armor",
+            "required": false
+        },
+        {
+            "id":"byg:aspen_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:baobab_boat",
+            "required": false
+        },
+        {
+            "id":"byg:baobab_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:blue_enchanted_boat",
+            "required": false
+        },
+        {
+            "id":"byg:blue_enchanted_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:boric_lantern",
+            "required": false
+        },
+        {
+            "id":"byg:cherry_boat",
+            "required": false
+        },
+        {
+            "id":"byg:cherry_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:cika_boat",
+            "required": false
+        },
+        {
+            "id":"byg:cika_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:cryptic_lantern",
+            "required": false
+        },
+        {
+            "id":"byg:cypress_boat",
+            "required": false
+        },
+        {
+            "id":"byg:cypress_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:ebony_boat",
+            "required": false
+        },
+        {
+            "id":"byg:ebony_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:fir_boat",
+            "required": false
+        },
+        {
+            "id":"byg:fir_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:glowstone_lantern",
+            "required": false
+        },
+        {
+            "id":"byg:green_enchanted_boat",
+            "required": false
+        },
+        {
+            "id":"byg:green_enchanted_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:holly_boat",
+            "required": false
+        },
+        {
+            "id":"byg:holly_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:jacaranda_boat",
+            "required": false
+        },
+        {
+            "id":"byg:jacaranda_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:mahogany_boat",
+            "required": false
+        },
+        {
+            "id":"byg:mahogany_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:maple_boat",
+            "required": false
+        },
+        {
+            "id":"byg:maple_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:palm_boat",
+            "required": false
+        },
+        {
+            "id":"byg:palm_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:pendorite_horse_armor",
+            "required": false
+        },
+        {
+            "id":"byg:pine_boat",
+            "required": false
+        },
+        {
+            "id":"byg:pine_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:rainbow_eucalyptus_boat",
+            "required": false
+        },
+        {
+            "id":"byg:rainbow_eucalyptus_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:redwood_boat",
+            "required": false
+        },
+        {
+            "id":"byg:redwood_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:skyris_boat",
+            "required": false
+        },
+        {
+            "id":"byg:skyris_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:therium_lantern",
+            "required": false
+        },
+        {
+            "id":"byg:white_mangrove_boat",
+            "required": false
+        },
+        {
+            "id":"byg:white_mangrove_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:willow_boat",
+            "required": false
+        },
+        {
+            "id":"byg:willow_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:witch_hazel_boat",
+            "required": false
+        },
+        {
+            "id":"byg:witch_hazel_chest_boat",
+            "required": false
+        },
+        {
+            "id":"byg:zelkova_boat",
+            "required": false
+        },
+        {
+            "id":"byg:zelkova_chest_boat",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_black",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_blue",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_brown",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_cyan",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_gray",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_green",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_light_blue",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_light_gray",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_lime",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_magenta",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_orange",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_pink",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_purple",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_red",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_white",
+            "required": false
+        },
+        {
+            "id":"comforts:hammock_yellow",
+            "required": false
+        },
+        {
+            "id":"comforts:rope_and_nail",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_black",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_blue",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_brown",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_cyan",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_gray",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_green",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_light_blue",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_light_gray",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_lime",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_magenta",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_orange",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_pink",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_purple",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_red",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_white",
+            "required": false
+        },
+        {
+            "id":"comforts:sleeping_bag_yellow",
+            "required": false
+        },
+        {
+            "id":"conjuring:conjuring_scepter",
+            "required": false
+        },
+        {
+            "id":"conjuring:soul_alloy_hatchet",
+            "required": false
+        },
+        {
+            "id":"conjuring:soul_alloy_scythe",
+            "required": false
+        },
+        {
+            "id":"crittersandcompanions:pearl_necklace_1",
+            "required": false
+        },
+        {
+            "id":"crittersandcompanions:pearl_necklace_2",
+            "required": false
+        },
+        {
+            "id":"crittersandcompanions:pearl_necklace_3",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:aged_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:black_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:blue_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:brown_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:cyan_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:gilded_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:gray_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:green_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:light_blue_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:light_gray_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:lime_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:magenta_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:netherite_gauntlet",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:orange_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:pink_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:potioneer_gauntlet",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:purple_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:red_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:rudimentary_gauntlet",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:white_umbrella",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:yellow_umbrella",
+            "required": false
+        },
+        {
+            "id":"ecologics:azalea_boat",
+            "required": false
+        },
+        {
+            "id":"ecologics:azalea_chest_boat",
+            "required": false
+        },
+        {
+            "id":"ecologics:coconut_boat",
+            "required": false
+        },
+        {
+            "id":"ecologics:coconut_chest_boat",
+            "required": false
+        },
+        {
+            "id":"ecologics:flowering_azalea_boat",
+            "required": false
+        },
+        {
+            "id":"ecologics:flowering_azalea_chest_boat",
+            "required": false
+        },
+        {
+            "id":"ecologics:walnut_boat",
+            "required": false
+        },
+        {
+            "id":"ecologics:walnut_chest_boat",
+            "required": false
+        },
+        {
+            "id":"emerald_tools:amethyst_arrow",
+            "required": false
+        },
+        {
+            "id":"emerald_tools:diamond_arrow",
+            "required": false
+        },
+        {
+            "id":"emerald_tools:emerald_arrow",
+            "required": false
+        },
+        {
+            "id":"emerald_tools:ruby_arrow",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/dragon_tree_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/end_lotus_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/helix_tree_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/jellyshroom_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/lacugrove_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/lucernia_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/mossy_glowshroom_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/pythadendron_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/soul_dragon_tree_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/soul_end_lotus_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/soul_helix_tree_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/soul_jellyshroom_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/soul_lacugrove_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/soul_lucernia_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/soul_mossy_glowshroom_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/soul_pythadendron_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/soul_tenanea_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/soul_umbrella_tree_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/tenanea_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betterend/umbrella_tree_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/anchor_tree_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/mushroom_fir_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/nether_mushroom_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/nether_reed_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/nether_sakura_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/rubeus_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/soul_anchor_tree_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/soul_mushroom_fir_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/soul_nether_mushroom_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/soul_nether_reed_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/soul_nether_sakura_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/soul_rubeus_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/soul_stalagnate_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/soul_wart_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/soul_willow_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/stalagnate_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/wart_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/betternether/willow_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/aspen_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/baobab_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/blue_enchanted_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/bulbis_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/cherry_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/cika_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/cypress_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/ebony_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/ether_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/fir_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/green_enchanted_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/holly_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/imparius_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/jacaranda_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/lament_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/mahogany_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/maple_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/nightshade_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/palm_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/pine_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/rainbow_eucalyptus_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/redwood_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/skyris_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_aspen_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_baobab_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_blue_enchanted_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_bulbis_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_cherry_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_cika_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_cypress_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_ebony_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_ether_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_fir_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_green_enchanted_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_holly_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_imparius_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_jacaranda_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_lament_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_mahogany_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_maple_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_nightshade_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_palm_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_pine_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_rainbow_eucalyptus_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_redwood_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_skyris_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_sythian_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_white_mangrove_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_willow_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_witch_hazel_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/soul_zelkova_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/sythian_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/white_mangrove_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/willow_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/witch_hazel_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/byg/zelkova_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/ecologics/azalea_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/ecologics/coconut_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/ecologics/flowering_azalea_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/ecologics/soul_azalea_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/ecologics/soul_coconut_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/ecologics/soul_flowering_azalea_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/ecologics/soul_walnut_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/ecologics/walnut_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/black_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/blue_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/brown_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/cyan_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/gray_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/green_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/light_blue_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/light_gray_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/lime_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/magenta_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/orange_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/pink_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/purple_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/red_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_black_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_blue_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_brown_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_cyan_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_gray_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_green_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_light_blue_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_light_gray_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_lime_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_magenta_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_orange_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_pink_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_purple_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_red_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_white_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/soul_yellow_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/white_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/spectrum/yellow_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/traverse/fir_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/traverse/soul_fir_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/vinery/cherry_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcl/vinery/soul_cherry_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:juicer_item",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:mortar_and_pestle_item",
+            "required": false
+        },
+        {
+            "id":"explorerscompass:explorerscompass",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:diamond_knife",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:flint_knife",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:golden_knife",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:iron_knife",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:milk_bottle",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:netherite_knife",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:rope",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:safety_net",
+            "required": false
+        },
+        {
+            "id":"friendsandfoes:wildfire_crown",
+            "required": false
+        },
+        {
+            "id":"fwaystones:abyss_watcher",
+            "required": false
+        },
+        {
+            "id":"fwaystones:blackstone_brick_waystone",
+            "required": false
+        },
+        {
+            "id":"fwaystones:deepslate_brick_waystone",
+            "required": false
+        },
+        {
+            "id":"fwaystones:desert_waystone",
+            "required": false
+        },
+        {
+            "id":"fwaystones:end_stone_brick_waystone",
+            "required": false
+        },
+        {
+            "id":"fwaystones:local_void",
+            "required": false
+        },
+        {
+            "id":"fwaystones:nether_brick_waystone",
+            "required": false
+        },
+        {
+            "id":"fwaystones:pocket_wormhole",
+            "required": false
+        },
+        {
+            "id":"fwaystones:red_desert_waystone",
+            "required": false
+        },
+        {
+            "id":"fwaystones:red_nether_brick_waystone",
+            "required": false
+        },
+        {
+            "id":"fwaystones:scroll_of_infinite_knowledge",
+            "required": false
+        },
+        {
+            "id":"fwaystones:stone_brick_waystone",
+            "required": false
+        },
+        {
+            "id":"fwaystones:void_totem",
+            "required": false
+        },
+        {
+            "id":"fwaystones:waystone",
+            "required": false
+        },
+        {
+            "id":"fwaystones:waystone_debugger",
+            "required": false
+        },
+        {
+            "id":"fwaystones:waystone_scroll",
+            "required": false
+        },
+        {
+            "id":"goodall:animal_crate",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:flower_crown",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:ice_sickle",
+            "required": false
+        },
+        {
+            "id":"mcdw:item_bee_stinger",
+            "required": false
+        },
+        {
+            "id":"mcwlights:acacia_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:bamboo_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:bell_lantern",
+            "required": false
+        },
+        {
+            "id":"mcwlights:birch_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:chain_lantern",
+            "required": false
+        },
+        {
+            "id":"mcwlights:covered_lantern",
+            "required": false
+        },
+        {
+            "id":"mcwlights:crimson_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:cross_lantern",
+            "required": false
+        },
+        {
+            "id":"mcwlights:dark_oak_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:festive_lantern",
+            "required": false
+        },
+        {
+            "id":"mcwlights:jungle_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:mangrove_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:oak_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:soul_acacia_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:soul_bamboo_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:soul_birch_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:soul_crimson_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:soul_dark_oak_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:soul_jungle_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:soul_mangrove_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:soul_oak_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:soul_spruce_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:soul_warped_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:spruce_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"mcwlights:striped_lantern",
+            "required": false
+        },
+        {
+            "id":"mcwlights:tavern_lantern",
+            "required": false
+        },
+        {
+            "id":"mcwlights:warped_tiki_torch",
+            "required": false
+        },
+        {
+            "id":"minecraft:acacia_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:acacia_chest_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:arrow",
+            "required": false
+        },
+        {
+            "id":"minecraft:birch_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:birch_chest_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:bowl",
+            "required": false
+        },
+        {
+            "id":"minecraft:bucket",
+            "required": false
+        },
+        {
+            "id":"minecraft:clock",
+            "required": false
+        },
+        {
+            "id":"minecraft:compass",
+            "required": false
+        },
+        {
+            "id":"minecraft:dark_oak_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:dark_oak_chest_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:debug_stick",
+            "required": false
+        },
+        {
+            "id":"minecraft:diamond_horse_armor",
+            "required": false
+        },
+        {
+            "id":"minecraft:experience_bottle",
+            "required": false
+        },
+        {
+            "id":"minecraft:glass_bottle",
+            "required": false
+        },
+        {
+            "id":"minecraft:golden_horse_armor",
+            "required": false
+        },
+        {
+            "id":"minecraft:honey_bottle",
+            "required": false
+        },
+        {
+            "id":"minecraft:iron_horse_armor",
+            "required": false
+        },
+        {
+            "id":"minecraft:jungle_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:jungle_chest_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:lantern",
+            "required": false
+        },
+        {
+            "id":"minecraft:lava_bucket",
+            "required": false
+        },
+        {
+            "id":"minecraft:lead",
+            "required": false
+        },
+        {
+            "id":"minecraft:leather_horse_armor",
+            "required": false
+        },
+        {
+            "id":"minecraft:mangrove_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:mangrove_chest_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:milk_bucket",
+            "required": false
+        },
+        {
+            "id":"minecraft:oak_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:oak_chest_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:recovery_compass",
+            "required": false
+        },
+        {
+            "id":"minecraft:redstone_torch",
+            "required": false
+        },
+        {
+            "id":"minecraft:saddle",
+            "required": false
+        },
+        {
+            "id":"minecraft:snowball",
+            "required": false
+        },
+        {
+            "id":"minecraft:soul_lantern",
+            "required": false
+        },
+        {
+            "id":"minecraft:soul_torch",
+            "required": false
+        },
+        {
+            "id":"minecraft:spectral_arrow",
+            "required": false
+        },
+        {
+            "id":"minecraft:spongebyg:aspen_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:spruce_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:spruce_chest_boat",
+            "required": false
+        },
+        {
+            "id":"minecraft:spyglass",
+            "required": false
+        },
+        {
+            "id":"minecraft:tipped_arrow",
+            "required": false
+        },
+        {
+            "id":"minecraft:tnt",
+            "required": false
+        },
+        {
+            "id":"minecraft:torch",
+            "required": false
+        },
+        {
+            "id":"minecraft:water_bucket",
+            "required": false
+        },
+        {
+            "id":"minecraft:wet_sponge",
+            "required": false
+        },
+        {
+            "id":"mob_catcher:mob_catcher",
+            "required": false
+        },
+        {
+            "id":"mob_catcher:mob_catcher_hostile",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:runite_arrow",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:star_platinum_arrow",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:tipped_runite_arrow",
+            "required": false
+        },
+        {
+            "id":"mythicmounts:firebird_feather",
+            "required": false
+        },
+        {
+            "id":"mythicmounts:firebird_feather2",
+            "required": false
+        },
+        {
+            "id":"mythicmounts:firebird_feather3",
+            "required": false
+        },
+        {
+            "id":"mythicmounts:firebird_feather4",
+            "required": false
+        },
+        {
+            "id":"mythicmounts:summoning_staff",
+            "required": false
+        },
+        {
+            "id":"naturescompass:naturescompass",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:diamond_machete",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:golden_machete",
+            "required": false
+        },
+        {
+            "id":"nethersdelight:propelplant_torch",
+            "required": false
+        },
+        {
+            "id":"soundmuffler:soundmuffler",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_axe",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_boots",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_bow",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_chestplate",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_crossbow",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_fishing_rod",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_helmet",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_hoe",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_leggings",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_pickaxe",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_shears",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_shovel",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_sword",
+            "required": false
+        },
+        {
+            "id":"spectrum:constructors_staff",
+            "required": false
+        },
+        {
+            "id":"spectrum:exchanging_staff",
+            "required": false
+        },
+        {
+            "id":"spectrum:lava_sponge",
+            "required": false
+        },
+        {
+            "id":"spectrum:natures_staff",
+            "required": false
+        },
+        {
+            "id":"spectrum:paintbrush",
+            "required": false
+        },
+        {
+            "id":"spectrum:radiance_staff",
+            "required": false
+        },
+        {
+            "id":"spectrum:wet_lava_sponge",
+            "required": false
+        },
+        {
+            "id":"supplementaries:bomb",
+            "required": false
+        },
+        {
+            "id":"supplementaries:bomb_blue",
+            "required": false
+        },
+        {
+            "id":"supplementaries:bomb_blue_projectile",
+            "required": false
+        },
+        {
+            "id":"supplementaries:bomb_projectile",
+            "required": false
+        },
+        {
+            "id":"supplementaries:bomb_spiky",
+            "required": false
+        },
+        {
+            "id":"supplementaries:bomb_spiky_projectile",
+            "required": false
+        },
+        {
+            "id":"supplementaries:brass_lantern",
+            "required": false
+        },
+        {
+            "id":"supplementaries:cage",
+            "required": false
+        },
+        {
+            "id":"supplementaries:copper_lantern",
+            "required": false
+        },
+        {
+            "id":"supplementaries:crimson_lantern",
+            "required": false
+        },
+        {
+            "id":"supplementaries:jar",
+            "required": false
+        },
+        {
+            "id":"supplementaries:jar_boat",
+            "required": false
+        },
+        {
+            "id":"supplementaries:key",
+            "required": false
+        },
+        {
+            "id":"supplementaries:lead_lantern",
+            "required": false
+        },
+        {
+            "id":"supplementaries:quiver",
+            "required": false
+        },
+        {
+            "id":"supplementaries:rope",
+            "required": false
+        },
+        {
+            "id":"supplementaries:rope_arrow",
+            "required": false
+        },
+        {
+            "id":"supplementaries:sconce",
+            "required": false
+        },
+        {
+            "id":"supplementaries:sconce_ender",
+            "required": false
+        },
+        {
+            "id":"supplementaries:sconce_glow",
+            "required": false
+        },
+        {
+            "id":"supplementaries:sconce_green",
+            "required": false
+        },
+        {
+            "id":"supplementaries:sconce_nether_brass",
+            "required": false
+        },
+        {
+            "id":"supplementaries:sconce_soul",
+            "required": false
+        },
+        {
+            "id":"supplementaries:silver_lantern",
+            "required": false
+        },
+        {
+            "id":"supplementaries:slingshot",
+            "required": false
+        },
+        {
+            "id":"supplementaries:wrench",
+            "required": false
+        },
+        {
+            "id":"traverse:fir_boat",
+            "required": false
+        },
+        {
+            "id":"traverse:fir_chest_boat",
+            "required": false
+        },
+        {
+            "id":"vinery:cherry_boat",
+            "required": false
+        },
+        {
+            "id":"vinery:cherry_chest_boat",
+            "required": false
+        },
+        {
+            "id":"vinery:gloves",
+            "required": false
+        },
+        {
+            "id":"vinery:straw_hat",
+            "required": false
+        },
+        {
+            "id":"vinery:vinemaker_apron",
+            "required": false
+        },
+        {
+            "id":"with_thursday:grinder",
+            "required": false
+        },
+        {
+            "id":"with_thursday:knife",
+            "required": false
+        },
+        {
+            "id":"spelunkery:magnetic_compass",
+            "required": false
+        },
+        {
+            "id":"spelunkery:depth_gauge",
+            "required": false
+        },
+        {
+            "id":"spelunkery:item_magnet",
+            "required": false
+        },
+        {
+            "id":"spelunkery:handheld_compactor",
+            "required": false
+        },
+        {
+            "id":"spelunkery:echo_fork",
+            "required": false
+        },
+        {
+            "id":"spelunkery:parachute",
+            "required": false
+        },
+        {
+            "id":"spelunkery:mineomite",
+            "required": false
+        },
+        {
+            "id":"spelunkery:flint_hammer_and_chisel",
+            "required": false
+        },
+        {
+            "id":"spelunkery:obsidian_hammer_and_chisel",
+            "required": false
+        },
+        {
+            "id":"spelunkery:glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:white_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:light_gray_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:gray_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:black_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:brown_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:red_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:orange_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:yellow_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:lime_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:green_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:cyan_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:light_blue_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:blue_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:purple_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:magenta_glowstick",
+            "required": false
+        },
+        {
+            "id":"spelunkery:pink_glowstick",
+            "required": false
+        }
+    ]
+}

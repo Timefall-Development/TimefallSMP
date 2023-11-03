@@ -1,0 +1,41 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"mcdw:staff_battlestaff",
+            "required": false
+        },
+        {
+            "id":"mcdw:staff_battlestaff_of_terror",
+            "required": false
+        },
+        {
+            "id":"mcdw:staff_growing_staff",
+            "required": false
+        },
+        {
+            "id":"mythicmetals:carmot_staff",
+            "required": false
+        },
+        {
+            "id":"graveyard:black_bone_staff",
+            "required": false
+        },
+        {
+            "id":"graveyard:cyan_bone_staff",
+            "required": false
+        },
+        {
+            "id":"graveyard:purple_bone_staff",
+            "required": false
+        },
+        {
+            "id":"graveyard:red_bone_staff",
+            "required": false
+        },
+        {
+            "id":"graveyard:white_bone_staff",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="datapacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Bountiful_v3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Config_Datapack-1_20_1-v38.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Oh_The_Biomes_Youll_Go_v2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Better_Monuments_v6.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Better_Desert_Temples_v8.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Better_Witch_Huts_v4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Better_Strongholds_v5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/ctov-bounty-board-add-on-v1-0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Better_Dungeons_v5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Timefall+SMP+Recipe+Tweaks+Season+2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/ctov-croptopia-add-on-v2-0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Timefall_SMP_Gearifiers_Rerolls.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Paladins_v2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Better_Nether_Fortress_v6.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Gazebo_v2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Wizards_v3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/multiplayer_sleep_v2.6.3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-VillagersPlus_v2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Friends_And_Foes_v5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/paxi/datapacks/Repurposed_Structures-Chef's_Delight_v3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "expandeddelight:salt_rock"
+      },
+      {
+        "tag": "c:hammer"
+      }
+    ],
+    "result": {
+      "item": "expandeddelight:ground_salt"
+    }
+  }

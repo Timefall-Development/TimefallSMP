@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"simplyswords:molten_edge",
+            "required": false
+        },
+        {
+            "id":"simplyswords:livyatan",
+            "required": false
+        },
+        {
+            "id":"mcdw:axe_firebrand",
+            "required": false
+        },
+        {
+            "id":"mcdw:axe_highland",
+            "required": false
+        },
+        {
+            "id":"mcdw:axe_whirlwind",
+            "required": false
+        }
+    ]
+}

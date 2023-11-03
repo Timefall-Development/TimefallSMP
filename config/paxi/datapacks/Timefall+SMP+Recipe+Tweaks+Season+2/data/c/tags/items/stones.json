@@ -1,0 +1,93 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"byg:carved_ether_stone",
+            "required": false
+        },
+        {
+            "id":"byg:cobbled_ether_stone",
+            "required": false
+        },
+        {
+            "id":"byg:cryptic_stone",
+            "required": false
+        },
+        {
+            "id":"byg:ether_stone",
+            "required": false
+        },
+        {
+            "id":"byg:magmatic_stone",
+            "required": false
+        },
+        {
+            "id":"byg:mossy_stone",
+            "required": false
+        },
+        {
+            "id":"byg:overgrown_stone",
+            "required": false
+        },
+        {
+            "id":"byg:purpur_stone",
+            "required": false
+        },
+        {
+            "id":"byg:rocky_stone",
+            "required": false
+        },
+        {
+            "id":"byg:scoria_stone",
+            "required": false
+        },
+        {
+            "id":"graveyard:tg_stone",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:mossy_stone",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:sandy_stone",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:snowy_stone",
+            "required": false
+        },
+        {
+            "id":"minecraft:end_stone",
+            "required": false
+        },
+        {
+            "id":"minecraft:infested_stone",
+            "required": false
+        },
+        {
+            "id":"minecraft:smooth_stone",
+            "required": false
+        },
+        {
+            "id":"graveyard:tg_deepslate",
+            "required": false
+        },
+        {
+            "id":"graveyard:tg_diorite",
+            "required": false
+        },
+        {
+            "id":"graveyard:tg_dirt",
+            "required": false
+        },
+        {
+            "id":"graveyard:tg_granite",
+            "required": false
+        },
+        {
+            "id":"graveyard:tg_andesite",
+            "required": false
+        }
+    ]
+}

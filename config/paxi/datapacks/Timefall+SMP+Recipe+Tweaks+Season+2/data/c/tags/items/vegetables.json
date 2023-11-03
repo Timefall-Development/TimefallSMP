@@ -1,0 +1,383 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"brewinandchewin:kimchi",
+            "required": false
+        },
+        {
+            "id":"brewinandchewin:pickled_pickles",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:avocado",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:avocado_toast",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:corn_cob",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:creamed_corn",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:cucumber",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:cut_avocado",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:cut_cucumber",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:cut_eggplant",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:cut_pickle",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:egg_roll",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:eggplant",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:eggplant_burger",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:elote",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:fried_eggplant_pasta",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:hearty_salad",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:midori_roll",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:midori_roll_slice",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:pickle",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:popcorn",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:rice_ball",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:smoked_corn",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:smoked_cut_eggplant",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:smoked_eggplant",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:smoked_tomato",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:smoked_white_eggplant",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:spicy_curry",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:tortilla",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:tortilla_chips",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:white_eggplant",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:wild_corn",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:wild_cucumbers",
+            "required": false
+        },
+        {
+            "id":"culturaldelights:wild_eggplants",
+            "required": false
+        },
+        {
+            "id":"ecologics:coconut",
+            "required": false
+        },
+        {
+            "id":"ecologics:cooked_prickly_pear",
+            "required": false
+        },
+        {
+            "id":"ecologics:prickly_pear",
+            "required": false
+        },
+        {
+            "id":"ecologics:tropical_stew",
+            "required": false
+        },
+        {
+            "id":"ecologics:walnut",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:asparagus",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:asparagus_and_bacon_cheesy",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:asparagus_soup",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:asparagus_soup_creamy",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:baked_sweet_potato",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:berry_sweet_roll",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:chili_pepper",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:cinnamon_rice",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:peanut",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:peanut_salad",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:sweet_potato",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:sweet_potato_salad",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:wild_asparagus",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:wild_chili_pepper",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:wild_peanuts",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:wild_sweet_potatoes",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:cabbage",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:cabbage_leaf",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:cabbage_rolls",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:cooked_rice",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:fried_rice",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:horse_feed",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:kelp_roll",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:kelp_roll_slice",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:mixed_salad",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:mushroom_rice",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:nether_salad",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:onion",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:pumpkin_slice",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:pumpkin_soup",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:stuffed_potato",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:stuffed_pumpkin",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:stuffed_pumpkin_block",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:tomato",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:tomato_sauce",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:wild_beetroots",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:wild_cabbages",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:wild_carrots",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:wild_onions",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:wild_potatoes",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:wild_rice",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:wild_tomatoes",
+            "required": false
+        },
+        {
+            "id":"vinery:tomato",
+            "required": false
+        },
+        {
+            "id":"with_thursday:corn_salad",
+            "required": false
+        },
+        {
+            "id":"with_thursday:french_fries",
+            "required": false
+        },
+        {
+            "id":"with_thursday:mashed_potato",
+            "required": false
+        },
+        {
+            "id":"with_thursday:potato_chips",
+            "required": false
+        },
+        {
+            "id":"with_thursday:potato_pie",
+            "required": false
+        },
+        "candlelight:lettuce",
+        "croptopia:artichoke",
+        "croptopia:asparagus",
+        "croptopia:bellpepper",
+        "croptopia:broccoli",
+        "croptopia:cabbage",
+        "croptopia:cauliflower",
+        "croptopia:celery",
+        "croptopia:cucumber",
+        "croptopia:eggplant",
+        "croptopia:garlic",
+        "croptopia:ginger",
+        "croptopia:greenbean",
+        "croptopia:greenonion",
+        "croptopia:kale",
+        "croptopia:leek",
+        "croptopia:lettuce",
+        "croptopia:onion",
+        "croptopia:radish",
+        "croptopia:rhubarb",
+        "croptopia:rutabaga",
+        "croptopia:spinach",
+        "croptopia:squash",
+        "croptopia:turnip",
+        "croptopia:zucchini",
+        "culturaldelights:cucumber",
+        "culturaldelights:eggplant",
+        "culturaldelights:white_eggplant",
+        "farmersdelight:onion",
+        "farmersdelight:cabbage_leaf"
+    ]
+}

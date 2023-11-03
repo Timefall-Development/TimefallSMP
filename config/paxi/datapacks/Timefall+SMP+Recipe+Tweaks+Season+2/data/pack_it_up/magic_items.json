@@ -1,0 +1,189 @@
+{
+    "replace": false,
+    "value": [
+        {
+            "id":"conjuring:abundance_gem",
+            "required": false
+        },
+        {
+            "id":"conjuring:blackstone_pedestal",
+            "required": false
+        },
+        {
+            "id":"conjuring:conjuration_essence",
+            "required": false
+        },
+        {
+            "id":"conjuring:conjurer",
+            "required": false
+        },
+        {
+            "id":"conjuring:conjuring_focus",
+            "required": false
+        },
+        {
+            "id":"conjuring:conjuring_scepter",
+            "required": false
+        },
+        {
+            "id":"conjuring:distilled_spirit",
+            "required": false
+        },
+        {
+            "id":"conjuring:enchiridion",
+            "required": false
+        },
+        {
+            "id":"conjuring:gem_socket",
+            "required": false
+        },
+        {
+            "id":"conjuring:gem_tinkerer",
+            "required": false
+        },
+        {
+            "id":"conjuring:haste_charm",
+            "required": false
+        },
+        {
+            "id":"conjuring:haste_gem",
+            "required": false
+        },
+        {
+            "id":"conjuring:ignorance_charm",
+            "required": false
+        },
+        {
+            "id":"conjuring:ignorance_gem",
+            "required": false
+        },
+        {
+            "id":"conjuring:lesser_conjuration_essence",
+            "required": false
+        },
+        {
+            "id":"conjuring:pizza",
+            "required": false
+        },
+        {
+            "id":"conjuring:plentifulness_charm",
+            "required": false
+        },
+        {
+            "id":"conjuring:scope_charm",
+            "required": false
+        },
+        {
+            "id":"conjuring:scope_gem",
+            "required": false
+        },
+        {
+            "id":"conjuring:soul_alloy",
+            "required": false
+        },
+        {
+            "id":"conjuring:soul_alloy_hatchet",
+            "required": false
+        },
+        {
+            "id":"conjuring:soul_alloy_scythe",
+            "required": false
+        },
+        {
+            "id":"conjuring:soul_funnel",
+            "required": false
+        },
+        {
+            "id":"conjuring:soul_rod",
+            "required": false
+        },
+        {
+            "id":"conjuring:soul_slice",
+            "required": false
+        },
+        {
+            "id":"conjuring:soul_weaver",
+            "required": false
+        },
+        {
+            "id":"conjuring:soulfire_forge",
+            "required": false
+        },
+        {
+            "id":"conjuring:stabilized_conjuring_focus",
+            "required": false
+        },
+        {
+            "id":"conjuring:superior_conjuring_scepter",
+            "required": false
+        },
+        {
+            "id":"explorerscompass:explorerscompass",
+            "required": false
+        },
+        {
+            "id":"gearifiers:reroll_altar",
+            "required": false
+        },
+        {
+            "id":"kubejs:rainbow_quartz",
+            "required": false
+        },
+        {
+            "id":"mermod:sea_crystal",
+            "required": false
+        },
+        {
+            "id":"mythicmounts:summoning_staff",
+            "required": false
+        },
+        {
+            "id":"naturescompass:naturescompass",
+            "required": false
+        },
+        {
+            "id":"spectrum:constructors_staff",
+            "required": false
+        },
+        {
+            "id":"spectrum:exchanging_staff",
+            "required": false
+        },
+        {
+            "id":"spectrum:natures_staff",
+            "required": false
+        },
+        {
+            "id":"spectrum:radiance_staff",
+            "required": false
+        },
+        {
+            "id":"spectrum:shooting_star_colorful",
+            "required": false
+        },
+        {
+            "id":"spectrum:shooting_star_fiery",
+            "required": false
+        },
+        {
+            "id":"spectrum:shooting_star_gemstone",
+            "required": false
+        },
+        {
+            "id":"spectrum:shooting_star_glistering",
+            "required": false
+        },
+        {
+            "id":"spectrum:shooting_star_pristine",
+            "required": false
+        },
+        {
+            "id":"enchantwithmob:mob_enchant_book",
+            "required": false
+        },
+        {
+            "id":"enchantwithmob:mob_unenchant_book",
+            "required": false
+        }
+    ]
+}

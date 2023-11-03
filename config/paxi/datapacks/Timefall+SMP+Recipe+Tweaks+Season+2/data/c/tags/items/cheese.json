@@ -1,0 +1,41 @@
+{
+    "replace":false,
+    "values": [
+        {
+            "id":"brewinandchewin:flaxen_cheese_wedge",
+            "required":false
+        },
+        {
+            "id":"brewinandchewin:flaxen_cheese_wheel",
+            "required":false
+        },
+        {
+            "id":"brewinandchewin:scarlet_cheese_wedge",
+            "required":false
+        },
+        {
+            "id":"brewinandchewin:scarlet_cheese_wheel",
+            "required":false
+        },
+        {
+            "id":"brewinandchewin:unripe_flaxen_cheese_wheel",
+            "required":false
+        },
+        {
+            "id":"brewinandchewin:unripe_scarlet_cheese_wheel",
+            "required":false
+        },
+        {
+            "id":"expandeddelight:cheese_slice",
+            "required":false
+        },
+        {
+            "id":"expandeddelight:cheese_wheel",
+            "required":false
+        },
+        {
+            "id":"with_thursday:cheese",
+            "required":false
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"mcdw:gauntlet_gauntlet",
+            "required": false
+        },
+        {
+            "id":"mcdw:gauntlet_maulers",
+            "required": false
+        },
+        {
+            "id":"mcdw:gauntlet_soul_fists",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:netherite_gauntlet",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:potioneer_gauntlet",
+            "required": false
+        },
+        {
+            "id":"davespotioneering:rudimentary_gauntlet",
+            "required": false
+        }
+    ]
+}

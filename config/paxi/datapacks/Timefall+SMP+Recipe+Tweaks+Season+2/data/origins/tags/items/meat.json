@@ -1,0 +1,436 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:rotten_flesh",
+    "minecraft:cod",
+    "minecraft:tropical_fish",
+    "minecraft:pufferfish",
+    "minecraft:salmon",
+    "minecraft:beef",
+    "minecraft:porkchop",
+    "minecraft:mutton",
+    "minecraft:chicken",
+    "minecraft:rabbit",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_rabbit",
+    "minecraft:rabbit_stew",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_salmon",
+    "minecraft:spider_eye",
+    {
+      "id":"crittersandcompanions:koi_fish",
+      "required":false
+    },
+    {
+      "id":"culturaldelights:raw_calamari",
+      "required":false
+    },
+    {
+      "id":"farmersdelight:cod_slice",
+      "required":false
+    },
+    {
+      "id":"farmersdelight:salmon_slice",
+      "required":false
+    },
+    {
+      "id":"fishofthieves:ancientscale",
+      "required":false
+    },
+    {
+      "id":"fishofthieves:battlegill",
+      "required":false
+    },
+    {
+      "id":"fishofthieves:devilfish",
+      "required":false
+    },
+    {
+      "id":"fishofthieves:islehopper",
+      "required":false
+    },
+    {
+      "id":"fishofthieves:plentifin",
+      "required":false
+    },
+    {
+      "id":"fishofthieves:pondie",
+      "required":false
+    },
+    {
+      "id":"fishofthieves:splashtail",
+      "required":false
+    },
+    {
+      "id":"fishofthieves:stormfish",
+      "required":false
+    },
+    {
+      "id":"fishofthieves:wildsplash",
+      "required":false
+    },
+    {
+      "id":"fishofthieves:wrecker",
+      "required":false
+    },
+    {
+      "id":"naturalist:bass",
+      "required":false
+    },
+    {
+      "id":"naturalist:catfish",
+      "required":false
+    },
+    {
+      "id":"oceansdelight:cut_tentacles",
+      "required":false
+    },
+    {
+      "id":"oceansdelight:elder_guardian_slab",
+      "required":false
+    },
+    {
+      "id":"oceansdelight:elder_guardian_slice",
+      "required":false
+    },
+    {
+      "id":"oceansdelight:fugu_slice",
+      "required":false
+    },
+    {
+      "id":"oceansdelight:guardian",
+      "required":false
+    },
+    {
+      "id":"oceansdelight:guardian_tail",
+      "required":false
+    },
+    {
+      "id":"oceansdelight:squid_rings",
+      "required":false
+    },
+    {
+      "id":"oceansdelight:tentacle_on_a_stick",
+      "required":false
+    },
+    {
+      "id":"oceansdelight:tentacles",
+      "required":false
+    },
+    {
+      "id":"ecologics:crab_meat",
+      "required":false
+    },
+    {
+      "id":"betterend:end_fish_raw",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:raw_calamari",
+      "required": false
+    },
+    {
+      "id": "naturalist:catfish",
+      "required": false
+    },
+    {
+      "id": "naturalist:bass",
+      "required": false
+    },
+    {
+      "id": "wildlife:raw_anglerfish",
+      "required": false
+    },
+    {
+      "id": "wildlife:raw_catfish",
+      "required": false
+    },
+    {
+      "id": "wildlife:raw_bettafish",
+      "required": false
+    },
+    {
+      "id": "wildlife:raw_goldfish",
+      "required": false
+    },
+    {
+      "id":"farmersdelight:chicken_cuts",
+      "required":false
+    },
+    {
+      "id":"farmersdelight:beef_patty",
+      "required":false
+    },
+    {
+      "id":"farmersdelight:bacon",
+      "required":false
+    },
+    {
+      "id":"farmersdelight:ham",
+      "required":false
+    },
+    {
+      "id":"farmersdelight:minced_beef",
+      "required":false
+    },
+    {
+      "id":"farmersdelight:mutton_chops",
+      "required":false
+    },
+    {
+      "id":"froglegs:frog_leg",
+      "required":false
+    },
+    {
+      "id":"goodall:raw_venison",
+      "required":false
+    },
+    {
+      "id":"kubejs:raw_sausage",
+      "required":false
+    },
+    {
+      "id":"naturalist:duck",
+      "required":false
+    },
+    {
+      "id":"naturalist:lizard_tail",
+      "required":false
+    },
+    {
+      "id":"naturalist:venison",
+      "required":false
+    },
+    {
+      "id":"nethersdelight:ground_strider",
+      "required":false
+    },
+    {
+      "id":"nethersdelight:hoglin_loin",
+      "required":false
+    },
+    {
+      "id":"nethersdelight:raw_stuffed_hoglin",
+      "required":false
+    },
+    {
+      "id":"nethersdelight:strider_slice",
+      "required":false
+    },
+    {
+      "id":"nethersdelight:warped_moldy_meat",
+      "required":false
+    },
+    {
+      "id":"rottencreatures:frozen_rotten_flesh",
+      "required":false
+    },
+    {
+      "id":"rottencreatures:magma_rotten_flesh",
+      "required":false
+    },
+    {
+      "id": "eanimalmod:raw_equine_meat",
+      "required":false
+    },
+    {
+      "id": "eanimalmod:raw_camel_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_bear_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_strider_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_cat_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_sniffer_meat",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:parrot",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:axolotl_tail",
+      "required": false
+    },
+    {
+      "id": "eanimalmod:raw_wolf_meat",
+      "required": false
+    },
+    {
+      "id": "candlelight:cooked_beef",
+      "required": false
+    },
+    {
+      "id": "candlelight:pork_ribs",
+      "required": false
+    },
+    {
+      "id": "candlelight:chicken",
+      "required": false
+    },
+    {
+      "id": "croptopia:anchovy",
+      "required": false
+    },
+    {
+      "id": "croptopia:calamari",
+      "required": false
+    },
+    {
+      "id": "croptopia:clam",
+      "required": false
+    },
+    {
+      "id": "croptopia:crab",
+      "required": false
+    },
+    {
+      "id": "croptopia:glowing_calamari",
+      "required": false
+    },
+    {
+      "id": "croptopia:oyster",
+      "required": false
+    },
+    {
+      "id": "croptopia:roe",
+      "required": false
+    },
+    {
+      "id": "croptopia:shrimp",
+      "required": false
+    },
+    {
+      "id": "croptopia:tuna",
+      "required": false
+    },
+    {
+      "id": "croptopia:cooked_tuna",
+      "required": false
+    },
+    {
+      "id": "croptopia:cooked_shrimp",
+      "required": false
+    },
+    {
+      "id": "croptopia:cooked_calamari",
+      "required": false
+    },
+    {
+      "id": "croptopia:ham_sandwich",
+      "required": false
+    },
+    {
+      "id": "croptopia:steamed_crab",
+      "required": false
+    },
+    {
+      "id": "croptopia:deep_fried_shrimp",
+      "required": false
+    },
+    {
+      "id": "croptopia:fried_calamari",
+      "required": false
+    },
+    {
+      "id": "croptopia:crab_legs",
+      "required": false
+    },
+    {
+      "id": "croptopia:steamed_clams",
+      "required": false
+    },
+    {
+      "id": "croptopia:grilled_oysters",
+      "required": false
+    },
+    {
+      "id": "croptopia:anchovy_pizza",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:mutton_wrap",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:mutton_wrap",
+      "required": false
+    },
+    {
+      "id": "ends_delight:shulker_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:shulker_meat_slice",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_shulker_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_shulker_meat_slice",
+      "required": false
+    },
+    {
+      "id": "ends_delight:raw_dragon_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:raw_dragon_meat_cuts",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_meat_cuts",
+      "required": false
+    },
+    {
+      "id": "ends_delight:raw_ender_mite_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:shulker_meat",
+      "required": false
+    },
+    {
+      "id":"#c:fishes",
+      "required": false
+    },
+    {
+      "id":"#c:fish",
+      "required": false
+    },
+    {
+      "id":"#c:raw_fishes",
+      "required": false
+    },
+    {
+      "id":"#c:cooked_meat",
+      "required": false
+    },
+    {
+      "id":"#c:raw_meat",
+      "required": false
+    },
+    {
+      "id":"#c:eggs",
+      "required": false
+    }
+  ]
+}

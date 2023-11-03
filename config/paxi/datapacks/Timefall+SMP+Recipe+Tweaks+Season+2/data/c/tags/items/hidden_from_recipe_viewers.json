@@ -1,0 +1,697 @@
+{
+    "replace": false,
+    "values":[
+		{
+			"id": "amethyst_imbuement:debug_scepter",
+			"required": false
+		},
+		{
+			"id": "simplyskills:gracious_manuscript",
+			"required": false
+		},
+		{
+			"id": "wands:creative_wand",
+			"required": false
+		},
+		{
+			"id": "fwaystones:waystone_debugger",
+			"required": false
+		},
+		{
+			"id": "fwaystones:scroll_of_infinite_knowledge",
+			"required": false
+		},
+		{
+            "id": "#simplyswords:diamond_gear",
+            "required": false
+        },
+		{
+            "id": "#simplyswords:gold_gear",
+            "required": false
+        },
+		{
+            "id": "#simplyswords:iron_gear",
+            "required": false
+        },
+		{
+            "id": "#simplyswords:netherite_gear",
+            "required": false
+        },
+		{
+            "id": "#simplyswords:runic_gear",
+            "required": false
+        },
+		{
+            "id": "#mythicmetals:carmot_tools",
+            "required": false
+        },
+		{
+            "id": "#mythicmetals:prometheum_tools",
+            "required": false
+        },
+		{
+            "id": "#mythicmetals:tools",
+            "required": false
+        },
+		{
+			"id": "farmersknives:metallurgium_knife",
+			"required": false
+		},
+		{
+			"id": "farmersknives:durasteel_knife",
+			"required": false
+		},
+		{
+			"id": "farmersknives:quadrillum_knife",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:metallurgium_ingot",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:metallurgium_nugget",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:metallurgium_helmet",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:metallurgium_chestplate",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:metallurgium_leggings",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:metallurgium_boots",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:metallurgium_block",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:metallurgium_anvil",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:durasteel_ingot",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:durasteel_nugget",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:durasteel_helmet",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:durasteel_chestplate",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:durasteel_leggings",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:durasteel_boots",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:durasteel_block",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:durasteel_anvil",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:durasteel_engine",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:raw_quadrillum",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:raw_quadrillum_block",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:quadrillum_ingot",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:quadrillum_ore",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:quadrillum_nugget",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:quadrillum_helmet",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:quadrillum_chestplate",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:quadrillum_leggings",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:quadrillum_boots",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:quadrillum_block",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:quadrillum_anvil",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:quadrillum_nuke_core",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:quadrillum_engine",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:mythril_drill_smithing_template",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:mythril_drill",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:raw_manganese",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:raw_manganese_block",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:manganese_ingot",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:manganese_ore",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:manganese_nugget",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:manganese_block",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:manganese_anvil",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:metallurgium_chain",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:metallurgium_chest",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:metallurgium_crown",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:durasteel_chain",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:durasteel_chest",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:durasteel_crown",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:quadrillum_chain",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:quadrillum_chest",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:quadrillum_crown",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:manganese_chain",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:manganese_chest",
+			"required": false
+		},
+		{
+			"id": "mythicmetals_decorations:manganese_crown",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:coinmint",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:portable_atm",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:terminal",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:gem_terminal",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:portable_terminal",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:portable_gem_terminal",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:item_trader_interface",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:item_trader_server_sml",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:item_trader_server_med",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:item_trader_server_lrg",
+			"required": false
+		},
+		{
+			"id": "lightmanscurrency:item_trader_server_xlrg",
+			"required": false
+		},
+		{
+			"id": "soulsweapons:whirligig_sawblade",
+			"required": false
+		},
+		{
+			"id": "soulsweapons:leviathan_axe",
+			"required": false
+		},
+		{
+			"id": "soulsweapons:mjolnir",
+			"required": false
+		},
+		{
+			"id": "soulsweapons:frostmourne",
+			"required": false
+		},
+		{
+			"id": "soulsweapons:master_sword",
+			"required": false
+		},
+		{
+			"id": "soulsweapons:hunter_pistol",
+			"required": false
+		},
+		{
+			"id": "soulsweapons:blunderbuss",
+			"required": false
+		},
+		{
+			"id": "soulsweapons:gatling_gun",
+			"required": false
+		},
+		{
+			"id": "soulsweapons:hunter_cannon",
+			"required": false
+		},
+		{
+			"id": "libraryferret:iron_coins_jtl",
+			"required": false
+		},
+		{
+			"id": "libraryferret:emerald_coins_jtl",
+			"required": false
+		},
+		{
+			"id": "libraryferret:gold_coins_jtl",
+			"required": false
+		},
+		{
+			"id": "libraryferret:diamond_coins_jtl",
+			"required": false
+		},
+		{
+			"id": "libraryferret:netherite_coins_jtl",
+			"required": false
+		},
+		{
+			"id": "libraryferret:fake_iron_block",
+			"required": false
+		},
+		{
+			"id": "libraryferret:fake_gold_block",
+			"required": false
+		},
+		{
+			"id": "libraryferret:fake_emerald_block",
+			"required": false
+		},
+		{
+			"id": "libraryferret:fake_diamond_block",
+			"required": false
+		},
+		{
+			"id": "libraryferret:fake_netherite_block",
+			"required": false
+		},
+		{
+			"id": "libraryferret:unbreakable_iron_beacon",
+			"required": false
+		},
+		{
+			"id": "libraryferret:unbreakable_gold_beacon",
+			"required": false
+		},
+		{
+			"id": "libraryferret:unbreakable_emerald_beacon",
+			"required": false
+		},
+		{
+			"id": "libraryferret:unbreakable_diamond_beacon",
+			"required": false
+		},
+		{
+			"id": "libraryferret:unbreakable_netherite_beacon",
+			"required": false
+		},
+		{
+			"id": "porting_lib:area_selector",
+			"required": false
+		},
+		{
+			"id": "moonlight:placeable_item",
+			"required": false
+		},
+		{
+			"id": "lavender:dynamic_book",
+			"required": false
+		},
+		{
+			"id": "croptopia:frog_legs",
+			"required": false
+		},
+		{
+			"id": "croptopia:fried_frog_legs",
+			"required": false
+		},
+		{
+			"id": "eanimalmod:frog_leg",
+			"required": false
+		},
+		{
+			"id": "eanimalmod:fried_frog_leg",
+			"required": false
+		},
+		{
+			"id": "eanimalmod:squid_tentacle",
+			"required": false
+		},
+		{
+			"id": "eanimalmod:fried_squid_tentacle",
+			"required": false
+		},
+		{
+			"id": "valkyrienskies:ship_assembler",
+			"required": false
+		},
+		{
+			"id": "items_displayed:angler_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:archer_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:arms_up_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:blade_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:brewer_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:burn_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:danger_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:explorer_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:friend_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:heart_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:heartbreak_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:howl_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:miner_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:mourner_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:plenty_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:prize_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:sheaf_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:shelter_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:skull_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:snort_pottery_sherd",
+			"required": false
+		},
+		{
+			"id": "items_displayed:netherite_upgrade",
+			"required": false
+		},
+		{
+			"id": "items_displayed:coast_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:dune_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:eye_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:host_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:raiser_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:rib_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:sentry_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:shaper_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:silence_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:snout_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:spire_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:tide_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:vex_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:ward_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:wayfinder_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:wild_armor_trim",
+			"required": false
+		},
+		{
+			"id": "items_displayed:iron_ingot",
+			"required": false
+		},
+		{
+			"id": "items_displayed:copper_ingot",
+			"required": false
+		},
+		{
+			"id": "items_displayed:gold_ingot",
+			"required": false
+		},
+		{
+			"id": "items_displayed:netherite_ingot",
+			"required": false
+		},
+		{
+			"id": "clutter:copper_coin_stack",
+			"required": false
+		},
+		{
+			"id": "clutter:silver_coin_stack",
+			"required": false
+		},
+		{
+			"id": "clutter:golden_coin_stack",
+			"required": false
+		},
+		{
+			"id": "clutter:copper_coin",
+			"required": false
+		},
+		{
+			"id": "clutter:silver_coin",
+			"required": false
+		},
+		{
+			"id": "clutter:golden_coin",
+			"required": false
+		},
+		{
+			"id": "clutter:common_coin_pouch",
+			"required": false
+		},
+		{
+			"id": "clutter:uncommon_coin_pouch",
+			"required": false
+		},
+		{
+			"id": "clutter:rare_coin_pouch",
+			"required": false
+		},
+		{
+			"id": "clutter:epic_coin_pouch",
+			"required": false
+		},
+		{
+			"id": "adorn:traders_manual",
+			"required": false
+		},
+		{
+			"id": "adorn:trading_station",
+			"required": false
+		},
+		{
+			"id":"paraglider:heart_container",
+			"required": false
+		},
+		{
+			"id":"paraglider:anti_vessel",
+			"required": false
+		},
+		{
+			"id":"paraglider:essence",
+			"required": false
+		},
+		{
+			"id":"paraglider:goddess_statue",
+			"required": false
+		},
+		{
+			"id":"paraglider:kakariko_goddess_statue",
+			"required": false
+		},
+		{
+			"id":"paraglider:goron_goddess_statue",
+			"required": false
+		},
+		{
+			"id":"paraglider:rito_goddess_statue",
+			"required": false
+		},
+		{
+			"id":"paraglider:horned_statue",
+			"required": false
+		}
+    ]
+}

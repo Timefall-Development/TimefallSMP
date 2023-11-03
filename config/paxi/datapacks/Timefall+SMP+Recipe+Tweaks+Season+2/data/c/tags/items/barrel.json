@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id": "#c:wooden_barrels",
+            "required": false
+        }
+    ]
+}

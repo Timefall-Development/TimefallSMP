@@ -1,0 +1,77 @@
+{
+    "replace":false,
+    "values":[
+        {
+            "id":"mcwfurnitures:acacia_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_cupboard_counter",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_cupboard_counter",
+            "required": false
+        }
+    ]
+}

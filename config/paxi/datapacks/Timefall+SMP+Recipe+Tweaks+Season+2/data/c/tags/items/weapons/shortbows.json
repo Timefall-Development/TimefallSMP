@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"mcdw:bow_love_spell_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_mechanical_shortbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_purple_storm",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_shortbow",
+            "required": false
+        }
+    ]
+}

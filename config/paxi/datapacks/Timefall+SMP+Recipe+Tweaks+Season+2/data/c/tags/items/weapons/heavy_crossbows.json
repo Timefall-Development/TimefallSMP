@@ -1,0 +1,37 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"mcdw:crossbow_lightning_harp_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_nautical_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_pride_of_the_piglins",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_shadow_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_voidcaller_crossbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:crossbow_corrupted_crossbow",
+            "required": false
+        },
+        {
+            "id":"spectrum:bedrock_crossbow",
+            "required": false
+        },
+        {
+            "id":"amethyst_imbuement:sniper_bow",
+            "required": false
+        }
+    ]
+}

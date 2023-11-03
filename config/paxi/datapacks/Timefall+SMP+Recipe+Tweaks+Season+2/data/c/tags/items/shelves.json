@@ -1,0 +1,485 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"everycomp:af/betterend/dragon_tree_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/end_lotus_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/helix_tree_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/jellyshroom_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/lacugrove_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/lucernia_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/mossy_glowshroom_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/pythadendron_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/tenanea_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/umbrella_tree_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/anchor_tree_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/mushroom_fir_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_mushroom_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_reed_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_sakura_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/rubeus_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/stalagnate_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/wart_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/willow_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/aspen_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/baobab_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/blue_enchanted_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/bulbis_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cherry_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cika_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cypress_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/ebony_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/ether_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/fir_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/green_enchanted_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/holly_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/imparius_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/jacaranda_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/lament_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/mahogany_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/maple_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/nightshade_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/palm_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/pine_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/rainbow_eucalyptus_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/redwood_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/skyris_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/sythian_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/white_mangrove_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/willow_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/witch_hazel_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/zelkova_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/azalea_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/coconut_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/flowering_azalea_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/walnut_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/black_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/blue_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/brown_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/cyan_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/gray_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/green_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/light_blue_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/light_gray_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/lime_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/magenta_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/orange_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/pink_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/purple_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/red_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/white_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/yellow_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/traverse/fir_shelf",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/vinery/cherry_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:acacia_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:birch_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/aspen_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/baobab_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/blue_enchanted_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/bulbis_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cherry_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cika_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cypress_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/ebony_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/embur_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/ether_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/fir_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/green_enchanted_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/holly_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/imparius_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/jacaranda_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/lament_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/mahogany_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/maple_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/nightshade_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/palm_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/pine_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/rainbow_eucalyptus_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/redwood_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/skyris_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/sythian_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/white_mangrove_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/willow_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/witch_hazel_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/zelkova_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:crimson_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:dark_oak_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:iron_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:jungle_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:mangrove_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:oak_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:spruce_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:traverse/fir_shelf",
+            "required": false
+        },
+        {
+            "id":"adorn:warped_shelf",
+            "required": false
+        },
+        {
+            "id":"another_furniture:acacia_shelf",
+            "required": false
+        },
+        {
+            "id":"another_furniture:birch_shelf",
+            "required": false
+        },
+        {
+            "id":"another_furniture:crimson_shelf",
+            "required": false
+        },
+        {
+            "id":"another_furniture:dark_oak_shelf",
+            "required": false
+        },
+        {
+            "id":"another_furniture:jungle_shelf",
+            "required": false
+        },
+        {
+            "id":"another_furniture:mangrove_shelf",
+            "required": false
+        },
+        {
+            "id":"another_furniture:oak_shelf",
+            "required": false
+        },
+        {
+            "id":"another_furniture:spruce_shelf",
+            "required": false
+        },
+        {
+            "id":"another_furniture:warped_shelf",
+            "required": false
+        },
+        {
+            "id":"vinery:shelf",
+            "required": false
+        },
+        {
+            "id":"#c:item_shelves",
+            "required": false
+        }
+    ]
+}

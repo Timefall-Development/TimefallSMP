@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:shield",
+    {
+      "id":"amethyst_imbuement:imbued_wand",
+      "required": false
+    },
+    {
+      "id":"endermanoverhaul:corrupted_shield",
+      "required": false
+    },
+    {
+      "id":"mcdw:shield_royal_guard",
+      "required": false
+    },
+    {
+      "id":"mcdw:shield_tower_guard",
+      "required": false
+    },
+    {
+      "id":"mcdw:shield_vanguard",
+      "required": false
+    },
+    {
+      "id":"mythicmetals:stormyx_shield",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"simplyswords:soulkeeper",
+            "required": false
+        },
+        {
+            "id":"simplyswords:hearthflame",
+            "required": false
+        },
+        {
+            "id":"simplyswords:diamond_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:gold_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:iron_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/adamantite/adamantite_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/aquarium/aquarium_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/banglum/banglum_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/bronze/bronze_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/carmot/carmot_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/celestium/celestium_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/durasteel/durasteel_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/kyber/kyber_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/metallurgium/metallurgium_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/mythril/mythril_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/orichalcum/orichalcum_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/osmium/osmium_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/palladium/palladium_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/prometheum/prometheum_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/quadrillum/quadrillum_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/runite/runite_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/star_platinum/star_platinum_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/steel/steel_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:mythicmetals_compat/stormyx/stormyx_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:netherite_greathammer",
+            "required": false
+        },
+        {
+            "id":"simplyswords:runic_greathammer",
+            "required": false
+        }
+    ]
+}

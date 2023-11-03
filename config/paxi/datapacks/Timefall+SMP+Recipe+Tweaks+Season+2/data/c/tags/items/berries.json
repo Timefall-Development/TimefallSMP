@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"betterend:shadow_berry_cooked",
+            "required":false
+        },
+        {
+            "id":"betterend:shadow_berry_raw",
+            "required":false
+        },
+        {
+            "id":"sweetberryfoods:blueberries",
+            "required":false
+        }
+    ]
+}

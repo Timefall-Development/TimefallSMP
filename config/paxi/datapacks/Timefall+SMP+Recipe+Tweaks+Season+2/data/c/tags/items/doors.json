@@ -1,0 +1,6709 @@
+{
+    "replace":false,
+    "values":[
+        {
+            "id":"betterend:dragon_tree_door",
+            "required": false
+        },
+        {
+            "id":"betterend:end_lotus_door",
+            "required": false
+        },
+        {
+            "id":"betterend:helix_tree_door",
+            "required": false
+        },
+        {
+            "id":"betterend:jellyshroom_door",
+            "required": false
+        },
+        {
+            "id":"betterend:lacugrove_door",
+            "required": false
+        },
+        {
+            "id":"betterend:lucernia_door",
+            "required": false
+        },
+        {
+            "id":"betterend:mossy_glowshroom_door",
+            "required": false
+        },
+        {
+            "id":"betterend:pythadendron_door",
+            "required": false
+        },
+        {
+            "id":"betterend:tenanea_door",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_door",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_door",
+            "required": false
+        },
+        {
+            "id":"betterend:umbrella_tree_door",
+            "required": false
+        },
+        {
+            "id":"betternether:anchor_tree_door",
+            "required": false
+        },
+        {
+            "id":"betternether:bone_cincinnasite_door",
+            "required": false
+        },
+        {
+            "id":"betternether:bone_reed_door",
+            "required": false
+        },
+        {
+            "id":"betternether:mushroom_fir_door",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_mushroom_door",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_reed_door",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_sakura_door",
+            "required": false
+        },
+        {
+            "id":"betternether:rubeus_door",
+            "required": false
+        },
+        {
+            "id":"betternether:stalagnate_door",
+            "required": false
+        },
+        {
+            "id":"betternether:wart_door",
+            "required": false
+        },
+        {
+            "id":"betternether:willow_door",
+            "required": false
+        },
+        {
+            "id":"byg:aspen_door",
+            "required": false
+        },
+        {
+            "id":"byg:baobab_door",
+            "required": false
+        },
+        {
+            "id":"byg:blue_enchanted_door",
+            "required": false
+        },
+        {
+            "id":"byg:bulbis_door",
+            "required": false
+        },
+        {
+            "id":"byg:cherry_door",
+            "required": false
+        },
+        {
+            "id":"byg:cika_door",
+            "required": false
+        },
+        {
+            "id":"byg:cypress_door",
+            "required": false
+        },
+        {
+            "id":"byg:ebony_door",
+            "required": false
+        },
+        {
+            "id":"byg:embur_door",
+            "required": false
+        },
+        {
+            "id":"byg:ether_door",
+            "required": false
+        },
+        {
+            "id":"byg:fir_door",
+            "required": false
+        },
+        {
+            "id":"byg:green_enchanted_door",
+            "required": false
+        },
+        {
+            "id":"byg:holly_door",
+            "required": false
+        },
+        {
+            "id":"byg:imparius_door",
+            "required": false
+        },
+        {
+            "id":"byg:jacaranda_door",
+            "required": false
+        },
+        {
+            "id":"byg:lament_door",
+            "required": false
+        },
+        {
+            "id":"byg:mahogany_door",
+            "required": false
+        },
+        {
+            "id":"byg:maple_door",
+            "required": false
+        },
+        {
+            "id":"byg:nightshade_door",
+            "required": false
+        },
+        {
+            "id":"byg:palm_door",
+            "required": false
+        },
+        {
+            "id":"byg:pine_door",
+            "required": false
+        },
+        {
+            "id":"byg:rainbow_eucalyptus_door",
+            "required": false
+        },
+        {
+            "id":"byg:redwood_door",
+            "required": false
+        },
+        {
+            "id":"byg:skyris_door",
+            "required": false
+        },
+        {
+            "id":"byg:sythian_door",
+            "required": false
+        },
+        {
+            "id":"byg:white_mangrove_door",
+            "required": false
+        },
+        {
+            "id":"byg:willow_door",
+            "required": false
+        },
+        {
+            "id":"byg:witch_hazel_door",
+            "required": false
+        },
+        {
+            "id":"byg:zelkova_door",
+            "required": false
+        },
+        {
+            "id":"ecologics:azalea_door",
+            "required": false
+        },
+        {
+            "id":"ecologics:coconut_door",
+            "required": false
+        },
+        {
+            "id":"ecologics:flowering_azalea_door",
+            "required": false
+        },
+        {
+            "id":"ecologics:walnut_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/dragon_tree_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/end_lotus_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/helix_tree_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/jellyshroom_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lacugrove_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/lucernia_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/mossy_glowshroom_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/pythadendron_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/tenanea_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betterend/umbrella_tree_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/anchor_tree_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/mushroom_fir_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_mushroom_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_reed_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/nether_sakura_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/rubeus_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/stalagnate_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/wart_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/betternether/willow_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/aspen_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/baobab_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/blue_enchanted_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/bulbis_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cherry_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cika_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/cypress_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ebony_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/ether_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/fir_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/green_enchanted_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/holly_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/imparius_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/jacaranda_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/lament_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/mahogany_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/maple_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/nightshade_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/palm_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/pine_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/rainbow_eucalyptus_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/redwood_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/skyris_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/sythian_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/white_mangrove_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/willow_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/witch_hazel_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/byg/zelkova_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/azalea_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/coconut_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/flowering_azalea_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/ecologics/walnut_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/black_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/blue_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/brown_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/cyan_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/gray_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/green_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_blue_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/light_gray_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/lime_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/magenta_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/orange_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/pink_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/purple_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/red_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/white_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/spectrum/yellow_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/traverse/fir_western_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_barn_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_beach_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_classic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_cottage_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_glass_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_japanese_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_modern_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_mystic_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_nether_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_paper_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_stable_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_swamp_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_tropical_door",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcd/vinery/cherry_western_door",
+            "required": false
+        },
+        {
+            "id":"graveyard:dark_iron_door",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:exposed_iron_door",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:rusted_iron_door",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:waxed_exposed_iron_door",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:waxed_iron_door",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:waxed_rusted_iron_door",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:waxed_weathered_iron_door",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:weathered_iron_door",
+            "required": false
+        },
+        {
+            "id":"lightmanscurrency:freezer_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_barn_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_beach_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_classic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_cottage_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_japanese_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_modern_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_mystic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_nether_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_paper_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_stable_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_swamp_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:acacia_western_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_barn_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_beach_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_classic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_cottage_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_japanese_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_modern_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_mystic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_nether_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_paper_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_stable_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_swamp_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_tropical_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:bamboo_western_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_barn_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_beach_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_classic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_cottage_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_japanese_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_modern_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_mystic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_nether_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_stable_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_swamp_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_tropical_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:birch_western_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_barn_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_beach_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_classic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_cottage_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_japanese_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_modern_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_mystic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_paper_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_stable_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_stem_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_swamp_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_tropical_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:crimson_western_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_barn_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_beach_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_classic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_cottage_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_japanese_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_modern_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_mystic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_nether_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_paper_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_stable_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_swamp_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_tropical_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:dark_oak_western_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:garage_black_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:garage_gray_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:garage_silver_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:garage_white_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:iron_portcullis",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jail_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_barn_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_classic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_cottage_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_japanese_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_modern_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_mystic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_nether_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_paper_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_stable_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_swamp_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_tropical_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:jungle_western_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_barn_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_beach_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_classic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_cottage_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_japanese_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_modern_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_mystic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_nether_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_paper_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_stable_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_tropical_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:mangrove_western_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:metal_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:metal_hospital_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:metal_reinforced_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:metal_warning_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:metal_windowed_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_barn_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_beach_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_cottage_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_japanese_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_modern_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_mystic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_nether_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_paper_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_stable_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_swamp_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_tropical_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:oak_western_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:print_acacia",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:print_bamboo",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:print_birch",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:print_dark_oak",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:print_jungle",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:print_mystic",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:print_nether",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:print_oak",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:print_spruce",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:print_swamp",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:sliding_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_bark_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_barn_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_beach_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_classic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_japanese_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_modern_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_mystic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_nether_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_paper_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_stable_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_swamp_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_tropical_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:spruce_western_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:store_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_bamboo_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_barn_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_barn_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_beach_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_classic_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_cottage_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_four_panel_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_japanese_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_japanese2_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_modern_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_nether_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_paper_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_stable_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_stable_head_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_stem_glass_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_swamp_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_tropical_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:warped_western_door",
+            "required": false
+        },
+        {
+            "id":"mcwdoors:wooden_portcullis",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:cabinet_door",
+            "required": false
+        },
+        {
+            "id":"minecraft:acacia_door",
+            "required": false
+        },
+        {
+            "id":"minecraft:birch_door",
+            "required": false
+        },
+        {
+            "id":"minecraft:crimson_door",
+            "required": false
+        },
+        {
+            "id":"minecraft:dark_oak_door",
+            "required": false
+        },
+        {
+            "id":"minecraft:iron_door",
+            "required": false
+        },
+        {
+            "id":"minecraft:jungle_door",
+            "required": false
+        },
+        {
+            "id":"minecraft:mangrove_door",
+            "required": false
+        },
+        {
+            "id":"minecraft:oak_door",
+            "required": false
+        },
+        {
+            "id":"minecraft:spruce_door",
+            "required": false
+        },
+        {
+            "id":"minecraft:warped_door",
+            "required": false
+        },
+        {
+            "id":"supplementaries:gold_door",
+            "required": false
+        },
+        {
+            "id":"supplementaries:lead_door",
+            "required": false
+        },
+        {
+            "id":"supplementaries:netherite_door",
+            "required": false
+        },
+        {
+            "id":"supplementaries:silver_door",
+            "required": false
+        },
+        {
+            "id":"traverse:fir_door",
+            "required": false
+        },
+        {
+            "id":"vinery:cherry_door",
+            "required": false
+        }
+    ]
+}

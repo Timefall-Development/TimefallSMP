@@ -1,0 +1,529 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"slabsandstairs:acacia_wood_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:andesite_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:basalt_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:birch_wood_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:blackstone_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:calcite_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:copper_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:crimson_hyphae_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:dark_oak_wood_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:deepslate_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:diorite_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:dripstone_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:exposed_copper_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:granite_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:jungle_wood_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:mangrove_wood_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:oak_wood_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:oxidized_copper_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:red_sandstone_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:sandstone_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:spruce_wood_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_acacia_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_birch_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_crimson_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_dark_oak_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_jungle_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_mangrove_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_oak_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_spruce_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_warped_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:tuff_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:warped_hyphae_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:weathered_copper_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"mcda:iron_plate",
+            "required": false
+        },
+        {
+            "id":"traverse:fir_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:aspen_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:baobab_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:blue_enchanted_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:bulbis_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:cherry_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:cika_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:cypress_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:ebony_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:embur_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:ether_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:fir_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:green_enchanted_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:holly_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:imparius_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:jacaranda_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:lament_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:mahogany_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:maple_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:nightshade_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:palm_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:pine_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:rainbow_eucalyptus_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:redwood_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:skyris_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:sythian_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:white_mangrove_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:willow_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:witch_hazel_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"byg:zelkova_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:aeternium_forged_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:azure_jadestone_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:dragon_tree_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:end_lotus_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:flavolite_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:helix_tree_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:jellyshroom_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:lacugrove_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:lucernia_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:mossy_glowshroom_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:pythadendron_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:sandy_jadestone_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:sulphuric_rock_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:tenanea_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_forged_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:terminite_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_forged_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:thallasium_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:umbralith_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:umbrella_tree_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:violecite_plate",
+            "required": false
+        },
+        {
+            "id":"betterend:virid_jadestone_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:anchor_tree_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:bone_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:cincinnasite_brick_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:cincinnasite_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:mushroom_fir_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_mushroom_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_reed_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_sakura_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:rubeus_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:stalagnate_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:wart_plate",
+            "required": false
+        },
+        {
+            "id":"betternether:willow_plate",
+            "required": false
+        },
+        {
+            "id":"ecologics:azalea_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"ecologics:coconut_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"ecologics:walnut_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:black_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:blue_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:brown_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:cyan_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:gray_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:green_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:light_blue_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:light_gray_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:lime_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:magenta_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:orange_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:pink_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:purple_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:red_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:white_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"spectrum:yellow_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:acacia_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:birch_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:crimson_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:dark_oak_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:heavy_weighted_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:jungle_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:light_weighted_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:mangrove_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:oak_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:polished_blackstone_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:spruce_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:stone_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"minecraft:warped_pressure_plate",
+            "required": false
+        },
+        {
+            "id":"vinery:cherry_pressure_plate",
+            "required": false
+        }
+    ]
+}

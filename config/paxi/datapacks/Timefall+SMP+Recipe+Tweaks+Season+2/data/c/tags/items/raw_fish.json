@@ -1,0 +1,141 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"crittersandcompanions:koi_fish",
+            "required":false
+        },
+        {
+            "id":"culturaldelights:raw_calamari",
+            "required":false
+        },
+        {
+            "id":"farmersdelight:cod_slice",
+            "required":false
+        },
+        {
+            "id":"farmersdelight:salmon_slice",
+            "required":false
+        },
+        {
+            "id":"fishofthieves:ancientscale",
+            "required":false
+        },
+        {
+            "id":"fishofthieves:battlegill",
+            "required":false
+        },
+        {
+            "id":"fishofthieves:devilfish",
+            "required":false
+        },
+        {
+            "id":"fishofthieves:islehopper",
+            "required":false
+        },
+        {
+            "id":"fishofthieves:plentifin",
+            "required":false
+        },
+        {
+            "id":"fishofthieves:pondie",
+            "required":false
+        },
+        {
+            "id":"fishofthieves:splashtail",
+            "required":false
+        },
+        {
+            "id":"fishofthieves:stormfish",
+            "required":false
+        },
+        {
+            "id":"fishofthieves:wildsplash",
+            "required":false
+        },
+        {
+            "id":"fishofthieves:wrecker",
+            "required":false
+        },
+        {
+            "id":"naturalist:bass",
+            "required":false
+        },
+        {
+            "id":"naturalist:catfish",
+            "required":false
+        },
+        {
+            "id":"oceansdelight:cut_tentacles",
+            "required":false
+        },
+        {
+            "id":"oceansdelight:elder_guardian_slab",
+            "required":false
+        },
+        {
+            "id":"oceansdelight:elder_guardian_slice",
+            "required":false
+        },
+        {
+            "id":"oceansdelight:fugu_slice",
+            "required":false
+        },
+        {
+            "id":"oceansdelight:guardian",
+            "required":false
+        },
+        {
+            "id":"oceansdelight:guardian_tail",
+            "required":false
+        },
+        {
+            "id":"oceansdelight:squid_rings",
+            "required":false
+        },
+        {
+            "id":"oceansdelight:tentacle_on_a_stick",
+            "required":false
+        },
+        {
+            "id":"oceansdelight:tentacles",
+            "required":false
+        },
+        {
+            "id":"ecologics:crab_meat",
+            "required":false
+        },
+        {
+            "id":"betterend:end_fish_raw",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:raw_calamari",
+            "required": false
+        },
+        {
+            "id": "naturalist:catfish",
+            "required": false
+        },
+        {
+            "id": "naturalist:bass",
+            "required": false
+        },
+        {
+            "id": "wildlife:raw_anglerfish",
+            "required": false
+        },
+        {
+            "id": "wildlife:raw_catfish",
+            "required": false
+        },
+        {
+            "id": "wildlife:raw_bettafish",
+            "required": false
+        },
+        {
+            "id": "wildlife:raw_goldfish",
+            "required": false
+        }
+    ]
+}

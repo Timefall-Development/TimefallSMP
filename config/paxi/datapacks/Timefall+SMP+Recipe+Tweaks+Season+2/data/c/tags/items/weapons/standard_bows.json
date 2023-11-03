@@ -1,0 +1,125 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"mcdw:bow_ancient_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_bonebow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_bubble_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_bubble_burster",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_burst_gale_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_call_of_the_void",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_echo_of_the_valley",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_elite_power_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_green_menace",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_haunted_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_hunters_promise",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_hunting_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_lost_souls",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_masters_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_nocturnal_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_phantom_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_pink_scoundrel",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_power_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_sabrewing",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_shivering_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_snow_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_soul_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_trickbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_twin_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_twisting_vine_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_void_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_web_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_weeping_vine_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_wind_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_winters_touch",
+            "required": false
+        }
+    ]
+}

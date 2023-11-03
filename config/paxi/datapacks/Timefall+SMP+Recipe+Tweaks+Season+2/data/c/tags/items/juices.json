@@ -1,0 +1,89 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"overweight_farming:melon_juice",
+            "required": false
+        },
+        {
+            "id":"byg:aloe_vera_juice",
+            "required": false
+        },
+        {
+            "id":"adorn:sweet_berry_juice",
+            "required": false
+        },
+        {
+            "id":"betterend:umbrella_cluster_juice",
+            "required": false
+        },
+        {
+            "id":"juice_wine_bottle",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:apple_juice",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:glow_berry_juice",
+            "required": false
+        },
+        {
+            "id":"expandeddelight:sweet_berry_juice",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:melon_juice",
+            "required": false
+        },
+        {
+            "id":"farmersrespite:strong_melon_juice",
+            "required": false
+        },
+        {
+            "id":"sweetberryfoods:blueberry_juice",
+            "required": false
+        },
+        {
+            "id":"sweetberryfoods:sweet_berry_juice",
+            "required": false
+        },
+        {
+            "id":"vinery:apple_juice",
+            "required": false
+        },
+        {
+            "id":"vinery:jungle_red_grapejuice_bottle",
+            "required": false
+        },
+        {
+            "id":"vinery:jungle_white_grapejuice_bottle",
+            "required": false
+        },
+        {
+            "id":"vinery:savanna_red_grapejuice_bottle",
+            "required": false
+        },
+        {
+            "id":"vinery:savanna_white_grapejuice_bottle",
+            "required": false
+        },
+        {
+            "id":"vinery:taiga_red_grapejuice_bottle",
+            "required": false
+        },
+        {
+            "id":"vinery:taiga_white_grapejuice_bottle",
+            "required": false
+        },
+        {
+            "id":"with_thursday:apple_juice",
+            "required": false
+        },
+        {
+            "id":"with_thursday:sparkling_apple_juice",
+            "required": false
+        }
+    ]
+}

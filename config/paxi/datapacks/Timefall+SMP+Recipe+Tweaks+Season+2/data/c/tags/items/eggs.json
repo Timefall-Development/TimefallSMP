@@ -1,0 +1,41 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id":"goodall:tortoise_egg",
+            "required": false
+        },
+        {
+            "id":"minecraft:dragon_egg",
+            "required": false
+        },
+        {
+            "id":"minecraft:egg",
+            "required": false
+        },
+        {
+            "id":"minecraft:turtle_egg",
+            "required": false
+        },
+        {
+            "id":"naturalist:duck_egg",
+            "required": false
+        },
+        {
+            "id":"naturalist:alligator_egg",
+            "required": false
+        },
+        {
+            "id":"naturalist:tortoise_egg",
+            "required": false
+        },
+        {
+            "id":"untitledduckmod:duck_egg",
+            "required": false
+        },
+        {
+            "id":"untitledduckmod:goose_egg",
+            "required": false
+        }
+    ]
+}

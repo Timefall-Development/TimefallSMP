@@ -1,0 +1,117 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"lootr:lootr_barrel",
+            "required": false
+        },
+        {
+            "id":"betterend:dragon_tree_barrel",
+            "required": false
+        },
+        {
+            "id":"betterend:end_lotus_barrel",
+            "required": false
+        },
+        {
+            "id":"betterend:helix_tree_barrel",
+            "required": false
+        },
+        {
+            "id":"betterend:jellyshroom_barrel",
+            "required": false
+        },
+        {
+            "id":"betterend:lacugrove_barrel",
+            "required": false
+        },
+        {
+            "id":"betterend:lucernia_barrel",
+            "required": false
+        },
+        {
+            "id":"betterend:mossy_glowshroom_barrel",
+            "required": false
+        },
+        {
+            "id":"betterend:pythadendron_barrel",
+            "required": false
+        },
+        {
+            "id":"betterend:tenanea_barrel",
+            "required": false
+        },
+        {
+            "id":"betterend:umbrella_tree_barrel",
+            "required": false
+        },
+        {
+            "id":"betternether:anchor_tree_barrel",
+            "required": false
+        },
+        {
+            "id":"betternether:crimson_barrel",
+            "required": false
+        },
+        {
+            "id":"betternether:mushroom_fir_barrel",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_mushroom_barrel",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_reed_barrel",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_sakura_barrel",
+            "required": false
+        },
+        {
+            "id":"betternether:rubeus_barrel",
+            "required": false
+        },
+        {
+            "id":"betternether:stalagnate_barrel",
+            "required": false
+        },
+        {
+            "id":"betternether:warped_barrel",
+            "required": false
+        },
+        {
+            "id":"betternether:wart_barrel",
+            "required": false
+        },
+        {
+            "id":"betternether:willow_barrel",
+            "required": false
+        },
+        {
+            "id":"spectrum:titration_barrel",
+            "required": false
+        },
+        {
+            "id":"minecraft:barrel",
+            "required": false
+        },
+        {
+            "id":"rottencreatures:tnt_barrel",
+            "required": false
+        },
+        {
+            "id":"vinery:fermentation_barrel",
+            "required": false
+        },
+        {
+            "id":"drinkbeer:beer_barrel",
+            "required": false
+        },
+        {
+            "id":"vinery:barrel",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"betterend:tube_worm",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:earthworms",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:grubs",
+            "required": false
+        },
+        {
+            "id":"fishofthieves:leeches",
+            "required": false
+        }
+    ]
+}

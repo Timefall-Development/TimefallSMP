@@ -1,0 +1,677 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"adorn:acacia_table",
+            "required": false
+        },
+        {
+            "id":"adorn:birch_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/aspen_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/baobab_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/blue_enchanted_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/bulbis_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cherry_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cika_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/cypress_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/ebony_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/embur_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/ether_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/fir_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/green_enchanted_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/holly_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/imparius_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/jacaranda_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/lament_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/mahogany_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/maple_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/nightshade_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/palm_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/pine_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/rainbow_eucalyptus_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/redwood_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/skyris_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/sythian_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/white_mangrove_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/willow_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/witch_hazel_table",
+            "required": false
+        },
+        {
+            "id":"adorn:byg/zelkova_table",
+            "required": false
+        },
+        {
+            "id":"adorn:crimson_table",
+            "required": false
+        },
+        {
+            "id":"adorn:dark_oak_table",
+            "required": false
+        },
+        {
+            "id":"adorn:jungle_table",
+            "required": false
+        },
+        {
+            "id":"adorn:mangrove_table",
+            "required": false
+        },
+        {
+            "id":"adorn:oak_table",
+            "required": false
+        },
+        {
+            "id":"adorn:spruce_table",
+            "required": false
+        },
+        {
+            "id":"adorn:traverse/fir_table",
+            "required": false
+        },
+        {
+            "id":"adorn:warped_table",
+            "required": false
+        },
+        {
+            "id":"amethyst_imbuement:disenchanting_table",
+            "required": false
+        },
+        {
+            "id":"amethyst_imbuement:imbuing_table",
+            "required": false
+        },
+        {
+            "id":"another_furniture:acacia_table",
+            "required": false
+        },
+        {
+            "id":"another_furniture:birch_table",
+            "required": false
+        },
+        {
+            "id":"another_furniture:crimson_table",
+            "required": false
+        },
+        {
+            "id":"another_furniture:dark_oak_table",
+            "required": false
+        },
+        {
+            "id":"another_furniture:jungle_table",
+            "required": false
+        },
+        {
+            "id":"another_furniture:mangrove_table",
+            "required": false
+        },
+        {
+            "id":"another_furniture:oak_table",
+            "required": false
+        },
+        {
+            "id":"another_furniture:spruce_table",
+            "required": false
+        },
+        {
+            "id":"another_furniture:warped_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/dragon_tree_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/end_lotus_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/helix_tree_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/jellyshroom_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/lacugrove_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/lucernia_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/mossy_glowshroom_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/pythadendron_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/tenanea_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betterend/umbrella_tree_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/anchor_tree_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/mushroom_fir_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_mushroom_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_reed_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/nether_sakura_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/rubeus_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/stalagnate_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/wart_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/betternether/willow_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/aspen_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/baobab_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/blue_enchanted_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/bulbis_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cherry_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cika_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/cypress_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/ebony_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/ether_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/fir_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/green_enchanted_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/holly_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/imparius_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/jacaranda_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/lament_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/mahogany_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/maple_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/nightshade_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/palm_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/pine_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/rainbow_eucalyptus_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/redwood_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/skyris_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/sythian_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/white_mangrove_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/willow_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/witch_hazel_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/byg/zelkova_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/azalea_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/coconut_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/flowering_azalea_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/ecologics/walnut_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/black_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/blue_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/brown_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/cyan_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/gray_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/green_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/light_blue_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/light_gray_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/lime_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/magenta_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/orange_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/pink_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/purple_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/red_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/white_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/spectrum/yellow_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/traverse/fir_table",
+            "required": false
+        },
+        {
+            "id":"everycomp:af/vinery/cherry_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:acacia_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:acacia_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:birch_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:crimson_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:dark_oak_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:jungle_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:mangrove_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:oak_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:spruce_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_acacia_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_birch_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_crimson_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_dark_oak_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_jungle_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_mangrove_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_oak_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_spruce_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:stripped_warped_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_end_table",
+            "required": false
+        },
+        {
+            "id":"mcwfurnitures:warped_table",
+            "required": false
+        },
+        {
+            "id":"vinery:big_table",
+            "required": false
+        },
+        {
+            "id":"vinery:table",
+            "required": false
+        },
+        {
+            "id":"betternether:oak_taburet",
+            "required": false
+        },
+        {
+            "id":"betternether:acacia_taburet",
+            "required": false
+        },
+        {
+            "id":"betternether:anchor_tree_taburet",
+            "required": false
+        },
+        {
+            "id":"betternether:birch_taburet",
+            "required": false
+        },
+        {
+            "id":"betternether:crimson_taburet",
+            "required": false
+        },
+        {
+            "id":"betternether:dark_oak_taburet",
+            "required": false
+        },
+        {
+            "id":"betternether:jungle_taburet",
+            "required": false
+        },
+        {
+            "id":"betternether:mushroom_fir_taburet",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_mushroom_taburet",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_reed_taburet",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_sakura_taburet",
+            "required": false
+        }
+    ]
+}

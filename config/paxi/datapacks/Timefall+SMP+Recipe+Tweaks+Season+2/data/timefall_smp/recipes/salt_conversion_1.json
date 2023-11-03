@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_unshaped",
+  "pattern": [
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "croptopia:salt"
+    }
+  },
+  "result": {
+    "item": "spelunkery:salt",
+    "amount": 1
+  }
+}

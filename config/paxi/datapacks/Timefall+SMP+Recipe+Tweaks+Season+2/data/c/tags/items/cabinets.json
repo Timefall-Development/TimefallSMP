@@ -1,0 +1,317 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"everycomp:fd/betterend/dragon_tree_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betterend/end_lotus_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betterend/helix_tree_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betterend/jellyshroom_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betterend/lacugrove_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betterend/lucernia_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betterend/mossy_glowshroom_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betterend/pythadendron_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betterend/tenanea_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betterend/umbrella_tree_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betternether/anchor_tree_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betternether/mushroom_fir_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betternether/nether_mushroom_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betternether/nether_reed_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betternether/nether_sakura_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betternether/rubeus_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betternether/stalagnate_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betternether/wart_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/betternether/willow_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/aspen_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/baobab_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/blue_enchanted_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/bulbis_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/cherry_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/cika_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/cypress_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/ebony_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/ether_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/fir_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/green_enchanted_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/holly_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/imparius_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/jacaranda_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/lament_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/mahogany_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/maple_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/nightshade_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/palm_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/pine_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/rainbow_eucalyptus_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/redwood_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/skyris_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/sythian_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/white_mangrove_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/willow_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/witch_hazel_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/byg/zelkova_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/ecologics/azalea_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/ecologics/coconut_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/ecologics/flowering_azalea_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/ecologics/walnut_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/black_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/blue_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/brown_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/cyan_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/gray_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/green_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/light_blue_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/light_gray_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/lime_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/magenta_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/orange_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/pink_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/purple_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/red_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/white_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/spectrum/yellow_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/traverse/fir_cabinet",
+            "required": false
+        },
+        {
+            "id":"everycomp:fd/vinery/cherry_cabinet",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:acacia_cabinet",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:birch_cabinet",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:crimson_cabinet",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:dark_oak_cabinet",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:jungle_cabinet",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:mangrove_cabinet",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:oak_cabinet",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:spruce_cabinet",
+            "required": false
+        },
+        {
+            "id":"farmersdelight:warped_cabinet",
+            "required": false
+        }
+    ]
+}

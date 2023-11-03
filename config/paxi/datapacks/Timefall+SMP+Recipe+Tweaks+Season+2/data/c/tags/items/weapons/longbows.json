@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"mcdw:bow_guardian_bow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_longbow",
+            "required": false
+        },
+        {
+            "id":"mcdw:bow_red_snake",
+            "required": false
+        }
+    ]
+}

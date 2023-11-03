@@ -1,0 +1,106 @@
+{
+  "pools": [
+	{
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mcdar:blast_fungus",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:corrupted_seeds",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:enchanters_tome",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:gong_of_weakening",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:harpoon_quiver",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:harvester",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:lightning_rod",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:powershaker",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:satchel_of_elements",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:shock_powder",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:soul_healer",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:thundering_quiver",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:torment_quiver",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:totem_of_regeneration",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:totem_of_shielding",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+          "name": "mcdar:totem_of_soul_protection",
+          "weight": 1
+        },
+		{
+          "type": "minecraft:item",
+		  "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 4.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:beetroot_seeds",
+          "weight": 48
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

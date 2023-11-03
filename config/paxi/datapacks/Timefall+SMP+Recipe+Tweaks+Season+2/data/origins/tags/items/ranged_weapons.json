@@ -1,0 +1,40 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bow",
+    "minecraft:crossbow",
+    "minecraft:trident",
+    {
+      "id":"#c:shortbows",
+      "required": false
+    },
+    {
+      "id":"#c:longbows",
+      "required": false
+    },
+    {
+      "id":"#c:mini_crossbows",
+      "required": false
+    },
+    {
+      "id":"#c:standard_crossbows",
+      "required": false
+    },
+    {
+      "id":"#c:standard_bows",
+      "required": false
+    },
+    {
+      "id":"amethyst_imbuement:glistering_trident",
+      "required": false
+    },
+    {
+      "id":"imbued_gear:celestial_trident",
+      "required": false
+    },
+    {
+      "id":"imbued_gear:champions_trident",
+      "required": false
+    }
+  ]
+}

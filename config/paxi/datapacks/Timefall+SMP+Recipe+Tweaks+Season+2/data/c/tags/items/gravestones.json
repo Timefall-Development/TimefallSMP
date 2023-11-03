@@ -1,0 +1,45 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"graveyard:blackstone_gravestone",
+            "required":false
+        },
+        {
+            "id":"graveyard:bricks_gravestone",
+            "required":false
+        },
+        {
+            "id":"graveyard:cobblestone_gravestone",
+            "required":false
+        },
+        {
+            "id":"graveyard:cracked_blackstone_gravestone",
+            "required":false
+        },
+        {
+            "id":"graveyard:deepslate_gravestone",
+            "required":false
+        },
+        {
+            "id":"graveyard:gravestone",
+            "required":false
+        },
+        {
+            "id":"graveyard:mossy_cobblestone_gravestone",
+            "required":false
+        },
+        {
+            "id":"graveyard:mossy_stone_bricks_gravestone",
+            "required":false
+        },
+        {
+            "id":"graveyard:stone_bricks_gravestone",
+            "required":false
+        },
+        {
+            "id":"yigd:grave",
+            "required":false
+        }
+    ]
+}

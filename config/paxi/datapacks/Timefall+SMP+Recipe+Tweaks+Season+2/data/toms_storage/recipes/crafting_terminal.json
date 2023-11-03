@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DCD",
+    "gIg",
+    "DcD"
+  ],
+  "key": {
+    "D": {
+      "tag": "c:steel_ingots"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "c": {
+      "item": "wiredredstone:redstone_assembler"
+    },
+    "g": {
+      "item": "betterend:crystal_shards"
+    },
+    "I": {
+      "item": "toms_storage:ts.storage_terminal"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.crafting_terminal"
+  },
+  "acceptMirrored": false
+}

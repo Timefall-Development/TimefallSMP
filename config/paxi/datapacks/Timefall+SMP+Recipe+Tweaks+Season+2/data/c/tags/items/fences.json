@@ -1,0 +1,1665 @@
+{
+    "replace": false,
+    "values":[
+        {
+            "id":"everycomp:mcf/betterend/dragon_tree_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/dragon_tree_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/dragon_tree_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/dragon_tree_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/end_lotus_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/end_lotus_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/end_lotus_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/end_lotus_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/helix_tree_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/helix_tree_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/helix_tree_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/helix_tree_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/jellyshroom_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/jellyshroom_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/jellyshroom_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/jellyshroom_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lacugrove_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lacugrove_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lacugrove_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lacugrove_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lucernia_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lucernia_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lucernia_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/lucernia_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/mossy_glowshroom_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/mossy_glowshroom_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/mossy_glowshroom_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/mossy_glowshroom_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/pythadendron_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/pythadendron_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/pythadendron_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/pythadendron_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/tenanea_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/tenanea_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/tenanea_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/tenanea_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/umbrella_tree_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/umbrella_tree_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/umbrella_tree_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betterend/umbrella_tree_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/anchor_tree_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/anchor_tree_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/anchor_tree_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/anchor_tree_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/mushroom_fir_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/mushroom_fir_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/mushroom_fir_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/mushroom_fir_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_mushroom_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_mushroom_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_mushroom_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_mushroom_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_reed_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_reed_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_reed_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_reed_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_sakura_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_sakura_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_sakura_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/nether_sakura_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/rubeus_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/rubeus_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/rubeus_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/rubeus_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/stalagnate_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/stalagnate_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/stalagnate_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/stalagnate_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/wart_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/wart_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/wart_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/wart_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/willow_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/willow_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/willow_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/betternether/willow_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/aspen_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/aspen_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/aspen_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/aspen_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/baobab_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/baobab_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/baobab_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/baobab_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/blue_enchanted_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/blue_enchanted_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/blue_enchanted_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/blue_enchanted_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/bulbis_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/bulbis_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/bulbis_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/bulbis_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cherry_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cherry_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cherry_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cherry_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cika_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cika_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cika_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cika_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cypress_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cypress_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cypress_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/cypress_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ebony_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ebony_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ebony_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ebony_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ether_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ether_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ether_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/ether_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/fir_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/fir_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/fir_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/fir_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/green_enchanted_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/green_enchanted_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/green_enchanted_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/green_enchanted_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/holly_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/holly_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/holly_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/holly_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/imparius_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/imparius_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/imparius_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/imparius_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/jacaranda_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/jacaranda_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/jacaranda_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/jacaranda_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/lament_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/lament_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/lament_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/lament_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/mahogany_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/mahogany_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/mahogany_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/mahogany_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/maple_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/maple_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/maple_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/maple_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/nightshade_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/nightshade_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/nightshade_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/nightshade_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/palm_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/palm_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/palm_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/palm_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/pine_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/pine_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/pine_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/pine_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/rainbow_eucalyptus_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/rainbow_eucalyptus_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/rainbow_eucalyptus_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/rainbow_eucalyptus_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/redwood_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/redwood_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/redwood_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/redwood_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/skyris_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/skyris_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/skyris_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/skyris_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/sythian_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/sythian_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/sythian_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/sythian_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/white_mangrove_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/white_mangrove_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/white_mangrove_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/white_mangrove_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/willow_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/willow_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/willow_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/willow_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/witch_hazel_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/witch_hazel_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/witch_hazel_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/witch_hazel_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/zelkova_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/zelkova_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/zelkova_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/byg/zelkova_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/azalea_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/azalea_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/azalea_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/azalea_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/coconut_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/coconut_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/coconut_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/coconut_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/flowering_azalea_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/flowering_azalea_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/flowering_azalea_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/flowering_azalea_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/walnut_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/walnut_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/walnut_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/ecologics/walnut_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/black_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/black_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/black_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/black_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/blue_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/blue_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/blue_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/blue_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/brown_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/brown_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/brown_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/brown_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/cyan_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/cyan_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/cyan_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/cyan_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/gray_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/gray_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/gray_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/gray_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/green_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/green_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/green_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/green_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_blue_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_blue_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_blue_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_blue_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_gray_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_gray_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_gray_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/light_gray_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/lime_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/lime_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/lime_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/lime_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/magenta_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/magenta_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/magenta_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/magenta_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/orange_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/orange_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/orange_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/orange_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/pink_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/pink_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/pink_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/pink_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/purple_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/purple_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/purple_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/purple_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/red_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/red_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/red_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/red_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/white_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/white_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/white_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/white_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/yellow_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/yellow_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/yellow_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/spectrum/yellow_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/traverse/fir_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/traverse/fir_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/traverse/fir_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/traverse/fir_wired_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/vinery/cherry_horse_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/vinery/cherry_picket_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/vinery/cherry_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"everycomp:mcf/vinery/cherry_wired_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:acacia_wood_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:birch_wood_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:crimson_hyphae_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:dark_oak_wood_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:jungle_wood_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:mangrove_wood_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:oak_wood_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:red_nether_brick_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:spruce_wood_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_acacia_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_birch_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_crimson_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_dark_oak_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_jungle_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_mangrove_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_oak_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_spruce_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:stripped_warped_fence",
+            "required": false
+        },
+        {
+            "id":"slabsandstairs:warped_hyphae_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:acacia_horse_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:acacia_picket_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:acacia_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:acacia_wired_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:bamboo_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:birch_horse_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:birch_picket_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:birch_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:birch_wired_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:crimson_horse_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:crimson_picket_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:crimson_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:crimson_wired_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:dark_oak_horse_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:dark_oak_picket_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:dark_oak_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:dark_oak_wired_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:jungle_horse_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:jungle_picket_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:jungle_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:jungle_wired_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:mangrove_horse_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:mangrove_picket_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:mangrove_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:mangrove_wired_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:oak_horse_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:oak_picket_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:oak_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:oak_wired_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:spruce_horse_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:spruce_picket_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:spruce_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:spruce_wired_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:warped_horse_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:warped_picket_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:warped_stockade_fence",
+            "required": false
+        },
+        {
+            "id":"mcwfences:warped_wired_fence",
+            "required": false
+        },
+        {
+            "id":"immersive_weathering:charred_fence",
+            "required": false
+        },
+        {
+            "id":"traverse:fir_fence",
+            "required": false
+        },
+        {
+            "id":"byg:aspen_fence",
+            "required": false
+        },
+        {
+            "id":"byg:baobab_fence",
+            "required": false
+        },
+        {
+            "id":"byg:blue_enchanted_fence",
+            "required": false
+        },
+        {
+            "id":"byg:bulbis_fence",
+            "required": false
+        },
+        {
+            "id":"byg:cherry_fence",
+            "required": false
+        },
+        {
+            "id":"byg:cika_fence",
+            "required": false
+        },
+        {
+            "id":"byg:cypress_fence",
+            "required": false
+        },
+        {
+            "id":"byg:ebony_fence",
+            "required": false
+        },
+        {
+            "id":"byg:embur_fence",
+            "required": false
+        },
+        {
+            "id":"byg:ether_fence",
+            "required": false
+        },
+        {
+            "id":"byg:fir_fence",
+            "required": false
+        },
+        {
+            "id":"byg:green_enchanted_fence",
+            "required": false
+        },
+        {
+            "id":"byg:holly_fence",
+            "required": false
+        },
+        {
+            "id":"byg:imparius_fence",
+            "required": false
+        },
+        {
+            "id":"byg:jacaranda_fence",
+            "required": false
+        },
+        {
+            "id":"byg:lament_fence",
+            "required": false
+        },
+        {
+            "id":"byg:mahogany_fence",
+            "required": false
+        },
+        {
+            "id":"byg:maple_fence",
+            "required": false
+        },
+        {
+            "id":"byg:nightshade_fence",
+            "required": false
+        },
+        {
+            "id":"byg:palm_fence",
+            "required": false
+        },
+        {
+            "id":"byg:pine_fence",
+            "required": false
+        },
+        {
+            "id":"byg:rainbow_eucalyptus_fence",
+            "required": false
+        },
+        {
+            "id":"byg:redwood_fence",
+            "required": false
+        },
+        {
+            "id":"byg:skyris_fence",
+            "required": false
+        },
+        {
+            "id":"byg:sythian_fence",
+            "required": false
+        },
+        {
+            "id":"byg:white_mangrove_fence",
+            "required": false
+        },
+        {
+            "id":"byg:willow_fence",
+            "required": false
+        },
+        {
+            "id":"byg:witch_hazel_fence",
+            "required": false
+        },
+        {
+            "id":"byg:zelkova_fence",
+            "required": false
+        },
+        {
+            "id":"adorn:chain_link_fence",
+            "required": false
+        },
+        {
+            "id":"adorn:picket_fence",
+            "required": false
+        },
+        {
+            "id":"betterend:dragon_tree_fence",
+            "required": false
+        },
+        {
+            "id":"betterend:end_lotus_fence",
+            "required": false
+        },
+        {
+            "id":"betterend:helix_tree_fence",
+            "required": false
+        },
+        {
+            "id":"betterend:jellyshroom_fence",
+            "required": false
+        },
+        {
+            "id":"betterend:lacugrove_fence",
+            "required": false
+        },
+        {
+            "id":"betterend:lucernia_fence",
+            "required": false
+        },
+        {
+            "id":"betterend:mossy_glowshroom_fence",
+            "required": false
+        },
+        {
+            "id":"betterend:pythadendron_fence",
+            "required": false
+        },
+        {
+            "id":"betterend:tenanea_fence",
+            "required": false
+        },
+        {
+            "id":"betterend:umbrella_tree_fence",
+            "required": false
+        },
+        {
+            "id":"betternether:anchor_tree_fence",
+            "required": false
+        },
+        {
+            "id":"betternether:mushroom_fir_fence",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_mushroom_fence",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_reed_fence",
+            "required": false
+        },
+        {
+            "id":"betternether:nether_sakura_fence",
+            "required": false
+        },
+        {
+            "id":"betternether:rubeus_fence",
+            "required": false
+        },
+        {
+            "id":"betternether:stalagnate_fence",
+            "required": false
+        },
+        {
+            "id":"betternether:wart_fence",
+            "required": false
+        },
+        {
+            "id":"betternether:willow_fence",
+            "required": false
+        },
+        {
+            "id":"ecologics:azalea_fence",
+            "required": false
+        },
+        {
+            "id":"ecologics:coconut_fence",
+            "required": false
+        },
+        {
+            "id":"ecologics:flowering_azalea_fence",
+            "required": false
+        },
+        {
+            "id":"ecologics:walnut_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:black_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:blue_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:brown_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:cyan_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:gray_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:green_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:light_blue_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:light_gray_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:lime_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:magenta_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:orange_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:pink_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:purple_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:red_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:white_fence",
+            "required": false
+        },
+        {
+            "id":"spectrum:yellow_fence",
+            "required": false
+        },
+        {
+            "id":"minecraft:acacia_fence",
+            "required": false
+        },
+        {
+            "id":"minecraft:birch_fence",
+            "required": false
+        },
+        {
+            "id":"minecraft:crimson_fence",
+            "required": false
+        },
+        {
+            "id":"minecraft:dark_oak_fence",
+            "required": false
+        },
+        {
+            "id":"minecraft:jungle_fence",
+            "required": false
+        },
+        {
+            "id":"minecraft:mangrove_fence",
+            "required": false
+        },
+        {
+            "id":"minecraft:nether_brick_fence",
+            "required": false
+        },
+        {
+            "id":"minecraft:oak_fence",
+            "required": false
+        },
+        {
+            "id":"minecraft:spruce_fence",
+            "required": false
+        },
+        {
+            "id":"minecraft:warped_fence",
+            "required": false
+        },
+        {
+            "id":"vinery:cherry_fence",
+            "required": false
+        }
+    ]
+}

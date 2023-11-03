@@ -1,0 +1,28 @@
+{
+    "type": "crafting_shaped",
+    "group": "tools",
+    "pattern": [
+      "BBB",
+      "BCB",
+      "BBB"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:end_stone_bricks"
+      },
+      "C": [
+		  {
+			"item": "alloy_forgery:prismarine_bricks_forge_controller"
+		  },
+		  {
+			"item": "alloy_forgery:deepslate_bricks_forge_controller"
+		  },
+		  {
+			"item": "alloy_forgery:polished_blackstone_forge_controller"
+		  }
+	  ]
+    },
+    "result": {
+      "item": "alloy_forgery:end_stone_bricks_forge_controller"
+    }
+  }

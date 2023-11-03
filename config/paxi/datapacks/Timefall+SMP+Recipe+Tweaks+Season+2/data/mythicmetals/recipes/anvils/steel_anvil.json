@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " R ",
+    "RRR"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:steel_blocks"
+    },
+    "R": {
+      "tag": "c:steel_ingots"
+    }
+  },
+  "result": {
+    "item": "mythicmetals:steel_anvil",
+    "count": 1
+  },
+  "group": "mm_anvils",
+  "fabric:load_conditions": [
+    {
+      "condition": "mythicmetals:anvils_enabled"
+    }
+  ]
+}
