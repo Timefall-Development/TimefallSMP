@@ -1,6 +1,6 @@
 {
 	"enableWizardSpecialisation": true,
-	"passiveWizardSpellEchoChance": 35,
+	"passiveWizardSpellEchoChance": 15,
 	"signatureWizardMeteoricWrathDuration": 800,
 	"signatureWizardMeteoricWrathStacks": 10,
 	"signatureWizardMeteoricWrathFrequency": 15,
@@ -14,8 +14,8 @@
 	"signatureWizardIceCometLeapHeight": 1.3,
 	"signatureWizardIceCometLeapSlowfallDuration": 180,
 	"signatureWizardIceCometVolleyDuration": 400,
-	"signatureWizardIceCometVolleyStacks": 5,
-	"signatureWizardIceCometVolleyFrequency": 20,
+	"signatureWizardIceCometVolleyStacks": 6,
+	"signatureWizardIceCometVolleyFrequency": 8,
 	"signatureWizardIceCometVolleyRange": 120,
 	"signatureWizardIceCometRange": 120,
 	"signatureWizardIceCometCooldown": 30,
@@ -40,7 +40,7 @@
 	"signatureWizardLesserArcaneBoltRadius": 12,
 	"signatureWizardArcaneBoltVolleyDuration": 400,
 	"signatureWizardArcaneBoltVolleyStacks": 10,
-	"signatureWizardArcaneBoltVolleyFrequency": 10,
+	"signatureWizardArcaneBoltVolleyFrequency": 3,
 	"signatureWizardArcaneBoltVolleyRange": 120,
 	"signatureWizardArcaneBoltCooldown": 35
 }

@@ -2,7 +2,96 @@
 [serverConfig]
 	#A list of options in the player config that individual players can reconfigure. If an option is in neither of the configurable option lists,
 	#then the value in the default player config is used across the server. Check the default player config .toml file for the option names.
-	playerConfigurablePlayerConfigOptions = ["claims.protectClaimedChunks", "claims.forceload.enabled", "claims.name", "claims.color", "claims.protection.fromParty", "claims.protection.fromAllyParties", "claims.protection.buttonsFromProjectiles", "claims.protection.targetsFromProjectiles", "claims.protection.platesFromPlayers", "claims.protection.platesFromMobs", "claims.protection.platesFromOther", "claims.protection.tripwireFromPlayers", "claims.protection.tripwireFromMobs", "claims.protection.tripwireFromOther", "claims.protection.cropTrample", "claims.protection.playerLightning", "claims.protection.fromFrostWalking", "claims.protection.entitiesFromPlayers", "claims.protection.entitiesFromMobs", "claims.protection.entitiesFromOther", "claims.protection.entitiesRedirect", "claims.protection.entitiesFromExplosions", "claims.protection.entitiesFromFire", "claims.protection.netherPortalsPlayers", "claims.protection.netherPortalsMobs", "claims.protection.netherPortalsOther", "claims.protection.fluidBarrier", "claims.protection.dispenserBarrier", "claims.protection.pistonBarrier", "claims.protection.itemTossPlayers", "claims.protection.itemTossMobs", "claims.protection.itemTossOther", "claims.protection.itemTossRedirect", "claims.protection.mobLoot", "claims.protection.playerDeathLoot", "claims.protection.itemPickupPlayers", "claims.protection.itemPickupMobs", "claims.protection.itemPickupRedirect", "claims.protection.xpPickup", "claims.protection.raids", "claims.protection.naturalSpawnHostile", "claims.protection.naturalSpawnFriendly", "claims.protection.spawnersHostile", "claims.protection.spawnersFriendly", "parties.name", "parties.shareLocationWithParty", "parties.shareLocationWithMutualAllyParties", "parties.receiveLocationsFromParty", "parties.receiveLocationsFromMutualAllyParties", "claims.protection.exceptionGroups.block.interact.Controls", "claims.protection.exceptionGroups.block.interact.Doors", "claims.protection.exceptionGroups.block.interact.Chests", "claims.protection.exceptionGroups.block.interact.Barrels", "claims.protection.exceptionGroups.block.interact.Ender_Chests", "claims.protection.exceptionGroups.block.interact.Shulker_Boxes", "claims.protection.exceptionGroups.block.interact.Furnaces", "claims.protection.exceptionGroups.block.interact.Hoppers", "claims.protection.exceptionGroups.block.interact.Dispenser-like", "claims.protection.exceptionGroups.block.interact.Anvil-like", "claims.protection.exceptionGroups.block.interact.Beds", "claims.protection.exceptionGroups.block.interact.Beacons", "claims.protection.exceptionGroups.block.interact.Enchanting_Tables", "claims.protection.exceptionGroups.block.interact.Shop_Blocks", "claims.protection.exceptionGroups.block.interact.Waystones", "claims.protection.exceptionGroups.block.interact.Chairs", "claims.protection.exceptionGroups.block.break.Crops", "claims.protection.exceptionGroups.entity.interact.Traders", "claims.protection.exceptionGroups.entity.handInteract.Item_Frames", "claims.protection.exceptionGroups.entity.interact.Armor_Stands", "claims.protection.exceptionGroups.entity.break.Livestock", "claims.protection.exceptionGroups.entity.blockAccess.Villagers", "claims.protection.exceptionGroups.entity.entityAccess.Zombies", "claims.protection.exceptionGroups.entity.droppedItemAccess.Villagers", "claims.protection.exceptionGroups.entity.droppedItemAccess.Piglins", "claims.protection.exceptionGroups.entity.droppedItemAccess.Foxes", "claims.protection.exceptionGroups.item.interact.Books", "claims.protection.exceptionGroups.entity.barrier.Ender_Pearls", "/*remove comment to enable*/claims.protection.exceptionGroups.entity.barrier.Players"]
+	playerConfigurablePlayerConfigOptions = [
+		"claims.protectClaimedChunks",
+		"claims.forceload.enabled",
+		"claims.name",
+		"claims.color",
+		"claims.protection.fromParty",
+		"claims.protection.fromAllyParties",
+		"claims.protection.buttonsFromProjectiles",
+		"claims.protection.targetsFromProjectiles",
+		"claims.protection.platesFromPlayers",
+		"claims.protection.platesFromMobs",
+		"claims.protection.platesFromOther",
+		"claims.protection.tripwireFromPlayers",
+		"claims.protection.tripwireFromMobs",
+		"claims.protection.tripwireFromOther",
+		"claims.protection.cropTrample",
+		"claims.protection.playerLightning",
+		"claims.protection.fromFrostWalking",
+		"claims.protection.entitiesFromPlayers",
+		"claims.protection.entitiesFromMobs",
+		"claims.protection.entitiesFromOther",
+		"claims.protection.entitiesRedirect",
+		"claims.protection.entitiesFromExplosions",
+		"claims.protection.entitiesFromFire",
+		"claims.protection.netherPortalsPlayers",
+		"claims.protection.netherPortalsMobs",
+		"claims.protection.netherPortalsOther",
+		"claims.protection.fluidBarrier",
+		"claims.protection.dispenserBarrier",
+		"claims.protection.pistonBarrier",
+		"claims.protection.itemTossPlayers",
+		"claims.protection.itemTossMobs",
+		"claims.protection.itemTossOther",
+		"claims.protection.itemTossRedirect",
+		"claims.protection.mobLoot",
+		"claims.protection.playerDeathLoot",
+		"claims.protection.itemPickupPlayers",
+		"claims.protection.itemPickupMobs",
+		"claims.protection.itemPickupRedirect",
+		"claims.protection.xpPickup",
+		"claims.protection.raids",
+		"claims.protection.naturalSpawnHostile",
+		"claims.protection.naturalSpawnFriendly",
+		"claims.protection.spawnersHostile",
+		"claims.protection.spawnersFriendly",
+		"parties.name",
+		"parties.shareLocationWithParty",
+		"parties.shareLocationWithMutualAllyParties",
+		"parties.receiveLocationsFromParty",
+		"parties.receiveLocationsFromMutualAllyParties",
+		"claims.protection.exceptionGroups.block.interact.Controls",
+		"claims.protection.exceptionGroups.block.interact.Doors",
+		"claims.protection.exceptionGroups.block.interact.Chests",
+		"claims.protection.exceptionGroups.block.interact.Barrels",
+		"claims.protection.exceptionGroups.block.interact.Ender_Chests",
+		"claims.protection.exceptionGroups.block.interact.Shulker_Boxes",
+		"claims.protection.exceptionGroups.block.interact.Furnaces",
+		"claims.protection.exceptionGroups.block.interact.Hoppers",
+		"claims.protection.exceptionGroups.block.interact.Dispenser-like",
+		"claims.protection.exceptionGroups.block.interact.Beds",
+		"claims.protection.exceptionGroups.block.interact.Beacons",
+		"claims.protection.exceptionGroups.block.interact.Enchanting_Tables",
+		"claims.protection.exceptionGroups.block.interact.Shop_Blocks",
+		"claims.protection.exceptionGroups.block.interact.Waystones",
+		"claims.protection.exceptionGroups.block.interact.Chairs",
+		"claims.protection.exceptionGroups.block.interact.Storage_Systems",
+		"claims.protection.exceptionGroups.block.interact.Mail",
+		"claims.protection.exceptionGroups.block.interact.Player_Workstations",
+		"claims.protection.exceptionGroups.block.interact.Windows",
+		"claims.protection.exceptionGroups.block.interact.Lights",
+		"claims.protection.exceptionGroups.block.interact.Experience_Storage",
+		"claims.protection.exceptionGroups.block.interact.Throwables",
+		"claims.protection.exceptionGroups.block.break.Crops",
+		"claims.protection.exceptionGroups.entity.interact.Traders",
+		"claims.protection.exceptionGroups.entity.handInteract.Item_Frames",
+		"claims.protection.exceptionGroups.entity.interact.Armor_Stands",
+		"claims.protection.exceptionGroups.entity.break.Livestock",
+		"claims.protection.exceptionGroups.entity.blockAccess.Villagers",
+		"claims.protection.exceptionGroups.entity.entityAccess.Zombies",
+		"claims.protection.exceptionGroups.entity.droppedItemAccess.Villagers",
+		"claims.protection.exceptionGroups.entity.droppedItemAccess.Piglins",
+		"claims.protection.exceptionGroups.entity.droppedItemAccess.Foxes",
+		"claims.protection.exceptionGroups.item.interact.Books",
+		"claims.protection.exceptionGroups.item.interact.Wormholes",
+		"claims.protection.exceptionGroups.item.interact.Backpacks",
+		"claims.protection.exceptionGroups.item.interact.Parachutes",
+		"claims.protection.exceptionGroups.item.interact.Instruments",
+		"claims.protection.exceptionGroups.entity.barrier.Ender_Pearls",
+		"/*remove comment to enable*/claims.protection.exceptionGroups.entity.barrier.Players"
+	]
 	#A list of additional options in the player config that OPs can reconfigure for players.
 	#This is meant for options that should be configured per player but not by the players.
 	#If an option is in neither of the configurable option lists, then the value in the default player config is used across the server.
@@ -16,7 +105,7 @@
 	#Range: > 1
 	autosaveInterval = 10
 	#The permission system to use for everything that requires permission checks (e.g. permission_api, ftb_ranks, luck_perms, prometheus). Non-built-in permission systems can be registered through the API with an addon.
-	permissionSystem = "prometheus"
+	permissionSystem = "permission_api"
 	#How many sub-configs (sub-claims) can each player create.
 	#Range: 0 ~ 1024
 	playerSubConfigLimit = 64
@@ -147,7 +236,31 @@
 			#The player config options created for the groups, like regular options, must be added in the "playerConfigurablePlayerConfigOptions" list for players to have access to them.
 			#The exact paths of the added options can be found in the default player config file after you start the server.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
-			blockProtectionOptionalExceptionGroups = ["Controls{minecraft:lever, #minecraft:buttons, *:*_button, drinkbeer:*_bell, *:*_seeds, minecraft:bell, minecraft:jukebox}", "Doors{#minecraft:doors, #minecraft:fence_gates, #forge:fence_gates, #minecraft:trapdoors, *:*_door, *:*_trapdoor, *:*_gate, *:*_fence_gate}", "Shop_Blocks{lightmanscurrency:atm, lightmanscurrency:vending_machine, lightmanscurrency:vending_machine_*, lightmanscurrency:vending_machine_large, lightmanscurrency:vending_machine_large_*, lightmanscurrency:shelf_*, lightmanscurrency:card_display_*, lightmanscurrency:ticket_machine, lightmanscurrency:paygate, lightmanscurrency:armor_display, lightmanscurrency:freezer, lightmanscurrency:terminal, lightmanscurrency:gem_terminal, lightmanscurrency:item_trader_server_*, lightmanscurrency:ticket_kiosk, lightmanscurrency:item_trader_interface}", "Chests{#c:chests, minecraft:chest, minecraft:trapped_chest, lootr:lootr_chest, lootr:lootr_trapped_chest, lootr:lootr_inventory, mythicmetals_decorations:*_chest, #forge:chests/wooden, *:*_chest_boat, #minecraft:chest_boats, minecraft:brewing_stand}", "Barrels{minecraft:barrel, *:*_barrel, lootr:lootr_barrel, #forge:barrels}", "Ender_Chests{minecraft:ender_chest, #forge:chests/ender}", "Shulker_Boxes{#minecraft:shulker_boxes}", "Furnaces{minecraft:furnace, minecraft:blast_furnace, minecraft:smoker, alloy_forgery:*, *:furnace, *:blast_furnace, *:smoker}", "Hoppers{minecraft:hopper}", "Dispenser-like{minecraft:dispenser, minecraft:dropper}", "Waystones{fwaystones:*}", "Anvil-like{#minecraft:anvil, minecraft:smithing_table, minecraft:loom, minecraft:grindstone, amethyst_imbuement:crystal_altar, *:*_beehive, farmersdelight:cooking_pot, farmersdelight:cutting_board}", "Chairs{*:*_chair, *:*_bench, *:*_stool}", "Beds{#minecraft:beds}", "Beacons{minecraft:beacon}", "Enchanting_Tables{minecraft:enchanting_table, amethyst_imbuement:imbuing_table, amethyst_imbuement:disenchanting_table, amethyst_imbuement:altar_of_experience}", "break$Crops{#minecraft:crops}"]
+			blockProtectionOptionalExceptionGroups = [
+				"Controls{minecraft:lever, #minecraft:buttons, *:*_button, drinkbeer:*_bell, *:*_seeds, minecraft:bell, minecraft:jukebox, infinitybuttons:*}",
+				"Doors{#minecraft:doors, #minecraft:fence_gates, #forge:fence_gates, #minecraft:trapdoors, *:*_door, *:*_trapdoor, *:*_gate, *:*_fence_gate, mcwtrpdoors:*, mcdwdoors:*, dramaticdoors:*, moredecorativeblocks:*_door, moredecorativeblocks:*_trapdoor, vinery:cherry_door, vinery:cherry_trapdoor}",
+				"Shop_Blocks{adorn:trading_station}",
+				"Chests{#c:chests, minecraft:chest, minecraft:trapped_chest, lootr:lootr_chest, lootr:lootr_trapped_chest, lootr:lootr_inventory, mythicmetals_decorations:*_chest, #forge:chests/wooden, *:*_chest_boat, #minecraft:chest_boats}",
+				"Barrels{minecraft:barrel, *:*_barrel, lootr:lootr_barrel, #forge:barrels}", "Ender_Chests{minecraft:ender_chest, #forge:chests/ender}",
+				"Shulker_Boxes{#minecraft:shulker_boxes}",
+				"Furnaces{minecraft:furnace, minecraft:blast_furnace, minecraft:smoker, alloy_forgery:*, *:furnace, *:blast_furnace, *:smoker}",
+				"Hoppers{minecraft:hopper}",
+				"Dispenser-like{minecraft:dispenser, minecraft:dropper}",
+				"Waystones{fwaystones:*}",
+				"Chairs{*:*_chair, *:chair, *:*_bench, *:bench, *:*_stool, *:stool, *:sofa, *:*_sofa}",
+				"Beds{#minecraft:beds, handcrafted:*_fancy_bed}",
+				"Beacons{minecraft:beacon}",
+				"Enchanting_Tables{minecraft:enchanting_table, amethyst_imbuement:imbuing_table, amethyst_imbuement:disenchanting_table, mcde:runic_table, mcde:reroll_bench, mcde:gilding_foundry, gearifiers:reroll_altar, transmog:transmogrification_table}",
+				"Storage_Systems{toms_storage:ts.storage_terminal, toms_storage:ts.crafting_terminal}",
+				"Mail{mighty_mail:*}",
+				"Player_Workstations{chipped:botanist_workbench, chipped:glassblower, chipped:carpenters_table, chipped:loom_table, chipped:mason_table, chipped:alchemy_bench, chipped:tinkering_table, #minecraft:anvil, minecraft:smithing_table, minecraft:loom, minecraft:grindstone, amethyst_imbuement:crystal_altar, *:*_beehive, farmersdelight:cooking_pot, farmersdelight:cutting_board, spelunkery:diamond_grindstone, bakery:brick_stove, bakery:baking_station, bakery:small_cooking_pot, meadow:stove_*, minecraft:brewing_stand, davespotioneering:compound_brewing_stand, davespotioneering:reinforced_cauldron, handcrafted:oven, wiredredstone:redstone_assembler, davespotioneering:potion_injector, alloy_forgery:*_forge_controller, brewinandchewin:keg, meadow:cheese_form, meadow:woodcutter, candlelight:typewriter_*}",
+				"Windows{mcwwindows:*}",
+				"Lights{mcwlights:*, candlelight:lamp, *:*_lamp}",
+				"Experience_Storage{amethyst_imbuement:altar_of_experience}",
+				"Throwables{doggomodoverhauled:tennis_ball_*}",
+				"Graves{yigd:grave}",
+				"break$Crops{#minecraft:crops}"
+			]
 			#A list of fake players (UUIDs or names) that shouldn't be affected by any chunk claim protection if they try to access a chunk with building protection compatible with
 			#the chunk that the fake player's origin block is positioned in, e.g. claims with the same owner and block protection option values.
 			#This works great for fake players that are bound to the position of a specific placed block (origin block). Moreover, the mod supports fake players placed at a block
@@ -196,14 +309,20 @@
 			#Entities that can bypass all block protection. Supports entity type tags.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:(v|p)illager", "minecraft:*illager", "#minecraft:raiders"]
-			entitiesAllowedToGrief = ["minecraft:sheep"]
+			entitiesAllowedToGrief = ["minecraft:sheep", "minecraft:villager"]
 			#Custom groups of items that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple items and item tags.
 			#Each group creates a player config option for the right-click use of the group items. The format for an item group is <group ID>{<items/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-stuff98{minecraft:(writable|written)_book, minecraft:*_book, #minecraft:compasses}".
 			#The player config options created for the groups, like regular options, must be added in the "playerConfigurablePlayerConfigOptions" list for players to have access to them.
 			#The exact paths of the added options can be found in the default player config file after you start the server.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
-			itemUseProtectionOptionalExceptionGroups = ["Books{minecraft:written_book, minecraft:writable_book}", "Wormholes{fwaystones:*}", "Backpacks{pack_it_up:*}"]
+			itemUseProtectionOptionalExceptionGroups = [
+				"Books{minecraft:written_book, minecraft:writable_book}",
+				"Wormholes{fwaystones:*}",
+				"Backpacks{pack_it_up:*}",
+				"Parachutes{spelunkery:parachute}",
+				"Instruments{xercamusic:*}"
+			]
 			#Custom groups of entities that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple entities and entity tags.
 			#A group without a prefix creates a player config option for the right-click interaction with the group entities. The format for an entity group is <group ID>{<entities/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-GUYS98{minecraft:pig, minecraft:c(ow|at), #minecraft:beehive_inhabitors}".
@@ -213,7 +332,11 @@
 			#The player config options created for the groups, like regular options, must be added in the "playerConfigurablePlayerConfigOptions" list for players to have access to them.
 			#The exact paths of the added options can be found in the default player config file after you start the server.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
-			entityProtectionOptionalExceptionGroups = ["Traders{minecraft:villager, minecraft:wandering_trader}", "hand$Item_Frames{minecraft:item_frame}", "break$Livestock{minecraft:cow, minecraft:mooshroom, minecraft:sheep, minecraft:chicken, minecraft:pig, minecraft:rabbit, minecraft:goat}", "Armor_Stands{minecraft:armor_stand}"]
+			entityProtectionOptionalExceptionGroups = [
+				"Traders{minecraft:villager, minecraft:wandering_trader}",
+				"hand$Item_Frames{minecraft:item_frame}",
+				"break$Livestock{minecraft:cow, minecraft:mooshroom, minecraft:sheep, minecraft:chicken, minecraft:pig, minecraft:rabbit, minecraft:goat}",
+				"Armor_Stands{minecraft:armor_stand}"]
 			#(Forge-only option) Mobs that can grief entities in ways other than attacking them, e.g. how evokers can change the color of sheep. This list is used when overriding the vanilla "mob griefing" game rule value.
 			#By default, the mod assumes that any "mob griefing" game rule check is meant for block protection only. Add a mob to this list if you want the entity protection option to be checked as well when the rule is checked.
 			#Check out the "nonBlockGriefingMobs" option if you want to also remove the default block protection check for the mob.

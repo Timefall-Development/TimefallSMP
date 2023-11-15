@@ -28,7 +28,7 @@
 	"ENABLE_SUMMONING_ARTIFACT": {
 		"BUZZY_NEST": true,
 		"ENCHANTED_GRASS": true,
-		"GOLEM_KIT": true,
+		"GOLEM_KIT": false,
 		"TASTY_BONE": true,
 		"WONDERFUL_WHEAT": true
 	},

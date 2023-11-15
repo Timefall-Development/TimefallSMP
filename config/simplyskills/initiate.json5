@@ -1,6 +1,5 @@
 {
-	"passiveInitiateFrailArmorThreshold": 10,
-	"passiveInitiateFrailSlownessAmplifier": 0,
+	"passiveInitiateFrailArmorThreshold": 35,
 	"passiveInitiateFrailAttackThreshold": 6,
 	"passiveInitiateFrailWeaknessAmplifier": 0,
 	"passiveInitiateFrailMiningFatigueAmplifier": 3,

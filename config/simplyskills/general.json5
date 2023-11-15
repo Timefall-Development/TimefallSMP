@@ -8,6 +8,8 @@
 	"spellHasteCooldownReductionModifier": 0.4000000059604645,
 	"minimumAchievableCooldown": 5,
 	"minimumTimeBetweenAbilityUse": 0.5,
+	"signatureHudX": 0,
+	"signatureHudY": 0,
 	"enableDDR": false,
 	"enableDDRDebugLog": false,
 	"DDRHealthRequirement": 300,

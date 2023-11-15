@@ -54,13 +54,13 @@
 	*/
 	"rerollCost": {
 		"normal": {
-			"startCost": 30,
-			"endCost": 3,
+			"startCost": 15,
+			"endCost": 1,
 			"step": 3
 		},
 		"powerful": {
-			"startCost": 50,
-			"endCost": 5,
+			"startCost": 25,
+			"endCost": 3,
 			"step": 5
 		}
 	},
@@ -213,13 +213,5 @@
 	   If entries have overlapping enchantments, they will be unlocked when only one of the entries is done (i.e. all advancements from this entry are obtained)
 	*/
 	"unlocks": [
-		{
-			"advancements": [
-				"minecraft:story/enter_the_end"
-			],
-			"enchantments": [
-				"#c:powerful"
-			]
-		}
 	]
 }

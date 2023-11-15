@@ -37,7 +37,6 @@ mode = "fancy"
 				bat = true
 				husk = true
 				frog = true
-				experience_bottle = true
 				rabbit = true
 				armor_stand = true
 				drowned = true
@@ -126,18 +125,17 @@ mode = "fancy"
 
 			[light_sources.settings.entities.endermanoverhaul]
 				savanna_enderman = true
+				cave_enderman = true
 				flower_fields_enderman = true
 				ocean_enderman = true
 				windswept_hills_enderman = true
-				spirit = true
-				end_enderman = true
-				corrupted_pearl = true
-				cave_enderman = true
 				snowy_enderman = true
+				spirit = true
 				soulsand_valley_enderman = true
-				dark_oak_enderman = true
+				end_enderman = true
 				swamp_enderman = true
 				end_islands_enderman = true
+				corrupted_pearl = true
 
 			[light_sources.settings.entities.niftycarts]
 				plow = true
@@ -150,7 +148,6 @@ mode = "fancy"
 				celestial_trident_avatar = true
 
 			[light_sources.settings.entities.illagerinvasion]
-				sorcerer = true
 				alchemist = true
 				provoker = true
 				archivist = true

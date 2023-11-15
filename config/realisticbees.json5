@@ -4,7 +4,7 @@
 	"beeSizeModifier": 0.25,
 	// In order to make bees a little more common. Whenever a bee naturally spawns, the mod spawns an additional 'extraBeeSpawnsPerBee' bees.
 	// min: 0, max: 50
-	"extraBeeSpawnsPerBee": 9,
+	"extraBeeSpawnsPerBee": 2,
 	// How many bees should be able to enter the hive in total. Minecraft's default is 3, but bees are a lot smaller so there should be more space.
 	// min: 0, max: 50
 	"beeHiveBeeSpace": 20,

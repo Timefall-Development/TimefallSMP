@@ -3,7 +3,7 @@
     "enabled [default: true]": true,
     "offerConfigs [default: true]": true,
     "offerFiles [default: true]": true,
-    "offerMods [default: true]": true,
+    "offerMods [default: true]": false,
     "offerAllMods [default: false]": false,
     "sendAllModInfo [default: false]": false,
     "additionalMods": [],

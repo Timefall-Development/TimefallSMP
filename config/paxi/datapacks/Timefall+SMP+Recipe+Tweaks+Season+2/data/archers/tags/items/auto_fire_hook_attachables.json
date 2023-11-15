@@ -1,0 +1,244 @@
+{
+  "values": [
+    {
+      "id":"mcdw:bow_ancient_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_bonebow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_bubble_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_bubble_burster",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_burst_gale_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_call_of_the_void",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_echo_of_the_valley",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_elite_power_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_green_menace",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_haunted_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_hunters_promise",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_hunting_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_lost_souls",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_masters_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_nocturnal_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_phantom_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_pink_scoundrel",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_power_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_sabrewing",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_shivering_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_snow_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_soul_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_trickbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_twin_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_twisting_vine_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_void_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_web_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_weeping_vine_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_wind_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_winters_touch",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_guardian_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_longbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_red_snake",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_love_spell_bow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_mechanical_shortbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_purple_storm",
+      "required": false
+    },
+    {
+      "id":"mcdw:bow_shortbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_baby_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_dual_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_auto_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_azure_seeker",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_burst_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_butterfly_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_cog_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_doom_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_exploding_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_feral_soul_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_firebolt_thrower",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_harp_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_harpoon_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_heavy_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_imploding_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_rapid_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_scatter_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_slayer_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_soul_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_soul_hunter_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_spellbound_crossbow",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_the_slicer",
+      "required": false
+    },
+    {
+      "id":"mcdw:crossbow_veiled_crossbow",
+      "required": false
+    }
+  ]
+}

@@ -354,8 +354,8 @@
       "target_block": ""
     },
     "map_tweaks": {
-      "random_adventurer_maps": true,
-      "block_map_markers": true,
+      "random_adventurer_maps": false,
+      "block_map_markers": false,
       "death_marker": "WITH_COMPASS",
       "tinted_blocks_on_maps": true
     },

@@ -1,0 +1,17 @@
+{
+  "requires": ["illagerinvasion"],
+  "content":
+  {
+    "vanilla_hunts_rew": {
+      "type": "item",
+      "rarity": "EPIC",
+      "content": "timefall_coin:coin",
+      "amount": {
+        "min": 5,
+        "max": 10
+      },
+      "unitWorth": 150,
+      "nbt": "{Damage:0}"
+    }
+  }
+}

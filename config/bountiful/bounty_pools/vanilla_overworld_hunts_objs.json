@@ -1,0 +1,100 @@
+{
+  "content": {
+    "vanilla_hunts_zombie": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 6.0,
+      "content": "minecraft:zombie",
+      "amount": {
+        "min": 8,
+        "max": 16
+      },
+      "unitWorth": 250,
+      "weightMult": 0.2
+    },
+    "vanilla_hunts_spider": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 6.0,
+      "content": "minecraft:spider",
+      "amount": {
+        "min": 4,
+        "max": 8
+      },
+      "unitWorth": 275,
+      "weightMult": 0.2
+    },
+    "vanilla_hunts_cave_spider": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 6.0,
+      "content": "minecraft:cave_spider",
+      "amount": {
+        "min": 4,
+        "max": 8
+      },
+      "unitWorth": 275,
+      "weightMult": 0.2
+    },
+    "vanilla_hunts_creeper": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "minecraft:creeper",
+      "amount": {
+        "min": 4,
+        "max": 8
+      },
+      "unitWorth": 550,
+      "weightMult": 0.2
+    },
+    "vanilla_hunts_enderman": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "minecraft:enderman",
+      "amount": {
+        "min": 2,
+        "max": 4
+      },
+      "unitWorth": 550,
+      "weightMult": 0.2
+    },
+    "vanilla_hunts_drowned": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "minecraft:drowned",
+      "amount": {
+        "min": 8,
+        "max": 16
+      },
+      "unitWorth": 550,
+      "weightMult": 0.2
+    },
+    "vanilla_hunts_husk": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "minecraft:husk",
+      "amount": {
+        "min": 8,
+        "max": 16
+      },
+      "unitWorth": 550,
+      "weightMult": 0.2
+    },
+    "vanilla_hunts_skeleton": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "minecraft:skeleton",
+      "amount": {
+        "min": 8,
+        "max": 16
+      },
+      "unitWorth": 550,
+      "weightMult": 0.2
+    }
+  }
+}

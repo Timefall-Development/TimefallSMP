@@ -4,7 +4,7 @@
 			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
-				"CHEST": 6,
+				"CHEST": 5,
 				"HEAD": 2
 			},
 			"toughness": 0.0,
@@ -32,7 +32,7 @@
 			"protection": {
 				"FEET": 1,
 				"LEGS": 3,
-				"CHEST": 5,
+				"CHEST": 4,
 				"HEAD": 1
 			},
 			"toughness": 0.0,
@@ -44,9 +44,9 @@
 		},
 		"SHADOW_WALKER": {
 			"protection": {
-				"FEET": 2,
+				"FEET": 1,
 				"LEGS": 4,
-				"CHEST": 6,
+				"CHEST": 5,
 				"HEAD": 2
 			},
 			"toughness": 0.0,
@@ -114,9 +114,9 @@
 		},
 		"FOX": {
 			"protection": {
-				"FEET": 2,
+				"FEET": 1,
 				"LEGS": 4,
-				"CHEST": 6,
+				"CHEST": 5,
 				"HEAD": 2
 			},
 			"toughness": 0.0,
@@ -128,9 +128,9 @@
 		},
 		"ARCTIC_FOX": {
 			"protection": {
-				"FEET": 2,
+				"FEET": 1,
 				"LEGS": 4,
-				"CHEST": 6,
+				"CHEST": 5,
 				"HEAD": 2
 			},
 			"toughness": 0.0,
@@ -143,8 +143,8 @@
 		"CLIMBING_GEAR": {
 			"protection": {
 				"FEET": 1,
-				"LEGS": 5,
-				"CHEST": 6,
+				"LEGS": 4,
+				"CHEST": 5,
 				"HEAD": 1
 			},
 			"toughness": 0.0,
@@ -282,9 +282,9 @@
 		},
 		"THIEF": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 4,
-				"CHEST": 5,
+				"FEET": 1,
+				"LEGS": 3,
+				"CHEST": 4,
 				"HEAD": 2
 			},
 			"toughness": 0.0,
@@ -296,7 +296,7 @@
 		},
 		"SPIDER": {
 			"protection": {
-				"FEET": 2,
+				"FEET": 1,
 				"LEGS": 4,
 				"CHEST": 5,
 				"HEAD": 2
@@ -311,8 +311,8 @@
 		"SOUL_ROBE": {
 			"protection": {
 				"FEET": 1,
-				"LEGS": 5,
-				"CHEST": 6,
+				"LEGS": 3,
+				"CHEST": 4,
 				"HEAD": 1
 			},
 			"toughness": 2.0,
@@ -324,9 +324,9 @@
 		},
 		"SOULDANCER": {
 			"protection": {
-				"FEET": 2,
-				"LEGS": 5,
-				"CHEST": 6,
+				"FEET": 1,
+				"LEGS": 4,
+				"CHEST": 5,
 				"HEAD": 2
 			},
 			"toughness": 2.0,
@@ -408,10 +408,10 @@
 		},
 		"TELEPORTATION": {
 			"protection": {
-				"FEET": 2,
+				"FEET": 1,
 				"LEGS": 3,
 				"CHEST": 4,
-				"HEAD": 2
+				"HEAD": 1
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -422,10 +422,10 @@
 		},
 		"UNSTABLE": {
 			"protection": {
-				"FEET": 3,
+				"FEET": 1,
 				"LEGS": 4,
 				"CHEST": 5,
-				"HEAD": 3
+				"HEAD": 2
 			},
 			"toughness": 0.0,
 			"knockbackRes": 0.0,
@@ -520,7 +520,7 @@
 		},
 		"SCALE_MAIL": {
 			"protection": {
-				"FEET": 2,
+				"FEET": 1,
 				"LEGS": 4,
 				"CHEST": 5,
 				"HEAD": 2
@@ -702,10 +702,10 @@
 		},
 		"SNOW": {
 			"protection": {
-				"FEET": 3,
-				"LEGS": 5,
-				"CHEST": 7,
-				"HEAD": 3
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 2
 			},
 			"toughness": 2.0,
 			"knockbackRes": 0.0,

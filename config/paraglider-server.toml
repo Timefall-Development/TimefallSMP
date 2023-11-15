@@ -6,7 +6,15 @@ ascendingWinds = true
 #  [block ID]#[property1=value],[property2=value],[property3=value]   (Matches state of the block that has specified properties)
 #  #[Tag ID]   (Matches all blocks with the tag)
 #Same property cannot be specified multiple times. Wind sources with any invalid part will be excluded.
-windSources = ["fire", "soul_fire", "campfire#lit=true", "soul_campfire#lit=true"]
+windSources = [
+	"fire",
+	"soul_fire",
+	"campfire#lit=true",
+	"soul_campfire#lit=true",
+	"clutter:bonefire#lit=true",
+	"clutter:soul_bonefire#lit=true",
+	"lava"
+]
 #Multiplier to horizontal movement speed while paragliding.
 #Value of 0.5 means 50% of the speed, 2.0 means two times the speed and so forth.
 #Range: 0.2 ~ 10.0
@@ -42,21 +50,21 @@ paragliderInTowersOfTheWild = "DEFAULT"
 	#Do note that the maximum health point is capped at value of 1024 (or 512 hearts) by Minecraft's default
 	#attribute system; without modifying these limits, Heart Containers won't give you extra hearts beyond that.
 	#Range: 0 ~ 512
-	maxHeartContainers = 20
+	maxHeartContainers = 0
 	#Maximum amount of stamina Player can get. Do note that one third of this value is equal to one stamina wheel.
 	#Range: > 0
-	maxStamina = 3000
+	maxStamina = 6000
 	#Amount of stamina Player starts with. Values higher than maxStamina doesn't work.
 	#If you want to make starting stamina displayed as one full stamina wheel, this value should be one third of maxStamina.
 	#Range: > 0
-	startingStamina = 1000
+	startingStamina = 2000
 	#Stamina Vessels players need to obtain max out stamina. More vessels means lesser stamina increase per vessel.
 	#Range: > 0
-	maxStaminaVessels = 10
+	maxStaminaVessels = 30
 
 [stamina]
 	#Paragliding will consume stamina.
 	paraglidingConsumesStamina = true
 	#Certain non-paragliding actions, such as running and swimming, will consume stamina.
-	runningAndSwimmingConsumesStamina = false
+	runningAndSwimmingConsumesStamina = true
 

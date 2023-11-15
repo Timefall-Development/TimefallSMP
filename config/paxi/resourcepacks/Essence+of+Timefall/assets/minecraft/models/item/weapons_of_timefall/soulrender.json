@@ -1,0 +1,7 @@
+{
+	"parent": "simplyswords:item/big_handheld",
+	"textures": {
+		"layer0": "minecraft:item/weapons_of_timefall/soulrender",
+		"layer1": "minecraft:item/weapons_of_timefall/soulrender_layer"
+	}
+}

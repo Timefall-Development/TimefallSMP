@@ -1,0 +1,211 @@
+{
+	"inventoryConfig": {
+		"dropPlayerHead": true,
+		"itemLoss": {
+			"enabled": false,
+			"affectStacks": false,
+			"usePercentRange": true,
+			"lossRangeFrom": 0,
+			"lossRangeTo": 100,
+			// Chance of losing an item (iterated over every item picked up by lossRange)
+			"percentChanceOfLoss": 50,
+			// If true, you can lose soulbound items from the item loss feature
+			"canLoseSoulbound": false
+		},
+		"vanishingEnchantments": [
+			"minecraft:vanishing_curse"
+		],
+		"soulboundEnchantments": [
+			"yigd:soulbound"
+		],
+		"loseSoulboundLevelOnDeath": false,
+		"vanishingSlots": [],
+		"soulboundSlots": [],
+		"dropOnGroundSlots": []
+	},
+	"expConfig": {
+		"dropBehaviour": "VANILLA",
+		// Requires dropBehaviour to be set to PERCENTAGE to work
+		"dropPercentage": 50,
+		"keepPercentage": 0
+	},
+	"graveConfig": {
+		"enabled": true,
+		"storeItems": true,
+		"storeXp": true,
+		// Inform player where the grave generated when respawning
+		"informGraveLocation": true,
+		// If true, you HAVE to have one of `requiredItem` for a grave to generate. One of that item will then be consumed
+		"requireItem": false,
+		"requiredItem": "yigd:grave",
+		"requireShovelToLoot": false,
+		"retrieveMethods": {
+			"onClick": true,
+			"onBreak": false,
+			"onSneak": false,
+			"onStand": false
+		},
+		"mergeStacksOnRetrieve": true,
+		"dropOnRetrieve": "IN_INVENTORY",
+		"dropGraveBlock": false,
+		"generateEmptyGraves": false,
+		// Allows everyone to bypass spawn protection for grave blocks
+		"overrideSpawnProtection": true,
+		// Which of the layout in the grave or in your inventory should be prioritized
+		"claimPriority": "GRAVE",
+		"graveRobbing": {
+			"enabled": true,
+			"onlyMurderer": false,
+			"afterTime": 1,
+			"timeUnit": "HOURS",
+			"robPriority": "INVENTORY",
+			"notifyWhenRobbed": true,
+			"tellWhoRobbed": true
+		},
+		"graveTimeout": {
+			"enabled": false,
+			"afterTime": 5,
+			"timeUnit": "HOURS",
+			"dropContentsOnTimeout": true
+		},
+		// If false, layout prioritizing doesn't care if armor is cursed with binding
+		"treatBindingCurse": true,
+		"generateGraveInVoid": true,
+		// Minimum amount of blocks above void a grave can spawn
+		"lowestGraveY": 3,
+		"generateOnlyWithinBorder": true,
+		"ignoredDeathTypes": [],
+		// Allow players to unlock their graves through GUI
+		"unlockable": true,
+		"randomSpawn": {
+			"percentSpawnChance": 0,
+			"spawnEntity": "minecraft:zombie",
+			"spawnNbt": "{ArmorItems:[{},{},{},{id:\"minecraft:player_head\",tag:{SkullOwner:{Name:\"${name}\",Id:\"${uuid}\"}},Count:1b}]}"
+		},
+		"generateOnLastGroundPos": false,
+		"generationMaxDistance": {
+			"x": 5,
+			"y": 5,
+			"z": 5
+		},
+		"useSoftBlockWhitelist": false,
+		"useStrictBlockBlacklist": true,
+		"replaceOldWhenClaimed": true,
+		// If true, graves will persist when claiming them, and right clicking on them after that will let you know when and how they died. Can also then be mined
+		"persistentGraves": {
+			"enabled": false,
+			"showDeathDay": true,
+			"showDeathIrlTime": true,
+			"useAmPm": true
+		},
+		"dimensionBlacklist": [],
+		"blockUnderGrave": {
+			"enabled": true,
+			"blockInDimensions": [
+				{
+					"key": "minecraft:overworld",
+					"value": "minecraft:cobblestone"
+				},
+				{
+					"key": "minecraft:nether",
+					"value": "minecraft:soul_soil"
+				},
+				{
+					"key": "minecraft:end",
+					"value": "minecraft:end_stone"
+				},
+				{
+					"key": "misc",
+					"value": "minecraft:dirt"
+				}
+			],
+			"generateOnProtectedLand": true
+		},
+		// When people leave, should the game let everyone know where they have a grave?
+		"sellOutOfflinePeople": false,
+		// Max amount of backed up graves
+		"maxBackupsPerPerson": 50
+	},
+	"respawnConfig": {
+		// On respawn, all players will receive these effects
+		"respawnEffects": [],
+		// HP given to player at respawn. If 0 or negative, default health will apply
+		"respawnHealth": 20,
+		// If false, player will respawn with the same hunger level as when they died
+		"resetHunger": true,
+		// Hunger given to player at respawn. If negative, default hunger will apply
+		"respawnHunger": 20,
+		// If false, player will respawn with the same saturation level as when they died
+		"resetSaturation": true,
+		// Saturation given to player at respawn. If negative, default saturation will apply
+		"respawnSaturation": 20.0,
+		// Extra items that will be given to player once respawned
+		"extraItemDrops": []
+	},
+	"compatConfig": {
+		// While PUT_IN_GRAVE, other drop rules will be prioritized
+		"standardDropRuleInClaim": "PUT_IN_GRAVE",
+		"enableInventorioCompat": true,
+		// While PUT_IN_GRAVE, other drop rules will be prioritized
+		"defaultInventorioDropRule": "PUT_IN_GRAVE",
+		"enableLevelzCompat": true,
+		// While PUT_IN_GRAVE, other drop rules will be prioritized
+		"defaultLevelzDropRule": "PUT_IN_GRAVE",
+		"enableNumismaticOverhaulCompat": true,
+		// While PUT_IN_GRAVE, other drop rules will be prioritized
+		"defaultNumismaticDropRule": "PUT_IN_GRAVE",
+		"enableOriginsInventoryCompat": true,
+		// While PUT_IN_GRAVE, other drop rules will be prioritized
+		"defaultOriginsDropRule": "PUT_IN_GRAVE",
+		"enableTravelersBackpackCompat": true,
+		// While PUT_IN_GRAVE, other drop rules will be prioritized
+		"defaultTravelersBackpackDropRule": "PUT_IN_GRAVE",
+		"enableTrinketsCompat": true,
+		// While PUT_IN_GRAVE, other drop rules will be prioritized
+		"defaultTrinketsDropRule": "PUT_IN_GRAVE"
+	},
+	"commandConfig": {
+		"mainCommand": "yigd",
+		"basePermissionLevel": 0,
+		"viewLatestPermissionLevel": 0,
+		"viewSelfPermissionLevel": 0,
+		"viewUserPermissionLevel": 2,
+		"viewAllPermissionLevel": 2,
+		"restorePermissionLevel": 2,
+		"robPermissionLevel": 2,
+		"whitelistPermissionLevel": 3,
+		"deletePermissionLevel": 3,
+		"unlockPermissionLevel": 0
+	},
+	// Client only config
+	"graveRendering": {
+		"useCustomFeatureRenderer": true,
+		"useSkullRenderer": true,
+		"useTextRenderer": true,
+		"adaptRenderer": false,
+		"useGlowingEffect": true,
+		"glowingDistance": 15
+	},
+	// Toggleable custom features (registries)
+	"extraFeatures": {
+		"customSoulboundEnchant": true,
+		"deathSightEnchant": {
+			"enabled": false,
+			"range": 64.0,
+			"targets": "PLAYER_GRAVES"
+		},
+		"graveKeys": {
+			"enabled": false,
+			"rebindable": true,
+			"required": true,
+			"receiveOnRespawn": true,
+			"targeting": "PLAYER_GRAVE"
+		},
+		"deathScroll": {
+			"enabled": false,
+			"rebindable": false,
+			"receiveOnRespawn": false,
+			"clickFunction": "VIEW_CONTENTS"
+		}
+	}
+}

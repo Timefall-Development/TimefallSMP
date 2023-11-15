@@ -1,0 +1,138 @@
+{
+  "requires": ["illagerinvasion"],
+  "content":
+  {
+    "illager_invasion_hunts_archivist": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "illagerinvasion:archivist",
+      "amount": {
+        "min": 3,
+        "max": 6
+      },
+      "unitWorth": 550,
+      "weightMult": 0.2
+    },
+    "illager_invasion_hunts_provoker": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "illagerinvasion:provoker",
+      "amount": {
+        "min": 2,
+        "max": 4
+      },
+      "unitWorth": 220,
+      "weightMult": 0.2
+    },
+    "illager_invasion_hunts_alchemist": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "illagerinvasion:alchemist",
+      "amount": {
+        "min": 3,
+        "max": 6
+      },
+      "unitWorth": 550,
+      "weightMult": 0.2
+    },
+    "illager_invasion_hunts_marauder": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "illagerinvasion:marauder",
+      "amount": {
+        "min": 3,
+        "max": 6
+      },
+      "unitWorth": 440,
+      "weightMult": 0.2
+    },
+    "illager_invasion_hunts_sorcerer": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "illagerinvasion:sorcerer",
+      "amount": {
+        "min": 2,
+        "max": 4
+      },
+      "unitWorth": 220,
+      "weightMult": 0.2
+    },
+    "illager_invasion_hunts_basher": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "illagerinvasion:basher",
+      "amount": {
+        "min": 2,
+        "max": 4
+      },
+      "unitWorth": 220,
+      "weightMult": 0.2
+    },
+    "illager_invasion_hunts_firecaller": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "illagerinvasion:firecaller",
+      "amount": {
+        "min": 2,
+        "max": 4
+      },
+      "unitWorth": 220,
+      "weightMult": 0.2
+    },
+    "illager_invasion_hunts_necromancer": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "illagerinvasion:necromancer",
+      "amount": {
+        "min": 2,
+        "max": 4
+      },
+      "unitWorth": 220,
+      "weightMult": 0.2
+    },
+    "illager_invasion_hunts_illusioner": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "illagerinvasion:illusioner",
+      "amount": {
+        "min": 2,
+        "max": 4
+      },
+      "unitWorth": 220,
+      "weightMult": 0.2
+    },
+    "illager_invasion_hunts_inquisitor": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "illagerinvasion:inquisitor",
+      "amount": {
+        "min": 1,
+        "max": 2
+      },
+      "unitWorth": 110,
+      "weightMult": 0.2
+    },
+    "illager_invasion_hunts_invoker": {
+      "type": "entity",
+      "rarity": "EPIC",
+      "timeMult": 7.0,
+      "content": "illagerinvasion:invoker",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1550,
+      "weightMult": 0.2
+    }
+  }
+}

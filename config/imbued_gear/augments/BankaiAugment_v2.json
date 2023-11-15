@@ -1,0 +1,10 @@
+{
+  "id": "imbued_gear:bankai",
+  "enabled": true,
+  "pvpMode": false,
+  "cooldownBase": 300,
+  "coolDownPerLvl": 0,
+  "manaCost": 50,
+  "minLvl": 19,
+  "castXp": 13
+}

@@ -654,14 +654,6 @@
 			"required": false
 		},
 		{
-			"id": "adorn:traders_manual",
-			"required": false
-		},
-		{
-			"id": "adorn:trading_station",
-			"required": false
-		},
-		{
 			"id":"paraglider:heart_container",
 			"required": false
 		},
@@ -692,6 +684,22 @@
 		{
 			"id":"paraglider:horned_statue",
 			"required": false
+		},
+		{
+			"id": "mythicmetals:banglum_nuke_core",
+			"required": false
+		},
+		{
+			"id": "mythicmetals:carmot_nuke_core",
+			"required": false
+		},
+		{
+			"id":"mcdw:bow_bonebow",
+			"required": false
+		},
+		{
+			"id":"mcdw:crossbow_baby_crossbow",
+			"required": false
 		}
-    ]
+	]
 }

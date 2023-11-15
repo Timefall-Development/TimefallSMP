@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "wildlife:morpho_butterfly",
+      "required": false
+    }
+  ]
+}

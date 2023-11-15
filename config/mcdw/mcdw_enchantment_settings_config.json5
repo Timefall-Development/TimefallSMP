@@ -18,7 +18,7 @@
 	},
 	// ENIGMA_RESONATOR_DIVISOR -> Higher number = lower damage. Default value = 3.25.
 	"ENIGMA_RESONATOR_DIVISOR": {
-		"ENIGMA_RESONATOR_DIVISOR": 3.25
+		"ENIGMA_RESONATOR_DIVISOR": 7.5
 	},
 	// Dynamo Stack Cap, Higher number = more potential damage. Default value = 20.
 	"DYNAMO_STACK_CAP": {

@@ -1,0 +1,9 @@
+{
+  "objectives": [
+    "vanilla_illager_hunts_objs"
+  ],
+  "rewards": [
+    "vanilla_illager_hunts_rews"
+  ],
+  "name": "Illager Hunts I"
+}

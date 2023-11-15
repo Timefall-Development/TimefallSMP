@@ -2,7 +2,7 @@
     "boardUpdateFrequency": 45,
     "boardGenFrequency": 2,
     "flatBonusTimePerBounty": 0,
-    "shouldBountiesHaveTimersAndExpire": true,
+    "shouldBountiesHaveTimersAndExpire": false,
     "dataPackExclusions": [
         "bounty_pools/bountiful/example_pool",
         "bounty_pools/*/another_example",

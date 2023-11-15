@@ -1,8 +1,0 @@
-{
-    "filters": [
-        {"id": "emerald_tools:ruby_block_to_gem"},
-        {"id": "emerald_tools:ruby_block_from_gem"},
-        {"id": "emerald_tools:steel_block_to_ingot"},
-        {"id": "emerald_tools:steel_block_from_ingot"}
-    ]
-}

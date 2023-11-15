@@ -10,8 +10,8 @@
 		"cost_type": "LEVEL",
 		"cost_item": "minecraft:ender_pearl",
 		"base_cost": 1,
-		"cost_per_block_distance": 0.009999999776482582,
-		"cost_multiplier_between_dimensions": 2.0
+		"cost_per_block_distance": 0.00025,
+		"cost_multiplier_between_dimensions": 8.0
 	},
 	"discover_with_item": "none",
 	"take_amount_from_discover_item": 0,

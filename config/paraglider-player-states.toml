@@ -10,7 +10,7 @@
 		#Range: > 0
 		recoveryDelay = 10
 		#Range: > -2147483648
-		staminaDelta = -10
+		staminaDelta = -5
 
 	[paraglider.breathing_underwater]
 		#Range: > 0

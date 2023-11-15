@@ -1,5 +1,7 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "q_strac_runic_grimoire"
+  ],
   "tasks": {
     "runic_tablet": {
       "type": "heracles:item",
@@ -19,8 +21,8 @@
       "text": ""
     },
     "description": [
-	"Find a Runic Tablet"
-	],
+      "Find a Runic Tablet"
+    ],
     "groups": {
       "Simply Swords": {
         "position": [

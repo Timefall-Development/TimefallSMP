@@ -1,0 +1,9 @@
+{
+  "objectives": [
+    "vanilla_overworld_hunts_objs"
+  ],
+  "rewards": [
+    "vanilla_overworld_hunts_rews"
+  ],
+  "name": "Overworld Hunts I"
+}

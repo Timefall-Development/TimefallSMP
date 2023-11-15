@@ -15,9 +15,13 @@
 // Items can also be injected into entity loot tables, as seen in the Wither example below.
 // ---------------------------------------------------------------------------------------------------------------------------------- 
 
-  "minecraft:entities/wither": 0.05,
-  "minecraft:entities/ender_dragon": 0.5,
-  "minecraft:chests/ruined_portal": 0.0,
+  "minecraft:entities/wither": 0.01,
+  "minecraft:entities/ender_dragon": 0.25,
+  "amethyst_imbuement:entities/sardonyx_elemental": 0.05,
+  "bosses_of_mass_destruction:chests/obsidilith": 0.25,
+  "bosses_of_mass_destruction:entities/void_blossom": 0.10,
+  "bosses_of_mass_destruction:entities/lich": 0.10,
+  "aquamirae:entities/captain_cornelia": 0.10,
   "minecraft:chests/village/village_armorer": 0.0,
   "minecraft:chests/village/village_butcher": 0.0,
   "minecraft:chests/village/village_cartographer": 0.0,

@@ -1,0 +1,15 @@
+{
+  "content": {
+    "vanilla_hunts_rew": {
+      "type": "item",
+      "rarity": "EPIC",
+      "content": "timefall_coin:coin",
+      "amount": {
+        "min": 3,
+        "max": 5
+      },
+      "unitWorth": 150,
+      "nbt": "{Damage:0}"
+    }
+  }
+}
