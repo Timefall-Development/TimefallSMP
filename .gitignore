@@ -30,3 +30,4 @@ replay_pid*
 /.idea/vcs.xml
 /config/.idea/.gitignore
 /config/axiom/
+/blah.json
