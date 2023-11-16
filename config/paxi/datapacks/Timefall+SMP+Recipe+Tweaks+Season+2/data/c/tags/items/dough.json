@@ -2,19 +2,23 @@
     "replace": false,
     "values": [
         {
+            "id":"bakery:sweet_dough",
+            "required": false
+        },
+        {
+            "id":"bakery:dough",
+            "required": false
+        },
+        {
+            "id":"candlelight:dough",
+            "required": false
+        },
+        {
             "id":"culturaldelights:corn_dough",
             "required": false
         },
         {
             "id":"farmersdelight:wheat_dough",
-            "required": false
-        },
-        {
-            "id":"farmersrespite:nether_wart_sourdough",
-            "required": false
-        },
-        {
-            "id":"vinery:dough",
             "required": false
         }
     ]

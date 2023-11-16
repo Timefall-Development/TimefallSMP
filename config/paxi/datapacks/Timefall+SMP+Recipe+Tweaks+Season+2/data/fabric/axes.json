@@ -1,0 +1,21 @@
+{
+  "replace":false,
+  "values": [
+    {
+      "id":"wands:stone_wand",
+      "required":false
+    },
+    {
+      "id":"wands:iron_wand",
+      "required":false
+    },
+    {
+      "id":"wands:diamond_wand",
+      "required":false
+    },
+    {
+      "id":"wands:netherite_wand",
+      "required":false
+    }
+  ]
+}

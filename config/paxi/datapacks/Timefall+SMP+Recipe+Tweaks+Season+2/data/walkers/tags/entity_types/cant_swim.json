@@ -4,6 +4,10 @@
     {
       "id": "minecraft:skeleton",
       "required": false
+    },
+    {
+      "id": "friendsandfoes:copper_golem",
+      "required": false
     }
   ]
 }

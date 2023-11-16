@@ -2,7 +2,7 @@
   "replace": false,
   "values": [
     {
-      "id": "expandeddelight:ground_salt",
+      "id":"#c:salt",
       "required": false
     }
   ]

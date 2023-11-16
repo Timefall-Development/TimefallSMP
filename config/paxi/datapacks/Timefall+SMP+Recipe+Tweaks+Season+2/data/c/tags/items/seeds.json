@@ -6,6 +6,22 @@
             "required": false
         },
         {
+            "id": "bakery:strawberry_seeds",
+            "required": false
+        },
+        {
+            "id": "bakery:oat_seeds",
+            "required": false
+        },
+        {
+            "id": "candlelight:tomato_seeds",
+            "required": false
+        },
+        {
+            "id": "candlelight:lettuce_seeds",
+            "required": false
+        },
+        {
             "id": "betterend:amber_root_seed",
             "required": false
         },

@@ -39,33 +39,6 @@
         {
           "entity_matches": {
             "attitude": "ANY",
-            "entity_id_regex": "[a-z0-9_.\\-]+:wither$"
-          },
-          "attributes": [
-            {
-              "attribute": "damage",
-              "operation": "MULTIPLY_BASE",
-              "randomness": 0.0,
-              "value": 32.0
-            },
-            {
-              "attribute": "generic.armor",
-              "operation": "ADDITION",
-              "randomness": 0.0,
-              "value": 4.0
-            },
-            {
-              "attribute": "generic.max_health",
-              "operation": "MULTIPLY_BASE",
-              "randomness": 0.1,
-              "value": 4.0
-            }
-          ],
-          "experience_multiplier": 0.2
-        },
-        {
-          "entity_matches": {
-            "attitude": "ANY",
             "entity_id_regex": "minecraft:wither"
           },
           "attributes": [
@@ -499,7 +472,7 @@
           },
           "difficulty": {
             "name": "dungeon",
-            "level": 12
+            "level": 4
           }
         },
         {
@@ -510,7 +483,7 @@
           },
           "difficulty": {
             "name": "dungeon",
-            "level": 12
+            "level": 4
           }
         },
         {
@@ -521,7 +494,7 @@
           },
           "difficulty": {
             "name": "ow_boss",
-            "level": 8
+            "level": 2
           }
         },
         {
@@ -836,7 +809,7 @@
         "dimension_regex": "minecraft:the_nether"
       },
       "difficulty": {
-        "name": "normal",
+        "name": "dungeon",
         "level": 3
       },
       "zones": [
@@ -848,7 +821,7 @@
           },
           "difficulty": {
             "name": "dungeon",
-            "level": 6
+            "level": 4
           }
         },
         {
@@ -935,7 +908,7 @@
         "dimension_regex": "minecraft:the_end"
       },
       "difficulty": {
-        "name": "normal",
+        "name": "dungeon",
         "level": 5
       },
       "zones": [

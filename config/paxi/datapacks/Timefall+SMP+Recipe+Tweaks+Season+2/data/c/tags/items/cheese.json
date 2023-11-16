@@ -18,19 +18,35 @@
             "required":false
         },
         {
-            "id":"brewinandchewin:unripe_flaxen_cheese_wheel",
-            "required":false
-        },
-        {
-            "id":"brewinandchewin:unripe_scarlet_cheese_wheel",
-            "required":false
-        },
-        {
             "id":"expandeddelight:cheese_slice",
             "required":false
         },
         {
-            "id":"expandeddelight:cheese_wheel",
+            "id":"meadow:piece_of_cheese",
+            "required":false
+        },
+        {
+            "id":"meadow:piece_of_sheep_cheese",
+            "required":false
+        },
+        {
+            "id":"meadow:piece_of_grain_cheese",
+            "required":false
+        },
+        {
+            "id":"meadow:piece_of_amethyst_cheese",
+            "required":false
+        },
+        {
+            "id":"meadow:piece_of_buffalo_cheese",
+            "required":false
+        },
+        {
+            "id":"meadow:piece_of_goat_cheese",
+            "required":false
+        },
+        {
+            "id":"meadow:piece_of_warped_cheese",
             "required":false
         },
         {

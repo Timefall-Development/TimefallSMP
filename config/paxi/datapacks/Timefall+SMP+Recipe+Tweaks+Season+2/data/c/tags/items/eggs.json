@@ -2,6 +2,14 @@
     "replace": false,
     "values": [
         {
+            "id":"clutter:kiwi_bird_egg",
+            "required": false
+        },
+        {
+            "id":"clutter:emperor_penguin_egg",
+            "required": false
+        },
+        {
             "id":"goodall:tortoise_egg",
             "required": false
         },

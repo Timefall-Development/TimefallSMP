@@ -2,6 +2,14 @@
   "replace": false,
   "values": [
     {
+      "id": "croptopia:salt",
+      "required": false
+    },
+    {
+      "id": "spelunkery:salt",
+      "required": false
+    },
+    {
       "id": "meadow:alpine_salt",
       "required": false
     },

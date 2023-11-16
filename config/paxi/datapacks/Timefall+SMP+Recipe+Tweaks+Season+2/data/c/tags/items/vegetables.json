@@ -349,35 +349,125 @@
             "id":"with_thursday:potato_pie",
             "required": false
         },
-        "candlelight:lettuce",
-        "croptopia:artichoke",
-        "croptopia:asparagus",
-        "croptopia:bellpepper",
-        "croptopia:broccoli",
-        "croptopia:cabbage",
-        "croptopia:cauliflower",
-        "croptopia:celery",
-        "croptopia:cucumber",
-        "croptopia:eggplant",
-        "croptopia:garlic",
-        "croptopia:ginger",
-        "croptopia:greenbean",
-        "croptopia:greenonion",
-        "croptopia:kale",
-        "croptopia:leek",
-        "croptopia:lettuce",
-        "croptopia:onion",
-        "croptopia:radish",
-        "croptopia:rhubarb",
-        "croptopia:rutabaga",
-        "croptopia:spinach",
-        "croptopia:squash",
-        "croptopia:turnip",
-        "croptopia:zucchini",
-        "culturaldelights:cucumber",
-        "culturaldelights:eggplant",
-        "culturaldelights:white_eggplant",
-        "farmersdelight:onion",
-        "farmersdelight:cabbage_leaf"
+        {
+            "id": "candlelight:lettuce",
+            "required": false
+        },
+        {
+            "id": "croptopia:artichoke",
+            "required": false
+        },
+        {
+            "id": "croptopia:asparagus",
+            "required": false
+        },
+        {
+            "id": "croptopia:bellpepper",
+            "required": false
+        },
+        {
+            "id": "croptopia:broccoli",
+            "required": false
+        },
+        {
+            "id": "croptopia:cabbage",
+            "required": false
+        },
+        {
+            "id": "croptopia:cauliflower",
+            "required": false
+        },
+        {
+            "id": "croptopia:celery",
+            "required": false
+        },
+        {
+            "id": "croptopia:cucumber",
+            "required": false
+        },
+        {
+            "id": "croptopia:eggplant",
+            "required": false
+        },
+        {
+            "id": "croptopia:garlic",
+            "required": false
+        },
+        {
+            "id": "croptopia:ginger",
+            "required": false
+        },
+        {
+            "id": "croptopia:greenbean",
+            "required": false
+        },
+        {
+            "id": "croptopia:greenonion",
+            "required": false
+        },
+        {
+            "id": "croptopia:kale",
+            "required": false
+        },
+        {
+            "id": "croptopia:leek",
+            "required": false
+        },
+        {
+            "id": "croptopia:lettuce",
+            "required": false
+        },
+        {
+            "id": "croptopia:onion",
+            "required": false
+        },
+        {
+            "id": "croptopia:radish",
+            "required": false
+        },
+        {
+            "id": "croptopia:rhubarb",
+            "required": false
+        },
+        {
+            "id": "croptopia:rutabaga",
+            "required": false
+        },
+        {
+            "id": "croptopia:spinach",
+            "required": false
+        },
+        {
+            "id": "croptopia:squash",
+            "required": false
+        },
+        {
+            "id": "croptopia:turnip",
+            "required": false
+        },
+        {
+            "id": "croptopia:zucchini",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:cucumber",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:eggplant",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:white_eggplant",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:onion",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:cabbage_leaf",
+            "required": false
+        }
     ]
 }
