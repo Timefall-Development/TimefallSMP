@@ -2,15 +2,27 @@
   "replace": false,
   "values": [
     {
-      "id": "amethyst_imbuement:basic_hamster",
-      "required": false
-    },
-    {
       "id": "minecraft:bat",
       "required": false
     },
     {
+      "id": "minecraft:fox",
+      "required": false
+    },
+    {
+      "id": "minecraft:sheep",
+      "required": false
+    },
+    {
+      "id": "minecraft:skeleton",
+      "required": false
+    },
+    {
       "id": "minecraft:parrot",
+      "required": false
+    },
+    {
+      "id": "amethyst_imbuement:basic_hamster",
       "required": false
     },
     {

@@ -1,0 +1,488 @@
+{
+  "replace": false,
+  "value": [
+    {
+      "id": "aquamirae:anglerfish",
+      "required": false
+    },
+    {
+      "id": "aquamirae:maw",
+      "required": false
+    },
+    {
+      "id": "aquamirae:maze_mother",
+      "required": false
+    },
+    {
+      "id": "aquamirae:spinefish",
+      "required": false
+    },
+    {
+      "id": "betterend:cubozoa",
+      "required": false
+    },
+    {
+      "id": "betterend:end_fish",
+      "required": false
+    },
+    {
+      "id": "betterend:end_slime",
+      "required": false
+    },
+    {
+      "id": "clutter:beaver",
+      "required": false
+    },
+    {
+      "id": "clutter:chameleon",
+      "required": false
+    },
+    {
+      "id": "clutter:echofin",
+      "required": false
+    },
+    {
+      "id": "clutter:emperor_penguin",
+      "required": false
+    },
+    {
+      "id": "clutter:kiwi_bird",
+      "required": false
+    },
+    {
+      "id": "clutter:mossbloom",
+      "required": false
+    },{
+      "id": "fennecfox:fennecfox",
+      "required": false
+    },
+    {
+      "id": "friendsandfoes:glare",
+      "required": false
+    },
+    {
+      "id": "friendsandfoes:mauler",
+      "required": false
+    },
+    {
+      "id": "friendsandfoes:moobloom",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:acencia",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:archelon",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:coleytra",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:direwolf",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:dragon",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:firebird",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:geckotoalizard",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:griffon",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:moth",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:netherbat",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:nightmare",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:nudibranch",
+      "required": false
+    },
+    {
+      "id": "mythicmounts:ridinglizard",
+      "required": false
+    },
+    {
+      "id": "meadow:brown_bear",
+      "required": false
+    },
+    {
+      "id": "meadow:water_buffalo",
+      "required": false
+    },
+    {
+      "id": "meadow:wooly_cow",
+      "required": false
+    },
+    {
+      "id": "mythicmobs:chupacabra",
+      "required": false
+    },
+    {
+      "id": "mythicmobs:drake",
+      "required": false
+    },
+    {
+      "id": "mythicmobs:kobold",
+      "required": false
+    },
+    {
+      "id": "mythicmobs:kobold_warrior",
+      "required": false
+    },
+    {
+      "id": "mythicmobs:mushroom_thing",
+      "required": false
+    },
+    {
+      "id": "naturalist:alligator",
+      "required": false
+    },
+    {
+      "id": "naturalist:bass",
+      "required": false
+    },
+    {
+      "id": "naturalist:bear",
+      "required": false
+    },
+    {
+      "id": "naturalist:bluejay",
+      "required": false
+    },
+    {
+      "id": "naturalist:boar",
+      "required": false
+    },
+    {
+      "id": "naturalist:canary",
+      "required": false
+    },
+    {
+      "id": "naturalist:cardinal",
+      "required": false
+    },
+    {
+      "id": "naturalist:caterpillar",
+      "required": false
+    },
+    {
+      "id": "naturalist:catfish",
+      "required": false
+    },
+    {
+      "id": "naturalist:coral_snake",
+      "required": false
+    },
+    {
+      "id": "naturalist:deer",
+      "required": false
+    },
+    {
+      "id": "naturalist:duck",
+      "required": false
+    },
+    {
+      "id": "naturalist:finch",
+      "required": false
+    },
+    {
+      "id": "naturalist:elephant",
+      "required": false
+    },
+    {
+      "id": "naturalist:giraffe",
+      "required": false
+    },
+    {
+      "id": "naturalist:hippo",
+      "required": false
+    },
+    {
+      "id": "naturalist:rhino",
+      "required": false
+    },
+    {
+      "id": "naturalist:lion",
+      "required": false
+    },
+    {
+      "id": "naturalist:lizard",
+      "required": false
+    },
+    {
+      "id": "naturalist:rattlesnake",
+      "required": false
+    },
+    {
+      "id": "naturalist:robin",
+      "required": false
+    },
+    {
+      "id": "naturalist:snake",
+      "required": false
+    },
+    {
+      "id": "naturalist:sparrow",
+      "required": false
+    },
+    {
+      "id": "naturalist:tortoise",
+      "required": false
+    },
+    {
+      "id": "naturalist:vulture",
+      "required": false
+    },
+    {
+      "id": "naturalist:zebra",
+      "required": false
+    },
+    {
+      "id": "vinery:mule",
+      "required": false
+    },
+    {
+      "id": "wildlife:alligator",
+      "required": false
+    },
+    {
+      "id": "wildlife:anglerfish",
+      "required": false
+    },
+    {
+      "id": "wildlife:anteater",
+      "required": false
+    },
+    {
+      "id": "wildlife:armadillo",
+      "required": false
+    },
+    {
+      "id": "wildlife:badger",
+      "required": false
+    },
+    {
+      "id": "wildlife:beaver",
+      "required": false
+    },
+    {
+      "id": "wildlife:bettafish",
+      "required": false
+    },
+    {
+      "id": "wildlife:bluebird",
+      "required": false
+    },
+    {
+      "id": "wildlife:bluegill",
+      "required": false
+    },
+    {
+      "id": "wildlife:capybara",
+      "required": false
+    },
+    {
+      "id": "wildlife:catfish",
+      "required": false
+    },
+    {
+      "id": "wildlife:chameleon",
+      "required": false
+    },
+    {
+      "id": "wildlife:chickadee",
+      "required": false
+    },
+    {
+      "id": "wildlife:clam",
+      "required": false
+    },
+    {
+      "id": "wildlife:cottonbird",
+      "required": false
+    },
+    {
+      "id": "wildlife:crab",
+      "required": false
+    },
+    {
+      "id": "wildlife:deer",
+      "required": false
+    },
+    {
+      "id": "wildlife:ferret",
+      "required": false
+    },
+    {
+      "id": "wildlife:flycatcher",
+      "required": false
+    },
+    {
+      "id": "wildlife:gecko",
+      "required": false
+    },
+    {
+      "id": "wildlife:glow_jellyfish",
+      "required": false
+    },
+    {
+      "id": "wildlife:goldfinch",
+      "required": false
+    },
+    {
+      "id": "wildlife:goldfish",
+      "required": false
+    },
+    {
+      "id": "wildlife:grass_snake",
+      "required": false
+    },
+    {
+      "id": "wildlife:hammerhead_shark",
+      "required": false
+    },
+    {
+      "id": "wildlife:hamster",
+      "required": false
+    },
+    {
+      "id": "wildlife:hedgehog",
+      "required": false
+    },
+    {
+      "id": "wildlife:hermitcrab",
+      "required": false
+    },
+    {
+      "id": "wildlife:horseshoecrab",
+      "required": false
+    },
+    {
+      "id": "wildlife:iguana",
+      "required": false
+    },
+    {
+      "id": "wildlife:jellyfish",
+      "required": false
+    },
+    {
+      "id": "wildlife:king_snake",
+      "required": false
+    },
+    {
+      "id": "wildlife:lark",
+      "required": false
+    },
+    {
+      "id": "wildlife:mantaray",
+      "required": false
+    },
+    {
+      "id": "wildlife:meadowlark",
+      "required": false
+    },
+    {
+      "id": "wildlife:milk_snake",
+      "required": false
+    },
+    {
+      "id": "wildlife:monkey",
+      "required": false
+    },
+    {
+      "id": "wildlife:oriole",
+      "required": false
+    },
+    {
+      "id": "wildlife:phoebe",
+      "required": false
+    },
+    {
+      "id": "wildlife:porcupine",
+      "required": false
+    },
+    {
+      "id": "wildlife:possum",
+      "required": false
+    },
+    {
+      "id": "wildlife:prawn",
+      "required": false
+    },
+    {
+      "id": "wildlife:python",
+      "required": false
+    },
+    {
+      "id": "wildlife:rainbow_trout",
+      "required": false
+    },
+    {
+      "id": "wildlife:robin",
+      "required": false
+    },
+    {
+      "id": "wildlife:sanddollar",
+      "required": false
+    },
+    {
+      "id": "wildlife:seahorse",
+      "required": false
+    },
+    {
+      "id": "wildlife:seaurchin",
+      "required": false
+    },
+    {
+      "id": "wildlife:shrimp",
+      "required": false
+    },
+    {
+      "id": "wildlife:sparrow",
+      "required": false
+    },
+    {
+      "id": "wildlife:starfish",
+      "required": false
+    },
+    {
+      "id": "wildlife:stingray",
+      "required": false
+    },
+    {
+      "id": "wildlife:swallow",
+      "required": false
+    },
+    {
+      "id": "wildlife:towhee",
+      "required": false
+    },
+    {
+      "id": "wildlife:white_eye",
+      "required": false
+    },
+    {
+      "id": "wildlife:wren",
+      "required": false
+    }
+  ]
+}

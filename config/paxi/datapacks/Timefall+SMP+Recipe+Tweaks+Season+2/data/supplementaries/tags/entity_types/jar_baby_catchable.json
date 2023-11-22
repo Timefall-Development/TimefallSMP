@@ -1,0 +1,105 @@
+{
+  "replace": false,
+  "value": [
+    {
+      "id": "betterend:dragonfly",
+      "required": false
+    },
+    {
+      "id": "betterend:silk_moth",
+      "required": false
+    },
+    {
+      "id": "clutter:butterfly",
+      "required": false
+    },
+    {
+      "id": "endermanoverhaul:scarab",
+      "required": false
+    },
+    {
+      "id": "endermanoverhaul:spirit",
+      "required": false
+    },
+    {
+      "id": "naturalist:butterfly",
+      "required": false
+    },
+    {
+      "id": "naturalist:dragonfly",
+      "required": false
+    },
+    {
+      "id": "naturalist:firefly",
+      "required": false
+    },
+    {
+      "id": "naturalist:snail",
+      "required": false
+    },
+    {
+      "id": "wildlife:ant",
+      "required": false
+    },
+    {
+      "id": "wildlife:cricket",
+      "required": false
+    },
+    {
+      "id": "wildlife:dragonfly",
+      "required": false
+    },
+    {
+      "id": "wildlife:glasswing_butterfly",
+      "required": false
+    },
+    {
+      "id": "wildlife:june_beetle",
+      "required": false
+    },
+    {
+      "id": "wildlife:ladybug",
+      "required": false
+    },
+    {
+      "id": "wildlife:monarch_butterfly",
+      "required": false
+    },
+    {
+      "id": "wildlife:morpho_butterfly",
+      "required": false
+    },
+    {
+      "id": "wildlife:rhino_beetle",
+      "required": false
+    },
+    {
+      "id": "wildlife:snail",
+      "required": false
+    },
+    {
+      "id": "wildlife:spicebush_butterfl",
+      "required": false
+    },
+    {
+      "id": "wildlife:spide",
+      "required": false
+    },
+    {
+      "id": "wildlife:staghorn_beetle",
+      "required": false
+    },
+    {
+      "id": "wildlife:stickbug",
+      "required": false
+    },
+    {
+      "id": "wildlife:sunflowerbeetle",
+      "required": false
+    },
+    {
+      "id": "wildlife:tiger_butterfly",
+      "required": false
+    }
+  ]
+}

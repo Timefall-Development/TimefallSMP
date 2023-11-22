@@ -34,12 +34,12 @@
   },
   "difficulty_types": [
     {
-      "name": "normal",
+      "name": "overworld",
       "entities": [
         {
           "entity_matches": {
             "attitude": "ANY",
-            "entity_id_regex": "minecraft:wither"
+            "entity_id_regex": "minecraft:wither$"
           },
           "attributes": [
             {
@@ -107,37 +107,11 @@
             }
           ],
           "experience_multiplier": 0.2
-        }
-      ],
-      "rewards": {
-        "armor": [],
-        "weapons": []
-      }
-    },
-    {
-      "name": "dungeon",
-      "parent": "normal",
-      "entities": [
-        {
-          "entity_matches": {
-            "attitude": "ANY",
-            "entity_id_regex": ".*"
-          },
-          "attributes": [],
-          "spawners": {
-            "spawn_range_multiplier": 0.0,
-            "spawn_count_multiplier": 0.5,
-            "max_nearby_entities_multiplier": 0.0,
-            "min_spawn_delay_multiplier": -0.2,
-            "max_spawn_delay_multiplier": -0.2,
-            "required_player_range_multiplier": 0.0
-          },
-          "experience_multiplier": 0.0
         },
         {
           "entity_matches": {
             "attitude": "ANY",
-            "entity_id_regex": "minecraft:wither"
+            "entity_id_regex": ".*"
           },
           "attributes": [
             {
@@ -155,28 +129,24 @@
             {
               "attribute": "generic.max_health",
               "operation": "MULTIPLY_BASE",
-              "randomness": 0.1,
-              "value": 4.0
-            },
-            {
-              "attribute": "amethyst_core:damage_multiplication",
-              "operation": "MULTIPLY_BASE",
-              "randomness": 0.1,
-              "value": -0.05
-            },
-            {
-              "attribute": "amethyst_core:magic_resistance",
-              "operation": "MULTIPLY_BASE",
-              "randomness": 0.1,
-              "value": 0.4
+              "randomness": 0.0,
+              "value": 0.0
             }
           ],
-          "experience_multiplier": 0.2
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.5,
+            "max_nearby_entities_multiplier": 0.0,
+            "min_spawn_delay_multiplier": -0.2,
+            "max_spawn_delay_multiplier": -0.2,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.0
         },
         {
           "entity_matches": {
             "attitude": "ANY",
-            "entity_id_regex": "minecraft:warden"
+            "entity_id_regex": "minecraft:warden$"
           },
           "attributes": [
             {
@@ -211,60 +181,7 @@
             }
           ],
           "experience_multiplier": 0.2
-        }
-      ],
-      "rewards": {
-        "armor": [
-          {
-            "item_matches": {
-              "item_id_regex": ".*",
-              "loot_table_regex": ".*",
-              "rarity_regex": ".*"
-            },
-            "attributes": [
-              {
-                "attribute": "generic.armor",
-                "operation": "MULTIPLY_BASE",
-                "randomness": 0.0,
-                "value": 0.1
-              },
-              {
-                "attribute": "generic.max_health",
-                "operation": "ADDITION",
-                "randomness": 0.0,
-                "value": 1.0
-              }
-            ]
-          }
-        ],
-        "weapons": [
-          {
-            "item_matches": {
-              "item_id_regex": ".*",
-              "loot_table_regex": ".*",
-              "rarity_regex": ".*"
-            },
-            "attributes": [
-              {
-                "attribute": "damage",
-                "operation": "MULTIPLY_BASE",
-                "randomness": 0.05,
-                "value": 0.15
-              },
-              {
-                "attribute": "power",
-                "operation": "MULTIPLY_BASE",
-                "randomness": 0.05,
-                "value": 0.15
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "name": "ow_boss",
-      "entities": [
+        },
         {
           "entity_matches": {
             "attitude": "ANY",
@@ -309,6 +226,977 @@
         "armor": [],
         "weapons": []
       }
+    },
+    {
+      "name": "nether",
+      "entities": [
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "minecraft:wither$"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 4.0
+            },
+            {
+              "attribute": "amethyst_core:damage_multiplication",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": -0.05
+            },
+            {
+              "attribute": "amethyst_core:magic_resistance",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 0.4
+            }
+          ],
+          "experience_multiplier": 0.2
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "amethyst_imbuement:sardonyx_golem"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 1.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 6.0
+            },
+            {
+              "attribute": "generic.armor_toughness",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 12.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 2.0
+            }
+          ],
+          "experience_multiplier": 0.2
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "^.*(minecraft:ghast)"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            }
+          ],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.5,
+            "max_nearby_entities_multiplier": 0.0,
+            "min_spawn_delay_multiplier": -0.2,
+            "max_spawn_delay_multiplier": -0.2,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.0
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "minecraft:warden$"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 4.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 6.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 6.0
+            },
+            {
+              "attribute": "amethyst_core:damage_multiplication",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": -0.05
+            },
+            {
+              "attribute": "amethyst_core:magic_resistance",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 0.4
+            }
+          ],
+          "experience_multiplier": 0.2
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "^(.*:(?!ghast).*)"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            }
+          ],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.5,
+            "max_nearby_entities_multiplier": 0.0,
+            "min_spawn_delay_multiplier": -0.2,
+            "max_spawn_delay_multiplier": -0.2,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.0
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "^(.*:(?!blaze).*)"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            }
+          ],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.5,
+            "max_nearby_entities_multiplier": 0.0,
+            "min_spawn_delay_multiplier": -0.2,
+            "max_spawn_delay_multiplier": -0.2,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.0
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "^.*(minecraft:blaze)"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 0.0
+            }
+          ],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.5,
+            "max_nearby_entities_multiplier": 0.0,
+            "min_spawn_delay_multiplier": -0.2,
+            "max_spawn_delay_multiplier": -0.2,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.0
+        }
+      ],
+      "rewards": {
+        "armor": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "generic.armor",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.0,
+                "value": 0.05
+              }
+            ]
+          }
+        ],
+        "weapons": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "damage",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.05
+              },
+              {
+                "attribute": "power",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.05
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "end",
+      "entities": [
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "minecraft:wither$"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 40.0
+            },
+            {
+              "attribute": "amethyst_core:damage_multiplication",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": -0.05
+            },
+            {
+              "attribute": "amethyst_core:magic_resistance",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 0.4
+            }
+          ],
+          "experience_multiplier": 0.2
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "^.*(minecraft:shulker$)"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 0.0
+            }
+          ],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.5,
+            "max_nearby_entities_multiplier": 0.0,
+            "min_spawn_delay_multiplier": -0.2,
+            "max_spawn_delay_multiplier": -0.2,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.0
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "^(.*:(?!shulker).*)"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 1.0
+            }
+          ],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.5,
+            "max_nearby_entities_multiplier": 0.0,
+            "min_spawn_delay_multiplier": -0.2,
+            "max_spawn_delay_multiplier": -0.2,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.0
+        }
+      ],
+      "rewards": {
+        "armor": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "generic.armor",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.0,
+                "value": 0.025
+              }
+            ]
+          }
+        ],
+        "weapons": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "damage",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.025,
+                "value": 0.025
+              },
+              {
+                "attribute": "power",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.025,
+                "value": 0.025
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "bosses_overworld",
+      "entities": [
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "minecraft:wither$"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 4.0
+            },
+            {
+              "attribute": "amethyst_core:damage_multiplication",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": -0.05
+            },
+            {
+              "attribute": "amethyst_core:magic_resistance",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 0.4
+            }
+          ],
+          "experience_multiplier": 0.2
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "amethyst_imbuement:sardonyx_golem"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 1.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 6.0
+            },
+            {
+              "attribute": "generic.armor_toughness",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 12.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 2.0
+            }
+          ],
+          "experience_multiplier": 0.2
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": ".*"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 3.0
+            }
+          ],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.5,
+            "max_nearby_entities_multiplier": 0.0,
+            "min_spawn_delay_multiplier": -0.2,
+            "max_spawn_delay_multiplier": -0.2,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.0
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "minecraft:warden$"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 4.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 6.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 6.0
+            },
+            {
+              "attribute": "amethyst_core:damage_multiplication",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": -0.05
+            },
+            {
+              "attribute": "amethyst_core:magic_resistance",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 0.4
+            }
+          ],
+          "experience_multiplier": 0.2
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "bosses_of_mass_destruction:*"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 64.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 4.0
+            },
+            {
+              "attribute": "amethyst_core:damage_multiplication",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": -0.05
+            },
+            {
+              "attribute": "amethyst_core:magic_resistance",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 0.1
+            }
+          ],
+          "experience_multiplier": 0.2
+        }
+      ],
+      "rewards": {
+        "armor": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "generic.armor",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.0,
+                "value": 0.05
+              }
+            ]
+          }
+        ],
+        "weapons": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "damage",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.05
+              },
+              {
+                "attribute": "power",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.05
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "bosses_nether",
+      "entities": [
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "minecraft:wither$"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 4.0
+            },
+            {
+              "attribute": "amethyst_core:damage_multiplication",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": -0.05
+            },
+            {
+              "attribute": "amethyst_core:magic_resistance",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 0.4
+            }
+          ],
+          "experience_multiplier": 0.2
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": ".*"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 4.0
+            }
+          ],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.5,
+            "max_nearby_entities_multiplier": 0.0,
+            "min_spawn_delay_multiplier": -0.2,
+            "max_spawn_delay_multiplier": -0.2,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.0
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "bosses_of_mass_destruction:*"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 64.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 4.0
+            },
+            {
+              "attribute": "amethyst_core:damage_multiplication",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": -0.05
+            },
+            {
+              "attribute": "amethyst_core:magic_resistance",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 0.1
+            }
+          ],
+          "experience_multiplier": 0.2
+        }
+      ],
+      "rewards": {
+        "armor": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "generic.armor",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.1
+              }
+            ]
+          }
+        ],
+        "weapons": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "damage",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.1
+              },
+              {
+                "attribute": "power",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "bosses_end",
+      "entities": [
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "minecraft:wither$"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 2.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 40.0
+            },
+            {
+              "attribute": "amethyst_core:damage_multiplication",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": -0.05
+            },
+            {
+              "attribute": "amethyst_core:magic_resistance",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 0.4
+            }
+          ],
+          "experience_multiplier": 0.2
+        },
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": "bosses_of_mass_destruction:*"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 64.0
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 0.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 4.0
+            },
+            {
+              "attribute": "amethyst_core:damage_multiplication",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": -0.05
+            },
+            {
+              "attribute": "amethyst_core:magic_resistance",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 0.1
+            }
+          ],
+          "experience_multiplier": 0.2
+        }
+      ],
+      "rewards": {
+        "armor": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "generic.armor",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.0,
+                "value": 0.33
+              }
+            ]
+          }
+        ],
+        "weapons": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "damage",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.1,
+                "value": 0.33
+              },
+              {
+                "attribute": "power",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.1,
+                "value": 0.33
+              }
+            ]
+          }
+        ]
+      }
     }
   ],
   "dimensions": [
@@ -317,7 +1205,7 @@
         "dimension_regex": "minecraft:overworld"
       },
       "difficulty": {
-        "name": "normal",
+        "name": "overworld",
         "level": 1
       },
       "zones": [
@@ -328,7 +1216,7 @@
             "structure_id": "betterstrongholds:stronghold"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 4
           }
         },
@@ -339,7 +1227,7 @@
             "structure_id": "betterdungeons:skeleton_dungeon"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 2
           }
         },
@@ -350,7 +1238,7 @@
             "structure_id": "betterdungeons:small_dungeon"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 2
           }
         },
@@ -361,7 +1249,7 @@
             "structure_id": "betterdungeons:spider_dungeon"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 2
           }
         },
@@ -372,7 +1260,7 @@
             "structure_id": "betterdungeons:zombie_dungeon"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 2
           }
         },
@@ -383,7 +1271,7 @@
             "structure_id": "jungle_pyramid"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 2
           }
         },
@@ -394,7 +1282,7 @@
             "structure_id": "pillager_outpost"
           },
           "difficulty": {
-            "name": "normal",
+            "name": "overworld",
             "level": 2
           }
         },
@@ -405,7 +1293,7 @@
             "structure_id": "soulsweapons:cathedral_of_resurrection"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 4
           }
         },
@@ -416,7 +1304,7 @@
             "structure_id": "soulsweapons:champions_graves"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 4
           }
         },
@@ -427,7 +1315,7 @@
             "structure_id": "soulsweapons:corrupt_altar"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 4
           }
         },
@@ -438,7 +1326,7 @@
             "structure_id": "soulsweapons:decaying_kingdom"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 4
           }
         },
@@ -449,7 +1337,7 @@
             "structure_id": "bosses_of_mass_destruction:lich_tower"
           },
           "difficulty": {
-            "name": "ow_boss",
+            "name": "overworld",
             "level": 7
           }
         },
@@ -460,7 +1348,7 @@
             "structure_id": "bosses_of_mass_destruction:void_blossom"
           },
           "difficulty": {
-            "name": "ow_boss",
+            "name": "overworld",
             "level": 6
           }
         },
@@ -471,7 +1359,7 @@
             "structure_id": "aquamirae:ice_maze/arch"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 4
           }
         },
@@ -482,7 +1370,7 @@
             "structure_id": "aquamirae:ice_maze/common"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 4
           }
         },
@@ -493,7 +1381,7 @@
             "structure_id": "aquamirae:ice_maze/spiral"
           },
           "difficulty": {
-            "name": "ow_boss",
+            "name": "overworld",
             "level": 2
           }
         },
@@ -504,7 +1392,7 @@
             "structure_id": "aquamirae:outpost"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 2
           }
         },
@@ -515,7 +1403,7 @@
             "structure_id": "aquamirae:ship"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 2
           }
         },
@@ -526,7 +1414,7 @@
             "structure_id": "philipsruins:ancient_crypt"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 6
           }
         },
@@ -537,7 +1425,7 @@
             "structure_id": "philipsruins:antiquus_crypta"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 6
           }
         },
@@ -548,7 +1436,7 @@
             "structure_id": "philipsruins:badlands_start_dungeon"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 4
           }
         },
@@ -559,7 +1447,7 @@
             "structure_id": "philipsruins:badlands_structures"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 6
           }
         },
@@ -570,7 +1458,7 @@
             "structure_id": "philipsruins:bone_dungeon"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 6
           }
         },
@@ -581,7 +1469,7 @@
             "structure_id": "philipsruins:field_stone_ruins"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 6
           }
         },
@@ -592,7 +1480,7 @@
             "structure_id": "philipsruins:field_stone_ruins_rocks"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 6
           }
         },
@@ -603,7 +1491,7 @@
             "structure_id": "philipsruins:level_one_ruins"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 4
           }
         },
@@ -614,7 +1502,7 @@
             "structure_id": "philipsruins:level_two_ruins"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 6
           }
         },
@@ -625,7 +1513,7 @@
             "structure_id": "philipsruins:level_two_ruins_pool"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 6
           }
         },
@@ -636,7 +1524,7 @@
             "structure_id": "philipsruins:level_three_ruins"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 8
           }
         },
@@ -647,7 +1535,7 @@
             "structure_id": "philipsruins:lost_soul_city"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 8
           }
         },
@@ -658,7 +1546,7 @@
             "structure_id": "philipsruins:lost_soul_dungeon"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 8
           }
         },
@@ -669,7 +1557,7 @@
             "structure_id": "philipsruins:ocean_fortress"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 8
           }
         },
@@ -680,7 +1568,7 @@
             "structure_id": "philipsruins:ocean_ruins"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 6
           }
         },
@@ -691,7 +1579,7 @@
             "structure_id": "philipsruins:rare_ruin"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 6
           }
         },
@@ -702,7 +1590,7 @@
             "structure_id": "philipsruins:sculk_dungeon"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 8
           }
         },
@@ -713,7 +1601,7 @@
             "structure_id": "graveyard:lich_prison"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 8
           }
         },
@@ -724,7 +1612,7 @@
             "structure_id": "graveyard:haunted_house"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 8
           }
         },
@@ -735,7 +1623,7 @@
             "structure_id": "graveyard:crypt"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 8
           }
         },
@@ -746,7 +1634,7 @@
             "structure_id": "graveyard:ruins"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 8
           }
         },
@@ -757,7 +1645,7 @@
             "structure_id": "tlc:lost_castle"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "overworld",
             "level": 8
           }
         },
@@ -768,7 +1656,7 @@
             "structure_id": "amethyst_imbuement:witch_house"
           },
           "difficulty": {
-            "name": "normal",
+            "name": "overworld",
             "level": 1
           }
         },
@@ -778,7 +1666,7 @@
             "biome_tag_regex": ".*"
           },
           "difficulty": {
-            "name": "normal",
+            "name": "overworld",
             "level": 1
           }
         },
@@ -788,7 +1676,7 @@
             "biome_tag_regex": ".*"
           },
           "difficulty": {
-            "name": "normal",
+            "name": "overworld",
             "level": 1
           }
         },
@@ -798,7 +1686,7 @@
             "biome_tag_regex": ".*"
           },
           "difficulty": {
-            "name": "normal",
+            "name": "overworld",
             "level": 1
           }
         }
@@ -809,8 +1697,8 @@
         "dimension_regex": "minecraft:the_nether"
       },
       "difficulty": {
-        "name": "dungeon",
-        "level": 3
+        "name": "nether",
+        "level": 2
       },
       "zones": [
         {
@@ -820,8 +1708,8 @@
             "structure_id": "betterfortresses:fortress"
           },
           "difficulty": {
-            "name": "dungeon",
-            "level": 4
+            "name": "nether",
+            "level": 3
           }
         },
         {
@@ -831,8 +1719,8 @@
             "structure_id": "bastion_remnant"
           },
           "difficulty": {
-            "name": "dungeon",
-            "level": 6
+            "name": "nether",
+            "level": 3
           }
         },
         {
@@ -842,8 +1730,8 @@
             "structure_id": "betterdungeons:small_nether_dungeon"
           },
           "difficulty": {
-            "name": "dungeon",
-            "level": 6
+            "name": "nether",
+            "level": 2
           }
         },
         {
@@ -853,7 +1741,7 @@
             "structure_id": "bosses_of_mass_destruction:gauntlet_arena"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "nether",
             "level": 7
           }
         },
@@ -864,8 +1752,8 @@
             "structure_id": "philipsruins:nether_lava_ruins"
           },
           "difficulty": {
-            "name": "dungeon",
-            "level": 8
+            "name": "nether",
+            "level": 4
           }
         },
         {
@@ -875,8 +1763,8 @@
             "structure_id": "philipsruins:sealedruinedghaststatue1"
           },
           "difficulty": {
-            "name": "dungeon",
-            "level": 8
+            "name": "nether",
+            "level": 4
           }
         },
         {
@@ -886,8 +1774,8 @@
             "structure_id": "philipsruins:start_nether_dungeon"
           },
           "difficulty": {
-            "name": "dungeon",
-            "level": 4
+            "name": "nether",
+            "level": 2
           }
         },
         {
@@ -897,8 +1785,19 @@
             "structure_id": "philipsruins:start_nether_ruin"
           },
           "difficulty": {
-            "name": "dungeon",
-            "level": 8
+            "name": "nether",
+            "level": 4
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "explorify:black_spiral"
+          },
+          "difficulty": {
+            "name": "nether",
+            "level": 4
           }
         }
       ]
@@ -908,18 +1807,18 @@
         "dimension_regex": "minecraft:the_end"
       },
       "difficulty": {
-        "name": "dungeon",
-        "level": 5
+        "name": "end",
+        "level": 3
       },
       "zones": [
         {
           "zone_matches": {
             "biome_regex": ".*",
             "biome_tag_regex": ".*",
-            "structure_id": "end_city"
+            "structure_id": "minecraft:end_city"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "end",
             "level": 6
           }
         },
@@ -930,8 +1829,8 @@
             "structure_id": "bosses_of_mass_destruction:obsidilith_arena"
           },
           "difficulty": {
-            "name": "dungeon",
-            "level": 11
+            "name": "bosses_end",
+            "level": 2
           }
         },
         {
@@ -941,8 +1840,8 @@
             "structure_id": "philipsruins:end_gate_fortress"
           },
           "difficulty": {
-            "name": "dungeon",
-            "level": 6
+            "name": "end",
+            "level": 4
           }
         },
         {
@@ -952,7 +1851,7 @@
             "structure_id": "philipsruins:end_ruins"
           },
           "difficulty": {
-            "name": "dungeon",
+            "name": "end",
             "level": 6
           }
         }
